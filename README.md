@@ -1,2 +1,41 @@
-# Ionical_conductivity_database
-Extracting Chemical Information From Scientific Literature Using Text Mining: Building an Ionic Conductivity Database
+# Ionical_conductivity_database 🔋
+  **Ionical_conductivity_database** is tools for extracting ionical conductivity from scientific documents and generating a database using [ChemDataExtractor](https://github.com/CambridgeMolecularEngineering/chemdataextractor2).
+  
+## Introduction
+  We extract ionical conductivity from scientific documents using this program.
+  And we reconstruct the [battery database](https://github.com/ShuHuang/batterydatabase) by adding the extracted information (ionical conductivity property, 8 structural type).
+  
+## Preparation
+  - Clone [battery database](https://github.com/ShuHuang/batterydatabase) repository here.
+  
+  - Check if they are Organized as following:
+    ```
+    Ionical_conductivity_database/
+      ├── batterydatabase/
+      |         ├── ...
+      |         └── chemdataextractor_batteries/
+      |                  ├── ...
+      |                  └── chemdataextractor/
+      |                           ├── ...
+      |                           └── parse/
+      ├── exp/
+      └── database/
+    ```
+    
+  - Replace batterydatabase/database.py with the database.py provided in this repository.
+  - Replace batterydatabase/chemdataextractor_batteries/chemdataextractor/parse/battery_conductivity.py with the battery_conductivity.py provided in this repository.
+
+
+## Usage
+ 1. How to extract relation: run batterydatabase/extract.py
+     ```
+     python extract.py [input directory] [output directory] [start index] [end index] [output file name]
+     ```
+
+ 2. How to acquire an ionical conductivity database: download database/IonicalConductivityDatabase.json
+
+
+ 3. How to acquire an reconstructed battery database: download [ion.xlsx](https://docs.google.com/spreadsheets/d/1-PSomuy72Uuq60BRBLPKHGbQ0gNBosEz/edit?usp=sharing&ouid=100763551141257878367&rtpof=true&sd=true)
+
+
+ 4. How to visualize the distribution of data: run exp/experiment.py

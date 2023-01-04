@@ -3,7 +3,7 @@
   
 ## Introduction
   We extract ionical conductivity from scientific documents using this program.
-  And we reconstruct the [battery database](https://github.com/ShuHuang/batterydatabase) by adding the extracted information (ionical conductivity property, 8 structural type).
+  And we reconstruct the battery database by adding the extracted information (ionical conductivity property, structural type).
   
 ## Preparation
   - Clone [battery database](https://github.com/ShuHuang/batterydatabase) repository here.

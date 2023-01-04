@@ -1,0 +1,658 @@
+[
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "La0.6Sr1.4LiH1.6O2"
+                    ],
+                    "labels": [
+                        "x = 0.4 ,"
+                    ]
+                }
+            },
+            "names": "La0.6Sr1.4LiH1.6O2"
+        },
+        "metadata": {
+            "title": "Synthesis, crystal structure, and ionic conductivity of hydride ion-conducting Ln 2 LiHO 3 (Ln = La, Pr, Nd) oxyhydrides  ",
+            "authors": [
+                "Yuki\u00a0Iwasaki",
+                "Naoki\u00a0Matsui",
+                "Kota\u00a0Suzuki",
+                "Yoyo\u00a0Hinuma",
+                "Masao\u00a0Yonemura",
+                "Genki\u00a0Kobayashi",
+                "Masaaki\u00a0Hirayama",
+                "Isao\u00a0Tanaka",
+                "Ryoji\u00a0Kanno",
+                "Yuki\u00a0Iwasaki",
+                "Naoki\u00a0Matsui",
+                "Kota\u00a0Suzuki",
+                "Yoyo\u00a0Hinuma",
+                "Masao\u00a0Yonemura",
+                "Genki\u00a0Kobayashi",
+                "Masaaki\u00a0Hirayama",
+                "Isao\u00a0Tanaka",
+                "Ryoji\u00a0Kanno"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2018/11/27",
+            "language": "en",
+            "volume": "6",
+            "issue": "46",
+            "firstpage": "23457",
+            "lastpage": "23463",
+            "doi": "10.1039/C8TA06880A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2018/ta/c8ta06880a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2018/ta/c8ta06880a"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LiBH4"
+                    ]
+                }
+            },
+            "names": "LiBH4"
+        },
+        "metadata": {
+            "title": "Metal hydride-based materials towards high performance negative electrodes for all-solid-state lithium-ion batteries  ",
+            "authors": [
+                "Liang\u00a0Zeng",
+                "Koji\u00a0Kawahito",
+                "Suguru\u00a0Ikeda",
+                "Takayuki\u00a0Ichikawa",
+                "Hiroki\u00a0Miyaoka",
+                "Yoshitsugu\u00a0Kojima",
+                "Liang\u00a0Zeng",
+                "Koji\u00a0Kawahito",
+                "Suguru\u00a0Ikeda",
+                "Takayuki\u00a0Ichikawa",
+                "Hiroki\u00a0Miyaoka",
+                "Yoshitsugu\u00a0Kojima"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Chemical Communications",
+            "date": "2015/06/02",
+            "language": "en",
+            "volume": "51",
+            "issue": "48",
+            "firstpage": "9773",
+            "lastpage": "9776",
+            "doi": "10.1039/C5CC02614H",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/cc/c5cc02614h",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/cc/c5cc02614h"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LiBH4"
+                    ]
+                }
+            },
+            "names": "LiBH4"
+        },
+        "metadata": {
+            "title": "Metal hydrides for lithium-ion battery application: A review",
+            "publisher": "Elsevier",
+            "journal": "Journal of Alloys and Compounds",
+            "date": "2018/08/02",
+            "volume": "769",
+            "firstpage": "167",
+            "lastpage": "185",
+            "doi": "10.1016/j.jallcom.2018.07.320"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LiBH4\u2013MCM-41"
+                    ]
+                }
+            },
+            "names": "LiBH4\u2013MCM-41"
+        },
+        "metadata": {
+            "title": "Interface-enhanced Li ion conduction in a LiBH 4 \u2013SiO 2 solid electrolyte  ",
+            "authors": [
+                "Yong Seok\u00a0Choi",
+                "Young-Su\u00a0Lee",
+                "Kyu Hwan\u00a0Oh",
+                "Young Whan\u00a0Cho",
+                "Yong Seok\u00a0Choi",
+                "Young-Su\u00a0Lee",
+                "Kyu Hwan\u00a0Oh",
+                "Young Whan\u00a0Cho"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Physical Chemistry Chemical Physics",
+            "date": "2016/08/10",
+            "language": "en",
+            "volume": "18",
+            "issue": "32",
+            "firstpage": "22540",
+            "lastpage": "22547",
+            "doi": "10.1039/C6CP03563A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2016/cp/c6cp03563a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2016/cp/c6cp03563a"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ion conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "90LiBH4:10P2S5"
+                    ]
+                }
+            },
+            "names": "90LiBH4:10P2S5"
+        },
+        "metadata": {
+            "title": "Interface-enhanced Li ion conduction in a LiBH 4 \u2013SiO 2 solid electrolyte  ",
+            "authors": [
+                "Yong Seok\u00a0Choi",
+                "Young-Su\u00a0Lee",
+                "Kyu Hwan\u00a0Oh",
+                "Young Whan\u00a0Cho",
+                "Yong Seok\u00a0Choi",
+                "Young-Su\u00a0Lee",
+                "Kyu Hwan\u00a0Oh",
+                "Young Whan\u00a0Cho"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Physical Chemistry Chemical Physics",
+            "date": "2016/08/10",
+            "language": "en",
+            "volume": "18",
+            "issue": "32",
+            "firstpage": "22540",
+            "lastpage": "22547",
+            "doi": "10.1039/C6CP03563A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2016/cp/c6cp03563a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2016/cp/c6cp03563a"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li2(BH4)(NH2)"
+                    ]
+                }
+            },
+            "names": "Li2(BH4)(NH2)"
+        },
+        "metadata": {
+            "title": "Light metal borohydrides/amides combined hydrogen storage systems: composition, structure and properties ",
+            "authors": [
+                "Shujun\u00a0Qiu",
+                "Hailiang\u00a0Chu",
+                "Yongjin\u00a0Zou",
+                "Cuili\u00a0Xiang",
+                "Fen\u00a0Xu",
+                "Lixian\u00a0Sun",
+                "Shujun\u00a0Qiu",
+                "Hailiang\u00a0Chu",
+                "Yongjin\u00a0Zou",
+                "Cuili\u00a0Xiang",
+                "Fen\u00a0Xu",
+                "Lixian\u00a0Sun"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2017/12/12",
+            "language": "en",
+            "volume": "5",
+            "issue": "48",
+            "firstpage": "25112",
+            "lastpage": "25130",
+            "doi": "10.1039/C7TA09113C",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2017/ta/c7ta09113c",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2017/ta/c7ta09113c"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li4(BH4)(NH2)3"
+                    ]
+                }
+            },
+            "names": "Li4(BH4)(NH2)3"
+        },
+        "metadata": {
+            "title": "Light metal borohydrides/amides combined hydrogen storage systems: composition, structure and properties ",
+            "authors": [
+                "Shujun\u00a0Qiu",
+                "Hailiang\u00a0Chu",
+                "Yongjin\u00a0Zou",
+                "Cuili\u00a0Xiang",
+                "Fen\u00a0Xu",
+                "Lixian\u00a0Sun",
+                "Shujun\u00a0Qiu",
+                "Hailiang\u00a0Chu",
+                "Yongjin\u00a0Zou",
+                "Cuili\u00a0Xiang",
+                "Fen\u00a0Xu",
+                "Lixian\u00a0Sun"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2017/12/12",
+            "language": "en",
+            "volume": "5",
+            "issue": "48",
+            "firstpage": "25112",
+            "lastpage": "25130",
+            "doi": "10.1039/C7TA09113C",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2017/ta/c7ta09113c",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2017/ta/c7ta09113c"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li4(BH4)(NH2)3"
+                    ]
+                }
+            },
+            "names": "Li4(BH4)(NH2)3"
+        },
+        "metadata": {
+            "title": "Light metal borohydrides/amides combined hydrogen storage systems: composition, structure and properties ",
+            "authors": [
+                "Shujun\u00a0Qiu",
+                "Hailiang\u00a0Chu",
+                "Yongjin\u00a0Zou",
+                "Cuili\u00a0Xiang",
+                "Fen\u00a0Xu",
+                "Lixian\u00a0Sun",
+                "Shujun\u00a0Qiu",
+                "Hailiang\u00a0Chu",
+                "Yongjin\u00a0Zou",
+                "Cuili\u00a0Xiang",
+                "Fen\u00a0Xu",
+                "Lixian\u00a0Sun"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2017/12/12",
+            "language": "en",
+            "volume": "5",
+            "issue": "48",
+            "firstpage": "25112",
+            "lastpage": "25130",
+            "doi": "10.1039/C7TA09113C",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2017/ta/c7ta09113c",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2017/ta/c7ta09113c"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LiBH4",
+                        "LIBH4"
+                    ]
+                }
+            },
+            "names": "LiBH4"
+        },
+        "metadata": {
+            "title": "Highly efficient & stable Bi & Sb anodes using lithium borohydride as solid electrolyte in Li-ion batteries  ",
+            "authors": [
+                "Pooja\u00a0Kumari",
+                "Khushbu\u00a0Sharma",
+                "Pratibha\u00a0Pal",
+                "Manoj\u00a0Kumar",
+                "Takayuki\u00a0Ichikawa",
+                "Ankur\u00a0Jain",
+                "Pooja\u00a0Kumari",
+                "Khushbu\u00a0Sharma",
+                "Pratibha\u00a0Pal",
+                "Manoj\u00a0Kumar",
+                "Takayuki\u00a0Ichikawa",
+                "Ankur\u00a0Jain"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2019/04/29",
+            "language": "en",
+            "volume": "9",
+            "issue": "23",
+            "firstpage": "13077",
+            "lastpage": "13081",
+            "doi": "10.1039/C9RA01479A",
+            "pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2019/ra/c9ra01479a",
+            "html_url": "https://pubs.rsc.org/en/content/articlelanding/2019/ra/c9ra01479a"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li4(BH4)2(NH2)3"
+                    ]
+                }
+            },
+            "names": "Li4(BH4)2(NH2)3"
+        },
+        "metadata": {
+            "title": "Improved hydrogen storage kinetics of the Li\u2013Mg\u2013N\u2013H system by addition of Mg(BH 4 ) 2  ",
+            "authors": [
+                "Hongge\u00a0Pan",
+                "Songbo\u00a0Shi",
+                "Yongfeng\u00a0Liu",
+                "Bo\u00a0Li",
+                "Yanjing\u00a0Yang",
+                "Mingxia\u00a0Gao",
+                "Hongge\u00a0Pan",
+                "Songbo\u00a0Shi",
+                "Yongfeng\u00a0Liu",
+                "Bo\u00a0Li",
+                "Yanjing\u00a0Yang",
+                "Mingxia\u00a0Gao"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Dalton Transactions",
+            "date": "2013/02/19",
+            "language": "en",
+            "volume": "42",
+            "issue": "11",
+            "firstpage": "3802",
+            "lastpage": "3811",
+            "doi": "10.1039/C2DT32266H",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2013/dt/c2dt32266h",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2013/dt/c2dt32266h"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 1",
+            "raw_units": "Scm\u22121",
+            "value": 0.1,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li4(BH4)2(NH2)3"
+                    ]
+                }
+            },
+            "names": "Li4(BH4)2(NH2)3"
+        },
+        "metadata": {
+            "title": "Improved hydrogen storage kinetics of the Li\u2013Mg\u2013N\u2013H system by addition of Mg(BH 4 ) 2  ",
+            "authors": [
+                "Hongge\u00a0Pan",
+                "Songbo\u00a0Shi",
+                "Yongfeng\u00a0Liu",
+                "Bo\u00a0Li",
+                "Yanjing\u00a0Yang",
+                "Mingxia\u00a0Gao",
+                "Hongge\u00a0Pan",
+                "Songbo\u00a0Shi",
+                "Yongfeng\u00a0Liu",
+                "Bo\u00a0Li",
+                "Yanjing\u00a0Yang",
+                "Mingxia\u00a0Gao"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Dalton Transactions",
+            "date": "2013/02/19",
+            "language": "en",
+            "volume": "42",
+            "issue": "11",
+            "firstpage": "3802",
+            "lastpage": "3811",
+            "doi": "10.1039/C2DT32266H",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2013/dt/c2dt32266h",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2013/dt/c2dt32266h"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li4(BH4)2(NH2)3"
+                    ]
+                }
+            },
+            "names": "Li4(BH4)2(NH2)3"
+        },
+        "metadata": {
+            "title": "Improved hydrogen storage kinetics of the Li\u2013Mg\u2013N\u2013H system by addition of Mg(BH 4 ) 2  ",
+            "authors": [
+                "Hongge\u00a0Pan",
+                "Songbo\u00a0Shi",
+                "Yongfeng\u00a0Liu",
+                "Bo\u00a0Li",
+                "Yanjing\u00a0Yang",
+                "Mingxia\u00a0Gao",
+                "Hongge\u00a0Pan",
+                "Songbo\u00a0Shi",
+                "Yongfeng\u00a0Liu",
+                "Bo\u00a0Li",
+                "Yanjing\u00a0Yang",
+                "Mingxia\u00a0Gao"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Dalton Transactions",
+            "date": "2013/02/19",
+            "language": "en",
+            "volume": "42",
+            "issue": "11",
+            "firstpage": "3802",
+            "lastpage": "3811",
+            "doi": "10.1039/C2DT32266H",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2013/dt/c2dt32266h",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2013/dt/c2dt32266h"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li4(BH4)2(NH2)3"
+                    ]
+                }
+            },
+            "names": "Li4(BH4)2(NH2)3"
+        },
+        "metadata": {
+            "title": "Improved hydrogen storage kinetics of the Li\u2013Mg\u2013N\u2013H system by addition of Mg(BH 4 ) 2  ",
+            "authors": [
+                "Hongge\u00a0Pan",
+                "Songbo\u00a0Shi",
+                "Yongfeng\u00a0Liu",
+                "Bo\u00a0Li",
+                "Yanjing\u00a0Yang",
+                "Mingxia\u00a0Gao",
+                "Hongge\u00a0Pan",
+                "Songbo\u00a0Shi",
+                "Yongfeng\u00a0Liu",
+                "Bo\u00a0Li",
+                "Yanjing\u00a0Yang",
+                "Mingxia\u00a0Gao"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Dalton Transactions",
+            "date": "2013/02/19",
+            "language": "en",
+            "volume": "42",
+            "issue": "11",
+            "firstpage": "3802",
+            "lastpage": "3811",
+            "doi": "10.1039/C2DT32266H",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2013/dt/c2dt32266h",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2013/dt/c2dt32266h"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 1",
+            "raw_units": "Scm\u22121",
+            "value": 0.1,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li4(BH4)2(NH2)3"
+                    ]
+                }
+            },
+            "names": "Li4(BH4)2(NH2)3"
+        },
+        "metadata": {
+            "title": "Improved hydrogen storage kinetics of the Li\u2013Mg\u2013N\u2013H system by addition of Mg(BH 4 ) 2  ",
+            "authors": [
+                "Hongge\u00a0Pan",
+                "Songbo\u00a0Shi",
+                "Yongfeng\u00a0Liu",
+                "Bo\u00a0Li",
+                "Yanjing\u00a0Yang",
+                "Mingxia\u00a0Gao",
+                "Hongge\u00a0Pan",
+                "Songbo\u00a0Shi",
+                "Yongfeng\u00a0Liu",
+                "Bo\u00a0Li",
+                "Yanjing\u00a0Yang",
+                "Mingxia\u00a0Gao"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Dalton Transactions",
+            "date": "2013/02/19",
+            "language": "en",
+            "volume": "42",
+            "issue": "11",
+            "firstpage": "3802",
+            "lastpage": "3811",
+            "doi": "10.1039/C2DT32266H",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2013/dt/c2dt32266h",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2013/dt/c2dt32266h"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li4(BH4)2(NH2)3"
+                    ]
+                }
+            },
+            "names": "Li4(BH4)2(NH2)3"
+        },
+        "metadata": {
+            "title": "Improved hydrogen storage kinetics of the Li\u2013Mg\u2013N\u2013H system by addition of Mg(BH 4 ) 2  ",
+            "authors": [
+                "Hongge\u00a0Pan",
+                "Songbo\u00a0Shi",
+                "Yongfeng\u00a0Liu",
+                "Bo\u00a0Li",
+                "Yanjing\u00a0Yang",
+                "Mingxia\u00a0Gao",
+                "Hongge\u00a0Pan",
+                "Songbo\u00a0Shi",
+                "Yongfeng\u00a0Liu",
+                "Bo\u00a0Li",
+                "Yanjing\u00a0Yang",
+                "Mingxia\u00a0Gao"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Dalton Transactions",
+            "date": "2013/02/19",
+            "language": "en",
+            "volume": "42",
+            "issue": "11",
+            "firstpage": "3802",
+            "lastpage": "3811",
+            "doi": "10.1039/C2DT32266H",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2013/dt/c2dt32266h",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2013/dt/c2dt32266h"
+        },
+        "warning": 1
+    }
+]

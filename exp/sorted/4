@@ -1,0 +1,228 @@
+[
+    {
+        "BatteryConductivity": {
+            "raw_value": "to 5.9 \u00d7 10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 5.900000000000001e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LSN",
+                        "Li9S3N"
+                    ]
+                }
+            },
+            "names": "Li9S3N"
+        },
+        "metadata": {
+            "title": "Li-ion conductivity in Li 9 S 3 N  ",
+            "authors": [
+                "Lincoln J.\u00a0Miara",
+                "Naoki\u00a0Suzuki",
+                "William D.\u00a0Richards",
+                "Yan\u00a0Wang",
+                "Jae Chul\u00a0Kim",
+                "Gerbrand\u00a0Ceder",
+                "Lincoln J.\u00a0Miara",
+                "Naoki\u00a0Suzuki",
+                "William D.\u00a0Richards",
+                "Yan\u00a0Wang",
+                "Jae Chul\u00a0Kim",
+                "Gerbrand\u00a0Ceder"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2015/10/06",
+            "language": "en",
+            "volume": "3",
+            "issue": "40",
+            "firstpage": "20338",
+            "lastpage": "20344",
+            "doi": "10.1039/C5TA05432J",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ta/c5ta05432j",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ta/c5ta05432j"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "to 5.9 \u00d7 10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 5.900000000000001e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LSN",
+                        "Li9S3N"
+                    ]
+                }
+            },
+            "names": "Li9S3N"
+        },
+        "metadata": {
+            "title": "Li-ion conductivity in Li 9 S 3 N  ",
+            "authors": [
+                "Lincoln J.\u00a0Miara",
+                "Naoki\u00a0Suzuki",
+                "William D.\u00a0Richards",
+                "Yan\u00a0Wang",
+                "Jae Chul\u00a0Kim",
+                "Gerbrand\u00a0Ceder",
+                "Lincoln J.\u00a0Miara",
+                "Naoki\u00a0Suzuki",
+                "William D.\u00a0Richards",
+                "Yan\u00a0Wang",
+                "Jae Chul\u00a0Kim",
+                "Gerbrand\u00a0Ceder"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2015/10/06",
+            "language": "en",
+            "volume": "3",
+            "issue": "40",
+            "firstpage": "20338",
+            "lastpage": "20344",
+            "doi": "10.1039/C5TA05432J",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ta/c5ta05432j",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ta/c5ta05432j"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li3.09BO2.53N0.52"
+                    ]
+                }
+            },
+            "names": "Li3.09BO2.53N0.52"
+        },
+        "metadata": {
+            "title": "Li\u2013B\u2013O\u2013N electrolytes for all-solid-state thin film batteries",
+            "publisher": "Elsevier",
+            "journal": "Journal of Power Sources",
+            "date": "2008/10/02",
+            "volume": "189",
+            "issue": "1",
+            "firstpage": "211",
+            "lastpage": "216",
+            "doi": "10.1016/j.jpowsour.2008.09.089"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li2.9PO3.3N0.46"
+                    ]
+                }
+            },
+            "names": "Li2.9PO3.3N0.46"
+        },
+        "metadata": {
+            "title": "Electrolytes for solid-state lithium rechargeable batteries: recent advances and perspectives ",
+            "authors": [
+                "Eliana\u00a0Quartarone",
+                "Piercarlo\u00a0Mustarelli",
+                "Eliana\u00a0Quartarone",
+                "Piercarlo\u00a0Mustarelli"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Chemical Society Reviews",
+            "date": "2011/04/18",
+            "language": "en",
+            "volume": "40",
+            "issue": "5",
+            "firstpage": "2525",
+            "lastpage": "2540",
+            "doi": "10.1039/C0CS00081G",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2011/cs/c0cs00081g",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2011/cs/c0cs00081g"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "S/cm",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ion conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li3N"
+                    ]
+                }
+            },
+            "names": "Li3N"
+        },
+        "metadata": {
+            "title": "High lithium conductivity in Li1.3Cr0.3Ge1.7(PO4)3 glass-ceramics",
+            "publisher": "North-Holland",
+            "journal": "Materials Letters",
+            "date": "2004/07/29",
+            "volume": "58",
+            "issue": "27-28",
+            "firstpage": "3428",
+            "lastpage": "3431",
+            "doi": "10.1016/j.matlet.2004.05.080"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li2SiN2"
+                    ]
+                }
+            },
+            "names": "Li2SiN2"
+        },
+        "metadata": {
+            "title": "Microwave initiated solid-state metathesis routes to Li2SiN2",
+            "authors": [
+                "Arthur J. Anderson",
+                "Arthur J. Anderson",
+                "Richard G. Blair",
+                "Richard G. Blair",
+                "Sandra M. Hick",
+                "Sandra M. Hick",
+                "Richard B. Kaner",
+                "Richard B. Kaner"
+            ],
+            "publisher": "The Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry",
+            "date": "2006/01/23",
+            "language": "en",
+            "volume": "16",
+            "issue": "14",
+            "firstpage": "1318",
+            "lastpage": "1322",
+            "doi": "10.1039/B509679K",
+            "pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2006/jm/b509679k",
+            "html_url": "https://pubs.rsc.org/en/content/articlelanding/2006/jm/b509679k"
+        },
+        "warning": 1
+    }
+]

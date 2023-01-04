@@ -1,0 +1,3287 @@
+[
+    {
+        "BatteryConductivity": {
+            "raw_value": "3.94 \u00d7 10 \u2212 6 and 1.48 \u00d7 10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1.48e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li3Y3Te2O12"
+                    ],
+                    "roles": [
+                        "data for"
+                    ]
+                }
+            },
+            "names": "Li3Y3Te2O12"
+        },
+        "metadata": {
+            "title": "Influence of lithium concentration on the structure and Li + transport properties of cubic phase lithium garnets ",
+            "authors": [
+                "S.\u00a0Ramakumar",
+                "N.\u00a0Janani",
+                "Ramaswamy\u00a0Murugan",
+                "S.\u00a0Ramakumar",
+                "N.\u00a0Janani",
+                "Ramaswamy\u00a0Murugan"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Dalton Transactions",
+            "date": "2014/12/09",
+            "language": "en",
+            "volume": "44",
+            "issue": "2",
+            "firstpage": "539",
+            "lastpage": "552",
+            "doi": "10.1039/C4DT02861A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/dt/c4dt02861a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/dt/c4dt02861a"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "3.94 \u00d7 10 \u2212 6 and 1.48 \u00d7 10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1.48e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li3Y3Te2O12"
+                    ],
+                    "roles": [
+                        "data for"
+                    ]
+                }
+            },
+            "names": "Li3Y3Te2O12"
+        },
+        "metadata": {
+            "title": "Influence of lithium concentration on the structure and Li + transport properties of cubic phase lithium garnets ",
+            "authors": [
+                "S.\u00a0Ramakumar",
+                "N.\u00a0Janani",
+                "Ramaswamy\u00a0Murugan",
+                "S.\u00a0Ramakumar",
+                "N.\u00a0Janani",
+                "Ramaswamy\u00a0Murugan"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Dalton Transactions",
+            "date": "2014/12/09",
+            "language": "en",
+            "volume": "44",
+            "issue": "2",
+            "firstpage": "539",
+            "lastpage": "552",
+            "doi": "10.1039/C4DT02861A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/dt/c4dt02861a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/dt/c4dt02861a"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Influence of lithium concentration on the structure and Li + transport properties of cubic phase lithium garnets ",
+            "authors": [
+                "S.\u00a0Ramakumar",
+                "N.\u00a0Janani",
+                "Ramaswamy\u00a0Murugan",
+                "S.\u00a0Ramakumar",
+                "N.\u00a0Janani",
+                "Ramaswamy\u00a0Murugan"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Dalton Transactions",
+            "date": "2014/12/09",
+            "language": "en",
+            "volume": "44",
+            "issue": "2",
+            "firstpage": "539",
+            "lastpage": "552",
+            "doi": "10.1039/C4DT02861A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/dt/c4dt02861a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/dt/c4dt02861a"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li5La3Nb2O12"
+                    ]
+                }
+            },
+            "names": "Li5La3Nb2O12"
+        },
+        "metadata": {
+            "title": "Origin of the enhanced Li + ionic conductivity in Gd +3 substituted Li 5+2x La 3 Nb 2\u2212x Gd x O 12 lithium conducting garnets ",
+            "authors": [
+                "Mohamad M.\u00a0Ahmad",
+                "Munirah M.\u00a0Al-Quaimi",
+                "Mohamad M.\u00a0Ahmad",
+                "Munirah M.\u00a0Al-Quaimi"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Physical Chemistry Chemical Physics",
+            "date": "2015/06/10",
+            "language": "en",
+            "volume": "17",
+            "issue": "24",
+            "firstpage": "16007",
+            "lastpage": "16014",
+            "doi": "10.1039/C5CP02393A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/cp/c5cp02393a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/cp/c5cp02393a"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li5+2xLa3Nb2\u2212xSCxO12"
+                    ]
+                }
+            },
+            "names": "Li5+2xLa3Nb2\u2212xSCxO12"
+        },
+        "metadata": {
+            "title": "Origin of the enhanced Li + ionic conductivity in Gd +3 substituted Li 5+2x La 3 Nb 2\u2212x Gd x O 12 lithium conducting garnets ",
+            "authors": [
+                "Mohamad M.\u00a0Ahmad",
+                "Munirah M.\u00a0Al-Quaimi",
+                "Mohamad M.\u00a0Ahmad",
+                "Munirah M.\u00a0Al-Quaimi"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Physical Chemistry Chemical Physics",
+            "date": "2015/06/10",
+            "language": "en",
+            "volume": "17",
+            "issue": "24",
+            "firstpage": "16007",
+            "lastpage": "16014",
+            "doi": "10.1039/C5CP02393A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/cp/c5cp02393a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/cp/c5cp02393a"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "\u2013 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li5La3Nb2O12"
+                    ]
+                }
+            },
+            "names": "Li5La3Nb2O12"
+        },
+        "metadata": {
+            "title": "The synergistic effects of Al and Te on the structure and Li + -mobility of garnet-type solid electrolytes  ",
+            "authors": [
+                "Dawei\u00a0Wang",
+                "Guiming\u00a0Zhong",
+                "Oleksandr\u00a0Dolotko",
+                "Yixiao\u00a0Li",
+                "Matthew J.\u00a0McDonald",
+                "Jinxiao\u00a0Mi",
+                "Riqiang\u00a0Fu",
+                "Yong\u00a0Yang",
+                "Dawei\u00a0Wang",
+                "Guiming\u00a0Zhong",
+                "Oleksandr\u00a0Dolotko",
+                "Yixiao\u00a0Li",
+                "Matthew J.\u00a0McDonald",
+                "Jinxiao\u00a0Mi",
+                "Riqiang\u00a0Fu",
+                "Yong\u00a0Yang"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2014/11/11",
+            "language": "en",
+            "volume": "2",
+            "issue": "47",
+            "firstpage": "20271",
+            "lastpage": "20279",
+            "doi": "10.1039/C4TA03591G",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/ta/c4ta03591g",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/ta/c4ta03591g"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "The synergistic effects of Al and Te on the structure and Li + -mobility of garnet-type solid electrolytes  ",
+            "authors": [
+                "Dawei\u00a0Wang",
+                "Guiming\u00a0Zhong",
+                "Oleksandr\u00a0Dolotko",
+                "Yixiao\u00a0Li",
+                "Matthew J.\u00a0McDonald",
+                "Jinxiao\u00a0Mi",
+                "Riqiang\u00a0Fu",
+                "Yong\u00a0Yang",
+                "Dawei\u00a0Wang",
+                "Guiming\u00a0Zhong",
+                "Oleksandr\u00a0Dolotko",
+                "Yixiao\u00a0Li",
+                "Matthew J.\u00a0McDonald",
+                "Jinxiao\u00a0Mi",
+                "Riqiang\u00a0Fu",
+                "Yong\u00a0Yang"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2014/11/11",
+            "language": "en",
+            "volume": "2",
+            "issue": "47",
+            "firstpage": "20271",
+            "lastpage": "20279",
+            "doi": "10.1039/C4TA03591G",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/ta/c4ta03591g",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/ta/c4ta03591g"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Correlation and the mechanism of lithium ion diffusion with the crystal structure of Li 7 La 3 Zr 2 O 12 revealed by an internal friction technique ",
+            "authors": [
+                "X. P.\u00a0Wang",
+                "Y. X.\u00a0Gao",
+                "Y. P.\u00a0Xia",
+                "Z.\u00a0Zhuang",
+                "T.\u00a0Zhang",
+                "Q. F.\u00a0Fang",
+                "X. P.\u00a0Wang",
+                "Y. X.\u00a0Gao",
+                "Y. P.\u00a0Xia",
+                "Z.\u00a0Zhuang",
+                "T.\u00a0Zhang",
+                "Q. F.\u00a0Fang"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Physical Chemistry Chemical Physics",
+            "date": "2014/03/19",
+            "language": "en",
+            "volume": "16",
+            "issue": "15",
+            "firstpage": "7006",
+            "lastpage": "7014",
+            "doi": "10.1039/C3CP55515A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/cp/c3cp55515a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/cp/c3cp55515a"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Effect of the morphology of Li\u2013La\u2013Zr\u2013O solid electrolyte coating on the electrochemical performance of spinel LiMn 1.95 Ni 0.05 O 3.98 F 0.02 cathode materials ",
+            "authors": [
+                "Yu-Feng\u00a0Deng",
+                "Shi-Xi\u00a0Zhao",
+                "Ya-Hui\u00a0Xu",
+                "Ce-Wen\u00a0Nan",
+                "Yu-Feng\u00a0Deng",
+                "Shi-Xi\u00a0Zhao",
+                "Ya-Hui\u00a0Xu",
+                "Ce-Wen\u00a0Nan"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2014/10/21",
+            "language": "en",
+            "volume": "2",
+            "issue": "44",
+            "firstpage": "18889",
+            "lastpage": "18897",
+            "doi": "10.1039/C4TA03772C",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/ta/c4ta03772c",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/ta/c4ta03772c"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Effect of the morphology of Li\u2013La\u2013Zr\u2013O solid electrolyte coating on the electrochemical performance of spinel LiMn 1.95 Ni 0.05 O 3.98 F 0.02 cathode materials ",
+            "authors": [
+                "Yu-Feng\u00a0Deng",
+                "Shi-Xi\u00a0Zhao",
+                "Ya-Hui\u00a0Xu",
+                "Ce-Wen\u00a0Nan",
+                "Yu-Feng\u00a0Deng",
+                "Shi-Xi\u00a0Zhao",
+                "Ya-Hui\u00a0Xu",
+                "Ce-Wen\u00a0Nan"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2014/10/21",
+            "language": "en",
+            "volume": "2",
+            "issue": "44",
+            "firstpage": "18889",
+            "lastpage": "18897",
+            "doi": "10.1039/C4TA03772C",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/ta/c4ta03772c",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/ta/c4ta03772c"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Highly stable garnet solid electrolyte based Li-S battery with modified anodic and cathodic interfaces",
+            "publisher": "Elsevier",
+            "journal": "Energy Storage Materials",
+            "date": "2018/05/14",
+            "volume": "15",
+            "firstpage": "282",
+            "lastpage": "290",
+            "doi": "10.1016/j.ensm.2018.05.018"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Highly stable garnet solid electrolyte based Li-S battery with modified anodic and cathodic interfaces",
+            "publisher": "Elsevier",
+            "journal": "Energy Storage Materials",
+            "date": "2018/05/14",
+            "volume": "15",
+            "firstpage": "282",
+            "lastpage": "290",
+            "doi": "10.1016/j.ensm.2018.05.018"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li6.625La3Zr1.625Ta0.375O12"
+                    ]
+                }
+            },
+            "names": "Li6.625La3Zr1.625Ta0.375O12"
+        },
+        "metadata": {
+            "title": "Lithium metal electrode kinetics and ionic conductivity of the solid lithium ion conductors \u201cLi7La3Zr2O12\u201d and Li7\u2212xLa3Zr2\u2212xTaxO12 with garnet-type structure",
+            "publisher": "Elsevier",
+            "journal": "Journal of Power Sources",
+            "date": "2012/01/21",
+            "volume": "206",
+            "firstpage": "236",
+            "lastpage": "244",
+            "doi": "10.1016/j.jpowsour.2012.01.094"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Rational material design for ultrafast rechargeable lithium-ion batteries ",
+            "authors": [
+                "Yuxin\u00a0Tang",
+                "Yanyan\u00a0Zhang",
+                "Wenlong\u00a0Li",
+                "Bing\u00a0Ma",
+                "Xiaodong\u00a0Chen",
+                "Yuxin\u00a0Tang",
+                "Yanyan\u00a0Zhang",
+                "Wenlong\u00a0Li",
+                "Bing\u00a0Ma",
+                "Xiaodong\u00a0Chen"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Chemical Society Reviews",
+            "date": "2015/08/17",
+            "language": "en",
+            "volume": "44",
+            "issue": "17",
+            "firstpage": "5926",
+            "lastpage": "5940",
+            "doi": "10.1039/C4CS00442F",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/cs/c4cs00442f",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/cs/c4cs00442f"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "8.1 \u00d7 10 \u2212 5 and 5.9 \u00d7 10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 5.900000000000001e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li7\u2212xLa3Zr2\u2212xSbxO12"
+                    ],
+                    "labels": [
+                        "x = 0.2",
+                        "x = 0.4"
+                    ]
+                }
+            },
+            "names": "Li7\u2212xLa3Zr2\u2212xSbxO12"
+        },
+        "metadata": {
+            "title": "Structure and Li + dynamics of Sb-doped Li 7 La 3 Zr 2 O 12 fast lithium ion conductors  ",
+            "authors": [
+                "S.\u00a0Ramakumar",
+                "L.\u00a0Satyanarayana",
+                "Sunkara V.\u00a0Manorama",
+                "Ramaswamy\u00a0Murugan",
+                "S.\u00a0Ramakumar",
+                "L.\u00a0Satyanarayana",
+                "Sunkara V.\u00a0Manorama",
+                "Ramaswamy\u00a0Murugan"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Physical Chemistry Chemical Physics",
+            "date": "2013/06/19",
+            "language": "en",
+            "volume": "15",
+            "issue": "27",
+            "firstpage": "11327",
+            "lastpage": "11338",
+            "doi": "10.1039/C3CP50991E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2013/cp/c3cp50991e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2013/cp/c3cp50991e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "8.1 \u00d7 10 \u2212 5 and 5.9 \u00d7 10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 5.900000000000001e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li7\u2212xLa3Zr2\u2212xSbxO12"
+                    ],
+                    "labels": [
+                        "x = 0.2",
+                        "x = 0.4"
+                    ]
+                }
+            },
+            "names": "Li7\u2212xLa3Zr2\u2212xSbxO12"
+        },
+        "metadata": {
+            "title": "Structure and Li + dynamics of Sb-doped Li 7 La 3 Zr 2 O 12 fast lithium ion conductors  ",
+            "authors": [
+                "S.\u00a0Ramakumar",
+                "L.\u00a0Satyanarayana",
+                "Sunkara V.\u00a0Manorama",
+                "Ramaswamy\u00a0Murugan",
+                "S.\u00a0Ramakumar",
+                "L.\u00a0Satyanarayana",
+                "Sunkara V.\u00a0Manorama",
+                "Ramaswamy\u00a0Murugan"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Physical Chemistry Chemical Physics",
+            "date": "2013/06/19",
+            "language": "en",
+            "volume": "15",
+            "issue": "27",
+            "firstpage": "11327",
+            "lastpage": "11338",
+            "doi": "10.1039/C3CP50991E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2013/cp/c3cp50991e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2013/cp/c3cp50991e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li7\u2212xLa3Zr2\u2212xSbxO12"
+                    ],
+                    "labels": [
+                        "x = 0.2",
+                        "x = 0.4"
+                    ]
+                }
+            },
+            "names": "Li7\u2212xLa3Zr2\u2212xSbxO12"
+        },
+        "metadata": {
+            "title": "Structure and Li + dynamics of Sb-doped Li 7 La 3 Zr 2 O 12 fast lithium ion conductors  ",
+            "authors": [
+                "S.\u00a0Ramakumar",
+                "L.\u00a0Satyanarayana",
+                "Sunkara V.\u00a0Manorama",
+                "Ramaswamy\u00a0Murugan",
+                "S.\u00a0Ramakumar",
+                "L.\u00a0Satyanarayana",
+                "Sunkara V.\u00a0Manorama",
+                "Ramaswamy\u00a0Murugan"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Physical Chemistry Chemical Physics",
+            "date": "2013/06/19",
+            "language": "en",
+            "volume": "15",
+            "issue": "27",
+            "firstpage": "11327",
+            "lastpage": "11338",
+            "doi": "10.1039/C3CP50991E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2013/cp/c3cp50991e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2013/cp/c3cp50991e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li7\u2212xLa3Zr2\u2212xSbxO12"
+                    ],
+                    "labels": [
+                        "x = 0.4 ."
+                    ]
+                }
+            },
+            "names": "Li7\u2212xLa3Zr2\u2212xSbxO12"
+        },
+        "metadata": {
+            "title": "Structure and Li + dynamics of Sb-doped Li 7 La 3 Zr 2 O 12 fast lithium ion conductors  ",
+            "authors": [
+                "S.\u00a0Ramakumar",
+                "L.\u00a0Satyanarayana",
+                "Sunkara V.\u00a0Manorama",
+                "Ramaswamy\u00a0Murugan",
+                "S.\u00a0Ramakumar",
+                "L.\u00a0Satyanarayana",
+                "Sunkara V.\u00a0Manorama",
+                "Ramaswamy\u00a0Murugan"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Physical Chemistry Chemical Physics",
+            "date": "2013/06/19",
+            "language": "en",
+            "volume": "15",
+            "issue": "27",
+            "firstpage": "11327",
+            "lastpage": "11338",
+            "doi": "10.1039/C3CP50991E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2013/cp/c3cp50991e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2013/cp/c3cp50991e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li6.6La3Zr1.6Sb0.4O12"
+                    ]
+                }
+            },
+            "names": "Li6.6La3Zr1.6Sb0.4O12"
+        },
+        "metadata": {
+            "title": "Structure and Li + dynamics of Sb-doped Li 7 La 3 Zr 2 O 12 fast lithium ion conductors  ",
+            "authors": [
+                "S.\u00a0Ramakumar",
+                "L.\u00a0Satyanarayana",
+                "Sunkara V.\u00a0Manorama",
+                "Ramaswamy\u00a0Murugan",
+                "S.\u00a0Ramakumar",
+                "L.\u00a0Satyanarayana",
+                "Sunkara V.\u00a0Manorama",
+                "Ramaswamy\u00a0Murugan"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Physical Chemistry Chemical Physics",
+            "date": "2013/06/19",
+            "language": "en",
+            "volume": "15",
+            "issue": "27",
+            "firstpage": "11327",
+            "lastpage": "11338",
+            "doi": "10.1039/C3CP50991E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2013/cp/c3cp50991e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2013/cp/c3cp50991e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 7",
+            "raw_units": "Scm\u22121",
+            "value": 1e-07,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Synthesis and structure analysis of tetragonal Li7La3Zr2O12 with the garnet-related type structure",
+            "publisher": "Academic Press",
+            "journal": "Journal of Solid State Chemistry",
+            "date": "2009/05/22",
+            "volume": "182",
+            "issue": "8",
+            "firstpage": "2046",
+            "lastpage": "2052",
+            "doi": "10.1016/j.jssc.2009.05.020"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "La3Zr2Ga0.5Li5.5O12"
+                    ]
+                }
+            },
+            "names": "La3Zr2Ga0.5Li5.5O12"
+        },
+        "metadata": {
+            "title": "Effect of Ga incorporation on the structure and Li ion conductivity of La 3 Zr 2 Li 7 O 12 ",
+            "authors": [
+                "M. A.\u00a0Howard",
+                "O.\u00a0Clemens",
+                "E.\u00a0Kendrick",
+                "K. S.\u00a0Knight",
+                "D. C.\u00a0Apperley",
+                "P. A.\u00a0Anderson",
+                "P. R.\u00a0Slater",
+                "M. A.\u00a0Howard",
+                "O.\u00a0Clemens",
+                "E.\u00a0Kendrick",
+                "K. S.\u00a0Knight",
+                "D. C.\u00a0Apperley",
+                "P. A.\u00a0Anderson",
+                "P. R.\u00a0Slater"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Dalton Transactions",
+            "date": "2012/09/18",
+            "language": "en",
+            "volume": "41",
+            "issue": "39",
+            "firstpage": "12048",
+            "lastpage": "12053",
+            "doi": "10.1039/C2DT31318A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2012/dt/c2dt31318a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2012/dt/c2dt31318a"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "S/cm",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li5.5La3Nb1.75In0.25O12"
+                    ]
+                }
+            },
+            "names": "Li5.5La3Nb1.75In0.25O12"
+        },
+        "metadata": {
+            "title": "Effect of sintering on the ionic conductivity of garnet-related structure Li5La3Nb2O12 and In- and K-doped Li5La3Nb2O12",
+            "publisher": "Academic Press",
+            "journal": "Journal of Solid State Chemistry",
+            "date": "2006/01/20",
+            "volume": "179",
+            "issue": "4",
+            "firstpage": "974",
+            "lastpage": "984",
+            "doi": "10.1016/j.jssc.2005.12.025"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZ",
+                        "Li7La3Zr2O12"
+                    ],
+                    "roles": [
+                        "product"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Influence of sintering additives on densification and Li + conductivity of Al doped Li 7 La 3 Zr 2 O 12 lithium garnet  ",
+            "authors": [
+                "Narayanasamy\u00a0Janani",
+                "C.\u00a0Deviannapoorani",
+                "L.\u00a0Dhivya",
+                "Ramaswamy\u00a0Murugan",
+                "Narayanasamy\u00a0Janani",
+                "C.\u00a0Deviannapoorani",
+                "L.\u00a0Dhivya",
+                "Ramaswamy\u00a0Murugan"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/10/15",
+            "language": "en",
+            "volume": "4",
+            "issue": "93",
+            "firstpage": "51228",
+            "lastpage": "51238",
+            "doi": "10.1039/C4RA08674K",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/ra/c4ra08674k",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/ra/c4ra08674k"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZ",
+                        "Li7La3Zr2O12"
+                    ],
+                    "roles": [
+                        "product"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Influence of sintering additives on densification and Li + conductivity of Al doped Li 7 La 3 Zr 2 O 12 lithium garnet  ",
+            "authors": [
+                "Narayanasamy\u00a0Janani",
+                "C.\u00a0Deviannapoorani",
+                "L.\u00a0Dhivya",
+                "Ramaswamy\u00a0Murugan",
+                "Narayanasamy\u00a0Janani",
+                "C.\u00a0Deviannapoorani",
+                "L.\u00a0Dhivya",
+                "Ramaswamy\u00a0Murugan"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/10/15",
+            "language": "en",
+            "volume": "4",
+            "issue": "93",
+            "firstpage": "51228",
+            "lastpage": "51238",
+            "doi": "10.1039/C4RA08674K",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/ra/c4ra08674k",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/ra/c4ra08674k"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li6.4La3Zr1.4Ta0.6O12"
+                    ]
+                }
+            },
+            "names": "Li6.4La3Zr1.4Ta0.6O12"
+        },
+        "metadata": {
+            "title": "A Li-Garnet composite ceramic electrolyte and its solid-state Li-S battery",
+            "publisher": "Elsevier",
+            "journal": "Journal of Power Sources",
+            "date": "2017/12/08",
+            "volume": "382",
+            "firstpage": "190",
+            "lastpage": "197",
+            "doi": "10.1016/j.jpowsour.2017.11.074"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZ",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Ion transport and phase transition in Li 7\u2212x La 3 (Zr 2\u2212x M x )O 12 (M = Ta 5+ , Nb 5+ , x = 0, 0.25) ",
+            "authors": [
+                "Stefan\u00a0Adams",
+                "Rayavarapu Prasada\u00a0Rao",
+                "Stefan\u00a0Adams",
+                "Rayavarapu Prasada\u00a0Rao"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry",
+            "date": "2011/12/20",
+            "language": "en",
+            "volume": "22",
+            "issue": "4",
+            "firstpage": "1426",
+            "lastpage": "1434",
+            "doi": "10.1039/C1JM14588F",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2012/jm/c1jm14588f",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2012/jm/c1jm14588f"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZ",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Ion transport and phase transition in Li 7\u2212x La 3 (Zr 2\u2212x M x )O 12 (M = Ta 5+ , Nb 5+ , x = 0, 0.25) ",
+            "authors": [
+                "Stefan\u00a0Adams",
+                "Rayavarapu Prasada\u00a0Rao",
+                "Stefan\u00a0Adams",
+                "Rayavarapu Prasada\u00a0Rao"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry",
+            "date": "2011/12/20",
+            "language": "en",
+            "volume": "22",
+            "issue": "4",
+            "firstpage": "1426",
+            "lastpage": "1434",
+            "doi": "10.1039/C1JM14588F",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2012/jm/c1jm14588f",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2012/jm/c1jm14588f"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 6",
+            "raw_units": "S/cm",
+            "value": 1e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "60Li2O\u201310Nb2O5\u201330P2O5"
+                    ]
+                }
+            },
+            "names": "60Li2O\u201310Nb2O5\u201330P2O5"
+        },
+        "metadata": {
+            "title": "Synthesis and Li+ ion conductivity of Li2O\u2013Nb2O5\u2013P2O5 glasses and glass\u2013ceramics",
+            "publisher": "Pergamon",
+            "journal": "Materials Research Bulletin",
+            "date": "2010/06/16",
+            "volume": "45",
+            "issue": "10",
+            "firstpage": "1443",
+            "lastpage": "1448",
+            "doi": "10.1016/j.materresbull.2010.06.033"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "A novel method for preparation of high dense tetragonal Li7La3Zr2O12",
+            "publisher": "Elsevier",
+            "journal": "Journal of Power Sources",
+            "date": "2017/01/31",
+            "volume": "344",
+            "firstpage": "56",
+            "lastpage": "61",
+            "doi": "10.1016/j.jpowsour.2017.01.088"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "A novel method for preparation of high dense tetragonal Li7La3Zr2O12",
+            "publisher": "Elsevier",
+            "journal": "Journal of Power Sources",
+            "date": "2017/01/31",
+            "volume": "344",
+            "firstpage": "56",
+            "lastpage": "61",
+            "doi": "10.1016/j.jpowsour.2017.01.088"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Defect chemistry and electrical properties of garnet-type Li 7 La 3 Zr 2 O 12  ",
+            "authors": [
+                "Xiaowen\u00a0Zhan",
+                "Shen\u00a0Lai",
+                "Mallory P.\u00a0Gobet",
+                "Steven G.\u00a0Greenbaum",
+                "Mona\u00a0Shirpour",
+                "Xiaowen\u00a0Zhan",
+                "Shen\u00a0Lai",
+                "Mallory P.\u00a0Gobet",
+                "Steven G.\u00a0Greenbaum",
+                "Mona\u00a0Shirpour"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Physical Chemistry Chemical Physics",
+            "date": "2018/01/17",
+            "language": "en",
+            "volume": "20",
+            "issue": "3",
+            "firstpage": "1447",
+            "lastpage": "1459",
+            "doi": "10.1039/C7CP06768B",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2018/cp/c7cp06768b",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2018/cp/c7cp06768b"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li2ZrO3"
+                    ]
+                }
+            },
+            "names": "Li2ZrO3"
+        },
+        "metadata": {
+            "title": "Defect chemistry and electrical properties of garnet-type Li 7 La 3 Zr 2 O 12  ",
+            "authors": [
+                "Xiaowen\u00a0Zhan",
+                "Shen\u00a0Lai",
+                "Mallory P.\u00a0Gobet",
+                "Steven G.\u00a0Greenbaum",
+                "Mona\u00a0Shirpour",
+                "Xiaowen\u00a0Zhan",
+                "Shen\u00a0Lai",
+                "Mallory P.\u00a0Gobet",
+                "Steven G.\u00a0Greenbaum",
+                "Mona\u00a0Shirpour"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Physical Chemistry Chemical Physics",
+            "date": "2018/01/17",
+            "language": "en",
+            "volume": "20",
+            "issue": "3",
+            "firstpage": "1447",
+            "lastpage": "1459",
+            "doi": "10.1039/C7CP06768B",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2018/cp/c7cp06768b",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2018/cp/c7cp06768b"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "S/cm",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li6.7La3Zr1.7Ta0.3O12"
+                    ]
+                }
+            },
+            "names": "Li6.7La3Zr1.7Ta0.3O12"
+        },
+        "metadata": {
+            "title": "High densification and Li-ion conductivity of Al-free Li7-xLa3Zr2-xTaxO12 garnet solid electrolyte prepared by using ultrafine powders",
+            "publisher": "Elsevier",
+            "journal": "Ceramics International",
+            "date": "2018/09/25",
+            "volume": "45",
+            "issue": "1",
+            "firstpage": "786",
+            "lastpage": "792",
+            "doi": "10.1016/j.ceramint.2018.09.245"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "S/cm",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li6.7La3Zr1.7Ta0.3O12"
+                    ]
+                }
+            },
+            "names": "Li6.7La3Zr1.7Ta0.3O12"
+        },
+        "metadata": {
+            "title": "High densification and Li-ion conductivity of Al-free Li7-xLa3Zr2-xTaxO12 garnet solid electrolyte prepared by using ultrafine powders",
+            "publisher": "Elsevier",
+            "journal": "Ceramics International",
+            "date": "2018/09/25",
+            "volume": "45",
+            "issue": "1",
+            "firstpage": "786",
+            "lastpage": "792",
+            "doi": "10.1016/j.ceramint.2018.09.245"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 9",
+            "raw_units": "S/cm",
+            "value": 1e-09,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li7-xLa3Zr2-xTaxO12"
+                    ]
+                }
+            },
+            "names": "Li7-xLa3Zr2-xTaxO12"
+        },
+        "metadata": {
+            "title": "High densification and Li-ion conductivity of Al-free Li7-xLa3Zr2-xTaxO12 garnet solid electrolyte prepared by using ultrafine powders",
+            "publisher": "Elsevier",
+            "journal": "Ceramics International",
+            "date": "2018/09/25",
+            "volume": "45",
+            "issue": "1",
+            "firstpage": "786",
+            "lastpage": "792",
+            "doi": "10.1016/j.ceramint.2018.09.245"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "5 \u00d7 10 \u2212 5 and 2.0 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0002,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li6.4La3Zr1.4Ta0.6O12",
+                        "Li6.3La2.9Ca0.2Zr1.4Ta0.6O12"
+                    ]
+                }
+            },
+            "names": "Li6.3La2.9Ca0.2Zr1.4Ta0.6O12"
+        },
+        "metadata": {
+            "title": "Enhancement of the lithium ion conductivity of Ta-doped Li 7 La 3 Zr 2 O 12 by incorporation of calcium  ",
+            "authors": [
+                "Hany\u00a0El-Shinawi",
+                "Edmund J.\u00a0Cussen",
+                "Serena A.\u00a0Corr",
+                "Hany\u00a0El-Shinawi",
+                "Edmund J.\u00a0Cussen",
+                "Serena A.\u00a0Corr"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Dalton Transactions",
+            "date": "2017/07/25",
+            "language": "en",
+            "volume": "46",
+            "issue": "29",
+            "firstpage": "9415",
+            "lastpage": "9419",
+            "doi": "10.1039/C7DT01573A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2017/dt/c7dt01573a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2017/dt/c7dt01573a"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "5 \u00d7 10 \u2212 5 and 2.0 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0002,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li6.4La3Zr1.4Ta0.6O12",
+                        "Li6.3La2.9Ca0.2Zr1.4Ta0.6O12"
+                    ]
+                }
+            },
+            "names": "Li6.3La2.9Ca0.2Zr1.4Ta0.6O12"
+        },
+        "metadata": {
+            "title": "Enhancement of the lithium ion conductivity of Ta-doped Li 7 La 3 Zr 2 O 12 by incorporation of calcium  ",
+            "authors": [
+                "Hany\u00a0El-Shinawi",
+                "Edmund J.\u00a0Cussen",
+                "Serena A.\u00a0Corr",
+                "Hany\u00a0El-Shinawi",
+                "Edmund J.\u00a0Cussen",
+                "Serena A.\u00a0Corr"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Dalton Transactions",
+            "date": "2017/07/25",
+            "language": "en",
+            "volume": "46",
+            "issue": "29",
+            "firstpage": "9415",
+            "lastpage": "9419",
+            "doi": "10.1039/C7DT01573A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2017/dt/c7dt01573a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2017/dt/c7dt01573a"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZ",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Morphology and transport properties of the solid electrolyte Li7La3Zr2O12 prepared by the solid-state and citrate\u2013nitrate methods",
+            "publisher": "Elsevier",
+            "journal": "Journal of Power Sources",
+            "date": "2011/11/06",
+            "volume": "201",
+            "firstpage": "169",
+            "lastpage": "173",
+            "doi": "10.1016/j.jpowsour.2011.10.108"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZ",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Morphology and transport properties of the solid electrolyte Li7La3Zr2O12 prepared by the solid-state and citrate\u2013nitrate methods",
+            "publisher": "Elsevier",
+            "journal": "Journal of Power Sources",
+            "date": "2011/11/06",
+            "volume": "201",
+            "firstpage": "169",
+            "lastpage": "173",
+            "doi": "10.1016/j.jpowsour.2011.10.108"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Al-doped Li7La3Zr2O12",
+                        "LLZ",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Preparation of lithium ion conductive Al-doped Li7La3Zr2O12 thin films by a sol\u2013gel process",
+            "publisher": "Elsevier",
+            "journal": "Journal of Power Sources",
+            "date": "2014/10/02",
+            "volume": "273",
+            "firstpage": "844",
+            "lastpage": "847",
+            "doi": "10.1016/j.jpowsour.2014.09.164"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Al-doped Li7La3Zr2O12",
+                        "LLZ",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Preparation of lithium ion conductive Al-doped Li7La3Zr2O12 thin films by a sol\u2013gel process",
+            "publisher": "Elsevier",
+            "journal": "Journal of Power Sources",
+            "date": "2014/10/02",
+            "volume": "273",
+            "firstpage": "844",
+            "lastpage": "847",
+            "doi": "10.1016/j.jpowsour.2014.09.164"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Al-doped Li7La3Zr2O12",
+                        "LLZ",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Preparation of lithium ion conductive Al-doped Li7La3Zr2O12 thin films by a sol\u2013gel process",
+            "publisher": "Elsevier",
+            "journal": "Journal of Power Sources",
+            "date": "2014/10/02",
+            "volume": "273",
+            "firstpage": "844",
+            "lastpage": "847",
+            "doi": "10.1016/j.jpowsour.2014.09.164"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "S/cm",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Enhancing ionic conductivity of Li0.35La0.55TiO3 ceramics by introducing Li7La3Zr2O12",
+            "publisher": "Pergamon",
+            "journal": "Electrochimica Acta",
+            "date": "2012/07/15",
+            "volume": "80",
+            "firstpage": "133",
+            "lastpage": "139",
+            "doi": "10.1016/j.electacta.2012.06.115"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "S/cm",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Enhancing ionic conductivity of Li0.35La0.55TiO3 ceramics by introducing Li7La3Zr2O12",
+            "publisher": "Pergamon",
+            "journal": "Electrochimica Acta",
+            "date": "2012/07/15",
+            "volume": "80",
+            "firstpage": "133",
+            "lastpage": "139",
+            "doi": "10.1016/j.electacta.2012.06.115"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 8",
+            "raw_units": "Scm\u22121",
+            "value": 1e-08,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li7La3Sn2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Sn2O12"
+        },
+        "metadata": {
+            "title": "NMR study of Li distribution in Li 7\u2212x H x La 3 Zr 2 O 12 garnets  ",
+            "authors": [
+                "G.\u00a0Larraz",
+                "A.\u00a0Orera",
+                "J.\u00a0Sanz",
+                "I.\u00a0Sobrados",
+                "V.\u00a0Diez-G\u00f3mez",
+                "M. L.\u00a0Sanju\u00e1n",
+                "G.\u00a0Larraz",
+                "A.\u00a0Orera",
+                "J.\u00a0Sanz",
+                "I.\u00a0Sobrados",
+                "V.\u00a0Diez-G\u00f3mez",
+                "M. L.\u00a0Sanju\u00e1n"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2015/02/24",
+            "language": "en",
+            "volume": "3",
+            "issue": "10",
+            "firstpage": "5683",
+            "lastpage": "5691",
+            "doi": "10.1039/C4TA04570J",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ta/c4ta04570j",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ta/c4ta04570j"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "to 1.4 \u00d7 10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.0014,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li6.4La3Zr1.4Nb0.6O12"
+                    ]
+                }
+            },
+            "names": "Li6.4La3Zr1.4Nb0.6O12"
+        },
+        "metadata": {
+            "title": "Polyethylene oxide/garnet-type Li6.4La3Zr1.4Nb0.6O12 composite electrolytes with improved electrochemical performance for solid state lithium rechargeable batteries",
+            "publisher": "Elsevier",
+            "journal": "Composites Science and Technology",
+            "date": "2019/02/28",
+            "volume": "175",
+            "firstpage": "28",
+            "lastpage": "34",
+            "doi": "10.1016/j.compscitech.2019.02.030"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Li 0.6 [Li 0.2 Sn 0.8 S 2 ] \u2013 a layered lithium superionic conductor  ",
+            "authors": [
+                "T.\u00a0Holzmann",
+                "L. M.\u00a0Schoop",
+                "M. N.\u00a0Ali",
+                "I.\u00a0Moudrakovski",
+                "G.\u00a0Gregori",
+                "J.\u00a0Maier",
+                "R. J.\u00a0Cava",
+                "B. V.\u00a0Lotsch",
+                "T.\u00a0Holzmann",
+                "L. M.\u00a0Schoop",
+                "M. N.\u00a0Ali",
+                "I.\u00a0Moudrakovski",
+                "G.\u00a0Gregori",
+                "J.\u00a0Maier",
+                "R. J.\u00a0Cava",
+                "B. V.\u00a0Lotsch"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Energy & Environmental Science",
+            "date": "2016/08/02",
+            "language": "en",
+            "volume": "9",
+            "issue": "8",
+            "firstpage": "2578",
+            "lastpage": "2585",
+            "doi": "10.1039/C6EE00633G",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2016/ee/c6ee00633g",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2016/ee/c6ee00633g"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li6.4Ga0.2La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li6.4Ga0.2La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Overcoming the abnormal grain growth in Ga-doped Li7La3Zr2O12 to enhance the electrochemical stability against Li metal",
+            "publisher": "Elsevier",
+            "journal": "Ceramics International",
+            "date": "2019/04/30",
+            "volume": "45",
+            "issue": "12",
+            "firstpage": "14991",
+            "lastpage": "14996",
+            "doi": "10.1016/j.ceramint.2019.04.236"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li6.75La3Zr1.75Nb0.25O12"
+                    ]
+                }
+            },
+            "names": "Li6.75La3Zr1.75Nb0.25O12"
+        },
+        "metadata": {
+            "title": "Phase relation, structure and ionic conductivity of Li 7\u2212x\u22123y Al y La 3 Zr 2\u2212x Ta x O 12  ",
+            "authors": [
+                "Yasuaki\u00a0Matsuda",
+                "Yuya\u00a0Itami",
+                "Kikuko\u00a0Hayamizu",
+                "Toru\u00a0Ishigaki",
+                "Masaki\u00a0Matsui",
+                "Yasuo\u00a0Takeda",
+                "Osamu\u00a0Yamamoto",
+                "Nobuyuki\u00a0Imanishi",
+                "Yasuaki\u00a0Matsuda",
+                "Yuya\u00a0Itami",
+                "Kikuko\u00a0Hayamizu",
+                "Toru\u00a0Ishigaki",
+                "Masaki\u00a0Matsui",
+                "Yasuo\u00a0Takeda",
+                "Osamu\u00a0Yamamoto",
+                "Nobuyuki\u00a0Imanishi"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2016/08/17",
+            "language": "en",
+            "volume": "6",
+            "issue": "81",
+            "firstpage": "78210",
+            "lastpage": "78218",
+            "doi": "10.1039/C6RA13317G",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2016/ra/c6ra13317g",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2016/ra/c6ra13317g"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 7",
+            "raw_units": "S/cm",
+            "value": 1e-07,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Recent developments in garnet based solid state electrolytes for thin film batteries",
+            "publisher": "Elsevier",
+            "journal": "Current Opinion in Solid State and Materials Science",
+            "date": "2013/11/01",
+            "volume": "18",
+            "issue": "1",
+            "firstpage": "29",
+            "lastpage": "38",
+            "doi": "10.1016/j.cossms.2013.10.002"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 7",
+            "raw_units": "S/cm",
+            "value": 1e-07,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Recent developments in garnet based solid state electrolytes for thin film batteries",
+            "publisher": "Elsevier",
+            "journal": "Current Opinion in Solid State and Materials Science",
+            "date": "2013/11/01",
+            "volume": "18",
+            "issue": "1",
+            "firstpage": "29",
+            "lastpage": "38",
+            "doi": "10.1016/j.cossms.2013.10.002"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li6.4Ga0.2La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li6.4Ga0.2La3Zr2O12"
+        },
+        "metadata": {
+            "title": "A shortcut to garnet-type fast Li-ion conductors for all-solid state batteries  ",
+            "authors": [
+                "Semih\u00a0Afyon",
+                "Frank\u00a0Krumeich",
+                "Jennifer L. M.\u00a0Rupp",
+                "Semih\u00a0Afyon",
+                "Frank\u00a0Krumeich",
+                "Jennifer L. M.\u00a0Rupp"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2015/09/01",
+            "language": "en",
+            "volume": "3",
+            "issue": "36",
+            "firstpage": "18636",
+            "lastpage": "18648",
+            "doi": "10.1039/C5TA03239C",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ta/c5ta03239c",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ta/c5ta03239c"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li6.25Ga0.25La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li6.25Ga0.25La3Zr2O12"
+        },
+        "metadata": {
+            "title": "A shortcut to garnet-type fast Li-ion conductors for all-solid state batteries  ",
+            "authors": [
+                "Semih\u00a0Afyon",
+                "Frank\u00a0Krumeich",
+                "Jennifer L. M.\u00a0Rupp",
+                "Semih\u00a0Afyon",
+                "Frank\u00a0Krumeich",
+                "Jennifer L. M.\u00a0Rupp"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2015/09/01",
+            "language": "en",
+            "volume": "3",
+            "issue": "36",
+            "firstpage": "18636",
+            "lastpage": "18648",
+            "doi": "10.1039/C5TA03239C",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ta/c5ta03239c",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ta/c5ta03239c"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.5 \u00d7 10 \u2212 6 and 1.0 \u00d7 10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivities",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12",
+                        "Al-doped Li7La3Zr2O12"
+                    ],
+                    "labels": [
+                        "iii"
+                    ]
+                }
+            },
+            "names": "Al-doped Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Epitaxial growth and lithium ion conductivity of lithium- oxide garnet for an all solid-state battery electrolyte  ",
+            "authors": [
+                "Sangryun\u00a0Kim",
+                "Masaaki\u00a0Hirayama",
+                "Sou\u00a0Taminato",
+                "Ryoji\u00a0Kanno",
+                "Sangryun\u00a0Kim",
+                "Masaaki\u00a0Hirayama",
+                "Sou\u00a0Taminato",
+                "Ryoji\u00a0Kanno"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Dalton Transactions",
+            "date": "2013/08/20",
+            "language": "en",
+            "volume": "42",
+            "issue": "36",
+            "firstpage": "13112",
+            "lastpage": "13117",
+            "doi": "10.1039/C3DT51795K",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2013/dt/c3dt51795k",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2013/dt/c3dt51795k"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.5 \u00d7 10 \u2212 6 and 1.0 \u00d7 10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivities",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12",
+                        "Al-doped Li7La3Zr2O12"
+                    ],
+                    "labels": [
+                        "iii"
+                    ]
+                }
+            },
+            "names": "Al-doped Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Epitaxial growth and lithium ion conductivity of lithium- oxide garnet for an all solid-state battery electrolyte  ",
+            "authors": [
+                "Sangryun\u00a0Kim",
+                "Masaaki\u00a0Hirayama",
+                "Sou\u00a0Taminato",
+                "Ryoji\u00a0Kanno",
+                "Sangryun\u00a0Kim",
+                "Masaaki\u00a0Hirayama",
+                "Sou\u00a0Taminato",
+                "Ryoji\u00a0Kanno"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Dalton Transactions",
+            "date": "2013/08/20",
+            "language": "en",
+            "volume": "42",
+            "issue": "36",
+            "firstpage": "13112",
+            "lastpage": "13117",
+            "doi": "10.1039/C3DT51795K",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2013/dt/c3dt51795k",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2013/dt/c3dt51795k"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.5 \u00d7 10 \u2212 6 and 1.0 \u00d7 10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivities",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12",
+                        "Al-doped Li7La3Zr2O12"
+                    ],
+                    "labels": [
+                        "iii"
+                    ]
+                }
+            },
+            "names": "Al-doped Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Epitaxial growth and lithium ion conductivity of lithium- oxide garnet for an all solid-state battery electrolyte  ",
+            "authors": [
+                "Sangryun\u00a0Kim",
+                "Masaaki\u00a0Hirayama",
+                "Sou\u00a0Taminato",
+                "Ryoji\u00a0Kanno",
+                "Sangryun\u00a0Kim",
+                "Masaaki\u00a0Hirayama",
+                "Sou\u00a0Taminato",
+                "Ryoji\u00a0Kanno"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Dalton Transactions",
+            "date": "2013/08/20",
+            "language": "en",
+            "volume": "42",
+            "issue": "36",
+            "firstpage": "13112",
+            "lastpage": "13117",
+            "doi": "10.1039/C3DT51795K",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2013/dt/c3dt51795k",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2013/dt/c3dt51795k"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.5 \u00d7 10 \u2212 6 and 1.0 \u00d7 10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivities",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12",
+                        "Al-doped Li7La3Zr2O12"
+                    ],
+                    "labels": [
+                        "iii"
+                    ]
+                }
+            },
+            "names": "Al-doped Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Epitaxial growth and lithium ion conductivity of lithium- oxide garnet for an all solid-state battery electrolyte  ",
+            "authors": [
+                "Sangryun\u00a0Kim",
+                "Masaaki\u00a0Hirayama",
+                "Sou\u00a0Taminato",
+                "Ryoji\u00a0Kanno",
+                "Sangryun\u00a0Kim",
+                "Masaaki\u00a0Hirayama",
+                "Sou\u00a0Taminato",
+                "Ryoji\u00a0Kanno"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Dalton Transactions",
+            "date": "2013/08/20",
+            "language": "en",
+            "volume": "42",
+            "issue": "36",
+            "firstpage": "13112",
+            "lastpage": "13117",
+            "doi": "10.1039/C3DT51795K",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2013/dt/c3dt51795k",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2013/dt/c3dt51795k"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.5 \u00d7 10 \u2212 6 and 1.0 \u00d7 10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivities",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12",
+                        "Al-doped Li7La3Zr2O12"
+                    ],
+                    "labels": [
+                        "iii"
+                    ]
+                }
+            },
+            "names": "Al-doped Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Epitaxial growth and lithium ion conductivity of lithium- oxide garnet for an all solid-state battery electrolyte  ",
+            "authors": [
+                "Sangryun\u00a0Kim",
+                "Masaaki\u00a0Hirayama",
+                "Sou\u00a0Taminato",
+                "Ryoji\u00a0Kanno",
+                "Sangryun\u00a0Kim",
+                "Masaaki\u00a0Hirayama",
+                "Sou\u00a0Taminato",
+                "Ryoji\u00a0Kanno"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Dalton Transactions",
+            "date": "2013/08/20",
+            "language": "en",
+            "volume": "42",
+            "issue": "36",
+            "firstpage": "13112",
+            "lastpage": "13117",
+            "doi": "10.1039/C3DT51795K",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2013/dt/c3dt51795k",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2013/dt/c3dt51795k"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.5 \u00d7 10 \u2212 6 and 1.0 \u00d7 10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivities",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12",
+                        "Al-doped Li7La3Zr2O12"
+                    ],
+                    "labels": [
+                        "iii"
+                    ]
+                }
+            },
+            "names": "Al-doped Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Epitaxial growth and lithium ion conductivity of lithium- oxide garnet for an all solid-state battery electrolyte  ",
+            "authors": [
+                "Sangryun\u00a0Kim",
+                "Masaaki\u00a0Hirayama",
+                "Sou\u00a0Taminato",
+                "Ryoji\u00a0Kanno",
+                "Sangryun\u00a0Kim",
+                "Masaaki\u00a0Hirayama",
+                "Sou\u00a0Taminato",
+                "Ryoji\u00a0Kanno"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Dalton Transactions",
+            "date": "2013/08/20",
+            "language": "en",
+            "volume": "42",
+            "issue": "36",
+            "firstpage": "13112",
+            "lastpage": "13117",
+            "doi": "10.1039/C3DT51795K",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2013/dt/c3dt51795k",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2013/dt/c3dt51795k"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li5.5La3Nb1.75In0.25O12"
+                    ]
+                }
+            },
+            "names": "Li5.5La3Nb1.75In0.25O12"
+        },
+        "metadata": {
+            "title": "Evaluation of fundamental transport properties of Li-excess garnet-type Li 5+2x La 3 Ta 2\u2212x Y x O 12 ( x = 0.25, 0.5 and 0.75) electrolytes using AC impedance and dielectric spectroscopy ",
+            "authors": [
+                "Ashok Kumar\u00a0Baral",
+                "Sumaletha\u00a0Narayanan",
+                "Farshid\u00a0Ramezanipour",
+                "Venkataraman\u00a0Thangadurai",
+                "Ashok Kumar\u00a0Baral",
+                "Sumaletha\u00a0Narayanan",
+                "Farshid\u00a0Ramezanipour",
+                "Venkataraman\u00a0Thangadurai"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Physical Chemistry Chemical Physics",
+            "date": "2014/05/21",
+            "language": "en",
+            "volume": "16",
+            "issue": "23",
+            "firstpage": "11356",
+            "lastpage": "11365",
+            "doi": "10.1039/C4CP00418C",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/cp/c4cp00418c",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/cp/c4cp00418c"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Managing transport properties in composite electrodes/electrolytes for all-solid-state lithium-based batteries  ",
+            "authors": [
+                "Marisa\u00a0Falco",
+                "Stefania\u00a0Ferrari",
+                "Giovanni Battista\u00a0Appetecchi",
+                "Claudio\u00a0Gerbaldi",
+                "Marisa\u00a0Falco",
+                "Stefania\u00a0Ferrari",
+                "Giovanni Battista\u00a0Appetecchi",
+                "Claudio\u00a0Gerbaldi"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Molecular Systems Design & Engineering",
+            "date": "2019/08/05",
+            "language": "en",
+            "volume": "4",
+            "issue": "4",
+            "firstpage": "850",
+            "lastpage": "871",
+            "doi": "10.1039/C9ME00050J",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2019/me/c9me00050j",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2019/me/c9me00050j"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Managing transport properties in composite electrodes/electrolytes for all-solid-state lithium-based batteries  ",
+            "authors": [
+                "Marisa\u00a0Falco",
+                "Stefania\u00a0Ferrari",
+                "Giovanni Battista\u00a0Appetecchi",
+                "Claudio\u00a0Gerbaldi",
+                "Marisa\u00a0Falco",
+                "Stefania\u00a0Ferrari",
+                "Giovanni Battista\u00a0Appetecchi",
+                "Claudio\u00a0Gerbaldi"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Molecular Systems Design & Engineering",
+            "date": "2019/08/05",
+            "language": "en",
+            "volume": "4",
+            "issue": "4",
+            "firstpage": "850",
+            "lastpage": "871",
+            "doi": "10.1039/C9ME00050J",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2019/me/c9me00050j",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2019/me/c9me00050j"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Managing transport properties in composite electrodes/electrolytes for all-solid-state lithium-based batteries  ",
+            "authors": [
+                "Marisa\u00a0Falco",
+                "Stefania\u00a0Ferrari",
+                "Giovanni Battista\u00a0Appetecchi",
+                "Claudio\u00a0Gerbaldi",
+                "Marisa\u00a0Falco",
+                "Stefania\u00a0Ferrari",
+                "Giovanni Battista\u00a0Appetecchi",
+                "Claudio\u00a0Gerbaldi"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Molecular Systems Design & Engineering",
+            "date": "2019/08/05",
+            "language": "en",
+            "volume": "4",
+            "issue": "4",
+            "firstpage": "850",
+            "lastpage": "871",
+            "doi": "10.1039/C9ME00050J",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2019/me/c9me00050j",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2019/me/c9me00050j"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Managing transport properties in composite electrodes/electrolytes for all-solid-state lithium-based batteries  ",
+            "authors": [
+                "Marisa\u00a0Falco",
+                "Stefania\u00a0Ferrari",
+                "Giovanni Battista\u00a0Appetecchi",
+                "Claudio\u00a0Gerbaldi",
+                "Marisa\u00a0Falco",
+                "Stefania\u00a0Ferrari",
+                "Giovanni Battista\u00a0Appetecchi",
+                "Claudio\u00a0Gerbaldi"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Molecular Systems Design & Engineering",
+            "date": "2019/08/05",
+            "language": "en",
+            "volume": "4",
+            "issue": "4",
+            "firstpage": "850",
+            "lastpage": "871",
+            "doi": "10.1039/C9ME00050J",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2019/me/c9me00050j",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2019/me/c9me00050j"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "7.8 \u00d7 10 \u2212 6 and 8.2 \u00d7 10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 8.2e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li5La3Sb2O12"
+                    ],
+                    "roles": [
+                        "product"
+                    ]
+                }
+            },
+            "names": "Li5La3Sb2O12"
+        },
+        "metadata": {
+            "title": "Structure and lithium ion conductivity of garnet-like Li5La3Sb2O12 and Li6SrLa2Sb2O12",
+            "publisher": "Pergamon",
+            "journal": "Materials Research Bulletin",
+            "date": "2007/11/07",
+            "volume": "43",
+            "issue": "10",
+            "firstpage": "2579",
+            "lastpage": "2591",
+            "doi": "10.1016/j.materresbull.2007.10.035"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "7.8 \u00d7 10 \u2212 6 and 8.2 \u00d7 10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 8.2e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li5La3Sb2O12"
+                    ],
+                    "roles": [
+                        "product"
+                    ]
+                }
+            },
+            "names": "Li5La3Sb2O12"
+        },
+        "metadata": {
+            "title": "Structure and lithium ion conductivity of garnet-like Li5La3Sb2O12 and Li6SrLa2Sb2O12",
+            "publisher": "Pergamon",
+            "journal": "Materials Research Bulletin",
+            "date": "2007/11/07",
+            "volume": "43",
+            "issue": "10",
+            "firstpage": "2579",
+            "lastpage": "2591",
+            "doi": "10.1016/j.materresbull.2007.10.035"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 9",
+            "raw_units": "Scm\u22121",
+            "value": 1e-09,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZ",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Structure and lithium ion conductivity of garnet-like Li5La3Sb2O12 and Li6SrLa2Sb2O12",
+            "publisher": "Pergamon",
+            "journal": "Materials Research Bulletin",
+            "date": "2007/11/07",
+            "volume": "43",
+            "issue": "10",
+            "firstpage": "2579",
+            "lastpage": "2591",
+            "doi": "10.1016/j.materresbull.2007.10.035"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 9",
+            "raw_units": "Scm\u22121",
+            "value": 1e-09,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZ",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Structure and lithium ion conductivity of garnet-like Li5La3Sb2O12 and Li6SrLa2Sb2O12",
+            "publisher": "Pergamon",
+            "journal": "Materials Research Bulletin",
+            "date": "2007/11/07",
+            "volume": "43",
+            "issue": "10",
+            "firstpage": "2579",
+            "lastpage": "2591",
+            "doi": "10.1016/j.materresbull.2007.10.035"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZ",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Structure and lithium ion conductivity of garnet-like Li5La3Sb2O12 and Li6SrLa2Sb2O12",
+            "publisher": "Pergamon",
+            "journal": "Materials Research Bulletin",
+            "date": "2007/11/07",
+            "volume": "43",
+            "issue": "10",
+            "firstpage": "2579",
+            "lastpage": "2591",
+            "doi": "10.1016/j.materresbull.2007.10.035"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZ",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Structure and lithium ion conductivity of garnet-like Li5La3Sb2O12 and Li6SrLa2Sb2O12",
+            "publisher": "Pergamon",
+            "journal": "Materials Research Bulletin",
+            "date": "2007/11/07",
+            "volume": "43",
+            "issue": "10",
+            "firstpage": "2579",
+            "lastpage": "2591",
+            "doi": "10.1016/j.materresbull.2007.10.035"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "7.8 \u00d7 10 \u2212 6 and 8.2 \u00d7 10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 8.2e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li5La3Sb2O12"
+                    ],
+                    "roles": [
+                        "product"
+                    ]
+                }
+            },
+            "names": "Li5La3Sb2O12"
+        },
+        "metadata": {
+            "title": "Structure and lithium ion conductivity of garnet-like Li5La3Sb2O12 and Li6SrLa2Sb2O12",
+            "publisher": "Pergamon",
+            "journal": "Materials Research Bulletin",
+            "date": "2007/11/07",
+            "volume": "43",
+            "issue": "10",
+            "firstpage": "2579",
+            "lastpage": "2591",
+            "doi": "10.1016/j.materresbull.2007.10.035"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "7.8 \u00d7 10 \u2212 6 and 8.2 \u00d7 10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 8.2e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li5La3Sb2O12"
+                    ],
+                    "roles": [
+                        "product"
+                    ]
+                }
+            },
+            "names": "Li5La3Sb2O12"
+        },
+        "metadata": {
+            "title": "Structure and lithium ion conductivity of garnet-like Li5La3Sb2O12 and Li6SrLa2Sb2O12",
+            "publisher": "Pergamon",
+            "journal": "Materials Research Bulletin",
+            "date": "2007/11/07",
+            "volume": "43",
+            "issue": "10",
+            "firstpage": "2579",
+            "lastpage": "2591",
+            "doi": "10.1016/j.materresbull.2007.10.035"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 9",
+            "raw_units": "Scm\u22121",
+            "value": 1e-09,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZ",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Structure and lithium ion conductivity of garnet-like Li5La3Sb2O12 and Li6SrLa2Sb2O12",
+            "publisher": "Pergamon",
+            "journal": "Materials Research Bulletin",
+            "date": "2007/11/07",
+            "volume": "43",
+            "issue": "10",
+            "firstpage": "2579",
+            "lastpage": "2591",
+            "doi": "10.1016/j.materresbull.2007.10.035"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 9",
+            "raw_units": "Scm\u22121",
+            "value": 1e-09,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZ",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Structure and lithium ion conductivity of garnet-like Li5La3Sb2O12 and Li6SrLa2Sb2O12",
+            "publisher": "Pergamon",
+            "journal": "Materials Research Bulletin",
+            "date": "2007/11/07",
+            "volume": "43",
+            "issue": "10",
+            "firstpage": "2579",
+            "lastpage": "2591",
+            "doi": "10.1016/j.materresbull.2007.10.035"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZ",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Structure and lithium ion conductivity of garnet-like Li5La3Sb2O12 and Li6SrLa2Sb2O12",
+            "publisher": "Pergamon",
+            "journal": "Materials Research Bulletin",
+            "date": "2007/11/07",
+            "volume": "43",
+            "issue": "10",
+            "firstpage": "2579",
+            "lastpage": "2591",
+            "doi": "10.1016/j.materresbull.2007.10.035"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZ",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Structure and lithium ion conductivity of garnet-like Li5La3Sb2O12 and Li6SrLa2Sb2O12",
+            "publisher": "Pergamon",
+            "journal": "Materials Research Bulletin",
+            "date": "2007/11/07",
+            "volume": "43",
+            "issue": "10",
+            "firstpage": "2579",
+            "lastpage": "2591",
+            "doi": "10.1016/j.materresbull.2007.10.035"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Nb-doped Li6.25La3Zr1.25Nb0.75O12"
+                    ]
+                }
+            },
+            "names": "Nb-doped Li6.25La3Zr1.25Nb0.75O12"
+        },
+        "metadata": {
+            "title": "Garnet-type solid-state fast Li ion conductors for Li batteries: critical review ",
+            "authors": [
+                "Venkataraman\u00a0Thangadurai",
+                "Sumaletha\u00a0Narayanan",
+                "Dana\u00a0Pinzaru",
+                "Venkataraman\u00a0Thangadurai",
+                "Sumaletha\u00a0Narayanan",
+                "Dana\u00a0Pinzaru"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Chemical Society Reviews",
+            "date": "2014/06/09",
+            "language": "en",
+            "volume": "43",
+            "issue": "13",
+            "firstpage": "4714",
+            "lastpage": "4727",
+            "doi": "10.1039/C4CS00020J",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/cs/c4cs00020j",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/cs/c4cs00020j"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Synthesis of Ta and Ca doped Li7La3Zr2O12 solid-state electrolyte via simple solution method and its application in suppressing shuttle effect of Li-S battery",
+            "publisher": "Elsevier",
+            "journal": "Journal of Alloys and Compounds",
+            "date": "2018/02/13",
+            "volume": "744",
+            "firstpage": "386",
+            "lastpage": "394",
+            "doi": "10.1016/j.jallcom.2018.02.134"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Synthesis of Ta and Ca doped Li7La3Zr2O12 solid-state electrolyte via simple solution method and its application in suppressing shuttle effect of Li-S battery",
+            "publisher": "Elsevier",
+            "journal": "Journal of Alloys and Compounds",
+            "date": "2018/02/13",
+            "volume": "744",
+            "firstpage": "386",
+            "lastpage": "394",
+            "doi": "10.1016/j.jallcom.2018.02.134"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Improved Li-ion diffusion and stability of a LiNi 0.5 Mn 1.5 O 4 cathode through in situ co-doping with dual-metal cations and incorporation of a superionic conductor ",
+            "authors": [
+                "Weijie\u00a0Liu",
+                "Qiang\u00a0Shi",
+                "Qunting\u00a0Qu",
+                "Tian\u00a0Gao",
+                "Guobin\u00a0Zhu",
+                "Jie\u00a0Shao",
+                "Honghe\u00a0Zheng",
+                "Weijie\u00a0Liu",
+                "Qiang\u00a0Shi",
+                "Qunting\u00a0Qu",
+                "Tian\u00a0Gao",
+                "Guobin\u00a0Zhu",
+                "Jie\u00a0Shao",
+                "Honghe\u00a0Zheng"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2016/12/20",
+            "language": "en",
+            "volume": "5",
+            "issue": "1",
+            "firstpage": "145",
+            "lastpage": "154",
+            "doi": "10.1039/C6TA08891K",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2017/ta/c6ta08891k",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2017/ta/c6ta08891k"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Improved Li-ion diffusion and stability of a LiNi 0.5 Mn 1.5 O 4 cathode through in situ co-doping with dual-metal cations and incorporation of a superionic conductor ",
+            "authors": [
+                "Weijie\u00a0Liu",
+                "Qiang\u00a0Shi",
+                "Qunting\u00a0Qu",
+                "Tian\u00a0Gao",
+                "Guobin\u00a0Zhu",
+                "Jie\u00a0Shao",
+                "Honghe\u00a0Zheng",
+                "Weijie\u00a0Liu",
+                "Qiang\u00a0Shi",
+                "Qunting\u00a0Qu",
+                "Tian\u00a0Gao",
+                "Guobin\u00a0Zhu",
+                "Jie\u00a0Shao",
+                "Honghe\u00a0Zheng"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2016/12/20",
+            "language": "en",
+            "volume": "5",
+            "issue": "1",
+            "firstpage": "145",
+            "lastpage": "154",
+            "doi": "10.1039/C6TA08891K",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2017/ta/c6ta08891k",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2017/ta/c6ta08891k"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZ",
+                        "Li7La3Zr2O12"
+                    ],
+                    "roles": [
+                        "product"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Low-temperature growth of idiomorphic cubic-phase Li 7 La 3 Zr 2 O 12 crystals using LiOH flux  ",
+            "authors": [
+                "Takeshi\u00a0Kimijima",
+                "Nobuyuki\u00a0Zettsu",
+                "Hitoshi\u00a0Onodera",
+                "Kunio\u00a0Yubuta",
+                "Shuji\u00a0Oishi",
+                "Katsuya\u00a0Teshima",
+                "Takeshi\u00a0Kimijima",
+                "Nobuyuki\u00a0Zettsu",
+                "Hitoshi\u00a0Onodera",
+                "Kunio\u00a0Yubuta",
+                "Shuji\u00a0Oishi",
+                "Katsuya\u00a0Teshima"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "CrystEngComm",
+            "date": "2015/04/28",
+            "language": "en",
+            "volume": "17",
+            "issue": "18",
+            "firstpage": "3487",
+            "lastpage": "3492",
+            "doi": "10.1039/C5CE00386E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ce/c5ce00386e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ce/c5ce00386e"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZ",
+                        "Li7La3Zr2O12"
+                    ],
+                    "roles": [
+                        "product"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Low-temperature growth of idiomorphic cubic-phase Li 7 La 3 Zr 2 O 12 crystals using LiOH flux  ",
+            "authors": [
+                "Takeshi\u00a0Kimijima",
+                "Nobuyuki\u00a0Zettsu",
+                "Hitoshi\u00a0Onodera",
+                "Kunio\u00a0Yubuta",
+                "Shuji\u00a0Oishi",
+                "Katsuya\u00a0Teshima",
+                "Takeshi\u00a0Kimijima",
+                "Nobuyuki\u00a0Zettsu",
+                "Hitoshi\u00a0Onodera",
+                "Kunio\u00a0Yubuta",
+                "Shuji\u00a0Oishi",
+                "Katsuya\u00a0Teshima"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "CrystEngComm",
+            "date": "2015/04/28",
+            "language": "en",
+            "volume": "17",
+            "issue": "18",
+            "firstpage": "3487",
+            "lastpage": "3492",
+            "doi": "10.1039/C5CE00386E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ce/c5ce00386e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ce/c5ce00386e"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Elucidating the role of dopants in the critical current density for dendrite formation in garnet electrolytes  ",
+            "authors": [
+                "Federico\u00a0M.\u00a0Pesci",
+                "Rowena H.\u00a0Brugge",
+                "A. K. Ola\u00a0Hekselman",
+                "Andrea\u00a0Cavallaro",
+                "Richard J.\u00a0Chater",
+                "Ainara\u00a0Aguadero",
+                "Federico\u00a0M.\u00a0Pesci",
+                "Rowena H.\u00a0Brugge",
+                "A. K. Ola\u00a0Hekselman",
+                "Andrea\u00a0Cavallaro",
+                "Richard J.\u00a0Chater",
+                "Ainara\u00a0Aguadero"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2018/10/16",
+            "language": "en",
+            "volume": "6",
+            "issue": "40",
+            "firstpage": "19817",
+            "lastpage": "19827",
+            "doi": "10.1039/C8TA08366E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2018/ta/c8ta08366e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2018/ta/c8ta08366e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLZO",
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "Elucidating the role of dopants in the critical current density for dendrite formation in garnet electrolytes  ",
+            "authors": [
+                "Federico\u00a0M.\u00a0Pesci",
+                "Rowena H.\u00a0Brugge",
+                "A. K. Ola\u00a0Hekselman",
+                "Andrea\u00a0Cavallaro",
+                "Richard J.\u00a0Chater",
+                "Ainara\u00a0Aguadero",
+                "Federico\u00a0M.\u00a0Pesci",
+                "Rowena H.\u00a0Brugge",
+                "A. K. Ola\u00a0Hekselman",
+                "Andrea\u00a0Cavallaro",
+                "Richard J.\u00a0Chater",
+                "Ainara\u00a0Aguadero"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2018/10/16",
+            "language": "en",
+            "volume": "6",
+            "issue": "40",
+            "firstpage": "19817",
+            "lastpage": "19827",
+            "doi": "10.1039/C8TA08366E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2018/ta/c8ta08366e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2018/ta/c8ta08366e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.0 \u00d7 10 \u2212 5 and 5.2 \u00d7 10 \u2212 5",
+            "raw_units": "S/cm",
+            "value": 5.2000000000000004e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li6SrLa2Bi2O12"
+                    ]
+                }
+            },
+            "names": "Li6SrLa2Bi2O12"
+        },
+        "metadata": {
+            "title": "Structure and lithium ion conductivity of bismuth containing lithium garnets Li5La3Bi2O12 and Li6SrLa2Bi2O12",
+            "publisher": "Elsevier",
+            "journal": "Materials Science and Engineering: B",
+            "date": "2007/08/08",
+            "volume": "143",
+            "issue": "1-3",
+            "firstpage": "14",
+            "lastpage": "20",
+            "doi": "10.1016/j.mseb.2007.07.009"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.0 \u00d7 10 \u2212 5 and 5.2 \u00d7 10 \u2212 5",
+            "raw_units": "S/cm",
+            "value": 5.2000000000000004e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li6SrLa2Bi2O12"
+                    ]
+                }
+            },
+            "names": "Li6SrLa2Bi2O12"
+        },
+        "metadata": {
+            "title": "Structure and lithium ion conductivity of bismuth containing lithium garnets Li5La3Bi2O12 and Li6SrLa2Bi2O12",
+            "publisher": "Elsevier",
+            "journal": "Materials Science and Engineering: B",
+            "date": "2007/08/08",
+            "volume": "143",
+            "issue": "1-3",
+            "firstpage": "14",
+            "lastpage": "20",
+            "doi": "10.1016/j.mseb.2007.07.009"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "to 2.1 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00021,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li7La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li7La3Zr2O12"
+        },
+        "metadata": {
+            "title": "MOF-derived nanoporous multifunctional fillers enhancing the performances of polymer electrolytes for solid-state lithium batteries  ",
+            "authors": [
+                "Jian-Fang\u00a0Wu",
+                "Xin\u00a0Guo",
+                "Jian-Fang\u00a0Wu",
+                "Xin\u00a0Guo"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2019/02/05",
+            "language": "en",
+            "volume": "7",
+            "issue": "6",
+            "firstpage": "2653",
+            "lastpage": "2659",
+            "doi": "10.1039/C8TA10124H",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2019/ta/c8ta10124h",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2019/ta/c8ta10124h"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li6.4Ga0.2La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li6.4Ga0.2La3Zr2O12"
+        },
+        "metadata": {
+            "title": "A shortcut to garnet-type fast Li-ion conductors for all-solid state batteries  ",
+            "authors": [
+                "Semih\u00a0Afyon",
+                "Frank\u00a0Krumeich",
+                "Jennifer L. M.\u00a0Rupp",
+                "Semih\u00a0Afyon",
+                "Frank\u00a0Krumeich",
+                "Jennifer L. M.\u00a0Rupp"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2015/09/01",
+            "language": "en",
+            "volume": "3",
+            "issue": "36",
+            "firstpage": "18636",
+            "lastpage": "18648",
+            "doi": "10.1039/C5TA03239C",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ta/c5ta03239c",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ta/c5ta03239c"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li6.25Ga0.25La3Zr2O12"
+                    ]
+                }
+            },
+            "names": "Li6.25Ga0.25La3Zr2O12"
+        },
+        "metadata": {
+            "title": "A shortcut to garnet-type fast Li-ion conductors for all-solid state batteries  ",
+            "authors": [
+                "Semih\u00a0Afyon",
+                "Frank\u00a0Krumeich",
+                "Jennifer L. M.\u00a0Rupp",
+                "Semih\u00a0Afyon",
+                "Frank\u00a0Krumeich",
+                "Jennifer L. M.\u00a0Rupp"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2015/09/01",
+            "language": "en",
+            "volume": "3",
+            "issue": "36",
+            "firstpage": "18636",
+            "lastpage": "18648",
+            "doi": "10.1039/C5TA03239C",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ta/c5ta03239c",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ta/c5ta03239c"
+        }
+    }
+]

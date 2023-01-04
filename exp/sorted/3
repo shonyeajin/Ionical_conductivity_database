@@ -1,0 +1,5232 @@
+[
+    {
+        "BatteryConductivity": {
+            "raw_value": "0.2",
+            "raw_units": "Scm\u22121",
+            "value": [
+                0.2
+            ],
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li3Cr(MoO4)3 @ C"
+                    ]
+                }
+            },
+            "names": "Li3Cr(MoO4)3 @ C"
+        },
+        "metadata": {
+            "title": "Li 3 Cr(MoO 4 ) 3 : a NASICON-type high specific capacity cathode material for lithium ion batteries  ",
+            "authors": [
+                "Kai\u00a0Feng",
+                "Fuxiang\u00a0Wang",
+                "Hongzhang\u00a0Zhang",
+                "Xianfeng\u00a0Li",
+                "Huamin\u00a0Zhang",
+                "Kai\u00a0Feng",
+                "Fuxiang\u00a0Wang",
+                "Hongzhang\u00a0Zhang",
+                "Xianfeng\u00a0Li",
+                "Huamin\u00a0Zhang"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2018/10/09",
+            "language": "en",
+            "volume": "6",
+            "issue": "39",
+            "firstpage": "19107",
+            "lastpage": "19112",
+            "doi": "10.1039/C8TA07782G",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2018/ta/c8ta07782g",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2018/ta/c8ta07782g"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li6Y(BO3)3"
+                    ]
+                }
+            },
+            "names": "Li6Y(BO3)3"
+        },
+        "metadata": {
+            "title": "Lithium-ion conductivity in Li 6 Y(BO 3 ) 3 : a thermally and electrochemically robust solid electrolyte  ",
+            "authors": [
+                "Beatriz\u00a0Lopez-Bermudez",
+                "Wolfgang G.\u00a0Zeier",
+                "Shiliang\u00a0Zhou",
+                "Anna J.\u00a0Lehner",
+                "Jerry\u00a0Hu",
+                "David O.\u00a0Scanlon",
+                "Benjamin J.\u00a0Morgan",
+                "Brent C.\u00a0Melot",
+                "Beatriz\u00a0Lopez-Bermudez",
+                "Wolfgang G.\u00a0Zeier",
+                "Shiliang\u00a0Zhou",
+                "Anna J.\u00a0Lehner",
+                "Jerry\u00a0Hu",
+                "David O.\u00a0Scanlon",
+                "Benjamin J.\u00a0Morgan",
+                "Brent C.\u00a0Melot"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2016/05/03",
+            "language": "en",
+            "volume": "4",
+            "issue": "18",
+            "firstpage": "6972",
+            "lastpage": "6979",
+            "doi": "10.1039/C5TA09436D",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2016/ta/c5ta09436d",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2016/ta/c5ta09436d"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "1.2 \u00d7 10 \u2212 4 and 6.7 \u00d7 10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 6.7e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "Ionic conductivities",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li1.3Al0.3Ti1.7(PO4)3",
+                        "LATP",
+                        "Li1+xAlxTi2\u2212x(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1+xAlxTi2\u2212x(PO4)3"
+        },
+        "metadata": {
+            "title": "Synthesis of Li1.3Al0.3Ti1.7(PO4)3 by sol\u2013gel technique",
+            "publisher": "North-Holland",
+            "journal": "Materials Letters",
+            "date": "2003/10/27",
+            "volume": "58",
+            "issue": "7-8",
+            "firstpage": "1227",
+            "lastpage": "1230",
+            "doi": "10.1016/j.matlet.2003.09.013"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "1.2 \u00d7 10 \u2212 4 and 6.7 \u00d7 10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 6.7e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "Ionic conductivities",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li1.3Al0.3Ti1.7(PO4)3",
+                        "LATP",
+                        "Li1+xAlxTi2\u2212x(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1+xAlxTi2\u2212x(PO4)3"
+        },
+        "metadata": {
+            "title": "Synthesis of Li1.3Al0.3Ti1.7(PO4)3 by sol\u2013gel technique",
+            "publisher": "North-Holland",
+            "journal": "Materials Letters",
+            "date": "2003/10/27",
+            "volume": "58",
+            "issue": "7-8",
+            "firstpage": "1227",
+            "lastpage": "1230",
+            "doi": "10.1016/j.matlet.2003.09.013"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "1.2 \u00d7 10 \u2212 4 and 6.7 \u00d7 10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 6.7e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "Ionic conductivities",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li1.3Al0.3Ti1.7(PO4)3",
+                        "LATP",
+                        "Li1+xAlxTi2\u2212x(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1+xAlxTi2\u2212x(PO4)3"
+        },
+        "metadata": {
+            "title": "Synthesis of Li1.3Al0.3Ti1.7(PO4)3 by sol\u2013gel technique",
+            "publisher": "North-Holland",
+            "journal": "Materials Letters",
+            "date": "2003/10/27",
+            "volume": "58",
+            "issue": "7-8",
+            "firstpage": "1227",
+            "lastpage": "1230",
+            "doi": "10.1016/j.matlet.2003.09.013"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "1.2 \u00d7 10 \u2212 4 and 6.7 \u00d7 10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 6.7e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "Ionic conductivities",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li1.3Al0.3Ti1.7(PO4)3",
+                        "LATP",
+                        "Li1+xAlxTi2\u2212x(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1+xAlxTi2\u2212x(PO4)3"
+        },
+        "metadata": {
+            "title": "Synthesis of Li1.3Al0.3Ti1.7(PO4)3 by sol\u2013gel technique",
+            "publisher": "North-Holland",
+            "journal": "Materials Letters",
+            "date": "2003/10/27",
+            "volume": "58",
+            "issue": "7-8",
+            "firstpage": "1227",
+            "lastpage": "1230",
+            "doi": "10.1016/j.matlet.2003.09.013"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "1.2 \u00d7 10 \u2212 4 and 6.7 \u00d7 10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 6.7e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "Ionic conductivities",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li1.3Al0.3Ti1.7(PO4)3",
+                        "LATP",
+                        "Li1+xAlxTi2\u2212x(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1+xAlxTi2\u2212x(PO4)3"
+        },
+        "metadata": {
+            "title": "Synthesis of Li1.3Al0.3Ti1.7(PO4)3 by sol\u2013gel technique",
+            "publisher": "North-Holland",
+            "journal": "Materials Letters",
+            "date": "2003/10/27",
+            "volume": "58",
+            "issue": "7-8",
+            "firstpage": "1227",
+            "lastpage": "1230",
+            "doi": "10.1016/j.matlet.2003.09.013"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "1.2 \u00d7 10 \u2212 4 and 6.7 \u00d7 10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 6.7e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "Ionic conductivities",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li1.3Al0.3Ti1.7(PO4)3",
+                        "LATP",
+                        "Li1+xAlxTi2\u2212x(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1+xAlxTi2\u2212x(PO4)3"
+        },
+        "metadata": {
+            "title": "Synthesis of Li1.3Al0.3Ti1.7(PO4)3 by sol\u2013gel technique",
+            "publisher": "North-Holland",
+            "journal": "Materials Letters",
+            "date": "2003/10/27",
+            "volume": "58",
+            "issue": "7-8",
+            "firstpage": "1227",
+            "lastpage": "1230",
+            "doi": "10.1016/j.matlet.2003.09.013"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LAGP",
+                        "Li1+xAlxGe2\u2212x(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1+xAlxGe2\u2212x(PO4)3"
+        },
+        "metadata": {
+            "title": "Synthesis of Li1.3Al0.3Ti1.7(PO4)3 by sol\u2013gel technique",
+            "publisher": "North-Holland",
+            "journal": "Materials Letters",
+            "date": "2003/10/27",
+            "volume": "58",
+            "issue": "7-8",
+            "firstpage": "1227",
+            "lastpage": "1230",
+            "doi": "10.1016/j.matlet.2003.09.013"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LAGP",
+                        "Li1+xAlxGe2\u2212x(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1+xAlxGe2\u2212x(PO4)3"
+        },
+        "metadata": {
+            "title": "Synthesis of Li1.3Al0.3Ti1.7(PO4)3 by sol\u2013gel technique",
+            "publisher": "North-Holland",
+            "journal": "Materials Letters",
+            "date": "2003/10/27",
+            "volume": "58",
+            "issue": "7-8",
+            "firstpage": "1227",
+            "lastpage": "1230",
+            "doi": "10.1016/j.matlet.2003.09.013"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "0.092",
+            "raw_units": "Scm\u22121",
+            "value": [
+                0.092
+            ],
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na2SO4"
+                    ]
+                }
+            },
+            "names": "Na2SO4"
+        },
+        "metadata": {
+            "title": "The influences of operating conditions and design configurations on the performance of symmetric electrochemical capacitors ",
+            "authors": [
+                "Innocent S.\u00a0Ike",
+                "Iakovos\u00a0Sigalas",
+                "Sunny E.\u00a0Iyuke",
+                "Innocent S.\u00a0Ike",
+                "Iakovos\u00a0Sigalas",
+                "Sunny E.\u00a0Iyuke"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Physical Chemistry Chemical Physics",
+            "date": "2016/10/19",
+            "language": "en",
+            "volume": "18",
+            "issue": "41",
+            "firstpage": "28626",
+            "lastpage": "28647",
+            "doi": "10.1039/C6CP06214H",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2016/cp/c6cp06214h",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2016/cp/c6cp06214h"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "0.075",
+            "raw_units": "Scm\u22121",
+            "value": [
+                0.075
+            ],
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na2SO4"
+                    ]
+                }
+            },
+            "names": "Na2SO4"
+        },
+        "metadata": {
+            "title": "The influences of operating conditions and design configurations on the performance of symmetric electrochemical capacitors ",
+            "authors": [
+                "Innocent S.\u00a0Ike",
+                "Iakovos\u00a0Sigalas",
+                "Sunny E.\u00a0Iyuke",
+                "Innocent S.\u00a0Ike",
+                "Iakovos\u00a0Sigalas",
+                "Sunny E.\u00a0Iyuke"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Physical Chemistry Chemical Physics",
+            "date": "2016/10/19",
+            "language": "en",
+            "volume": "18",
+            "issue": "41",
+            "firstpage": "28626",
+            "lastpage": "28647",
+            "doi": "10.1039/C6CP06214H",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2016/cp/c6cp06214h",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2016/cp/c6cp06214h"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "\u2212 4 \u2013 5 \u00d7 10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.005,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li\u2013Al\u2013Ge\u2013PO4",
+                        "LAGP",
+                        "Li1+xAlxGe2\u2212x(PO4)3"
+                    ],
+                    "labels": [
+                        "x = 0.5"
+                    ]
+                }
+            },
+            "names": "Li1+xAlxGe2\u2212x(PO4)3"
+        },
+        "metadata": {
+            "title": "A critical review on lithium\u2013air battery electrolytes ",
+            "authors": [
+                "Moran\u00a0Balaish",
+                "Alexander\u00a0Kraytsberg",
+                "Yair\u00a0Ein-Eli",
+                "Moran\u00a0Balaish",
+                "Alexander\u00a0Kraytsberg",
+                "Yair\u00a0Ein-Eli"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Physical Chemistry Chemical Physics",
+            "date": "2014/01/22",
+            "language": "en",
+            "volume": "16",
+            "issue": "7",
+            "firstpage": "2801",
+            "lastpage": "2822",
+            "doi": "10.1039/C3CP54165G",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/cp/c3cp54165g",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/cp/c3cp54165g"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "\u2212 4 \u2013 5 \u00d7 10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.005,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li\u2013Al\u2013Ge\u2013PO4",
+                        "LAGP",
+                        "Li1+xAlxGe2\u2212x(PO4)3"
+                    ],
+                    "labels": [
+                        "x = 0.5"
+                    ]
+                }
+            },
+            "names": "Li1+xAlxGe2\u2212x(PO4)3"
+        },
+        "metadata": {
+            "title": "A critical review on lithium\u2013air battery electrolytes ",
+            "authors": [
+                "Moran\u00a0Balaish",
+                "Alexander\u00a0Kraytsberg",
+                "Yair\u00a0Ein-Eli",
+                "Moran\u00a0Balaish",
+                "Alexander\u00a0Kraytsberg",
+                "Yair\u00a0Ein-Eli"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Physical Chemistry Chemical Physics",
+            "date": "2014/01/22",
+            "language": "en",
+            "volume": "16",
+            "issue": "7",
+            "firstpage": "2801",
+            "lastpage": "2822",
+            "doi": "10.1039/C3CP54165G",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/cp/c3cp54165g",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/cp/c3cp54165g"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "\u2212 4 \u2013 5 \u00d7 10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.005,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li\u2013Al\u2013Ge\u2013PO4",
+                        "LAGP",
+                        "Li1+xAlxGe2\u2212x(PO4)3"
+                    ],
+                    "labels": [
+                        "x = 0.5"
+                    ]
+                }
+            },
+            "names": "Li1+xAlxGe2\u2212x(PO4)3"
+        },
+        "metadata": {
+            "title": "A critical review on lithium\u2013air battery electrolytes ",
+            "authors": [
+                "Moran\u00a0Balaish",
+                "Alexander\u00a0Kraytsberg",
+                "Yair\u00a0Ein-Eli",
+                "Moran\u00a0Balaish",
+                "Alexander\u00a0Kraytsberg",
+                "Yair\u00a0Ein-Eli"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Physical Chemistry Chemical Physics",
+            "date": "2014/01/22",
+            "language": "en",
+            "volume": "16",
+            "issue": "7",
+            "firstpage": "2801",
+            "lastpage": "2822",
+            "doi": "10.1039/C3CP54165G",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/cp/c3cp54165g",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/cp/c3cp54165g"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LTAP",
+                        "Li1+x+yTi2\u2212xAlxP3\u2212ySiyO12"
+                    ]
+                }
+            },
+            "names": "Li1+x+yTi2\u2212xAlxP3\u2212ySiyO12"
+        },
+        "metadata": {
+            "title": "Using waste Li ion batteries as cathodes in rechargeable Li\u2013liquid batteries  ",
+            "authors": [
+                "Jinyoung\u00a0Chun",
+                "Moonsik\u00a0Chung",
+                "Jinwoo\u00a0Lee",
+                "Youngsik\u00a0Kim",
+                "Jinyoung\u00a0Chun",
+                "Moonsik\u00a0Chung",
+                "Jinwoo\u00a0Lee",
+                "Youngsik\u00a0Kim"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Physical Chemistry Chemical Physics",
+            "date": "2013/04/24",
+            "language": "en",
+            "volume": "15",
+            "issue": "19",
+            "firstpage": "7036",
+            "lastpage": "7040",
+            "doi": "10.1039/C3CP00006K",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2013/cp/c3cp00006k",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2013/cp/c3cp00006k"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LTAP",
+                        "Li1+x+yTi2\u2212xAlxP3\u2212ySiyO12"
+                    ]
+                }
+            },
+            "names": "Li1+x+yTi2\u2212xAlxP3\u2212ySiyO12"
+        },
+        "metadata": {
+            "title": "Using waste Li ion batteries as cathodes in rechargeable Li\u2013liquid batteries  ",
+            "authors": [
+                "Jinyoung\u00a0Chun",
+                "Moonsik\u00a0Chung",
+                "Jinwoo\u00a0Lee",
+                "Youngsik\u00a0Kim",
+                "Jinyoung\u00a0Chun",
+                "Moonsik\u00a0Chung",
+                "Jinwoo\u00a0Lee",
+                "Youngsik\u00a0Kim"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Physical Chemistry Chemical Physics",
+            "date": "2013/04/24",
+            "language": "en",
+            "volume": "15",
+            "issue": "19",
+            "firstpage": "7036",
+            "lastpage": "7040",
+            "doi": "10.1039/C3CP00006K",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2013/cp/c3cp00006k",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2013/cp/c3cp00006k"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "0.9",
+            "raw_units": "mScm\u22121",
+            "value": [
+                0.9
+            ],
+            "units": "CentiMeter^(-1.0)  MilliSiemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na2(B12H12)0.5(B10H10)0.5"
+                    ]
+                }
+            },
+            "names": "Na2(B12H12)0.5(B10H10)0.5"
+        },
+        "metadata": {
+            "title": "A highly stable sodium solid-state electrolyte based on a dodeca/deca-borate equimolar mixture  ",
+            "authors": [
+                "L.\u00a0Duch\u00eane",
+                "R.-S.\u00a0K\u00fchnel",
+                "D.\u00a0Rentsch",
+                "A.\u00a0Remhof",
+                "H.\u00a0Hagemann",
+                "C.\u00a0Battaglia",
+                "L.\u00a0Duch\u00eane",
+                "R.-S.\u00a0K\u00fchnel",
+                "D.\u00a0Rentsch",
+                "A.\u00a0Remhof",
+                "H.\u00a0Hagemann",
+                "C.\u00a0Battaglia"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Chemical Communications",
+            "date": "2017/04/11",
+            "language": "en",
+            "volume": "53",
+            "issue": "30",
+            "firstpage": "4195",
+            "lastpage": "4198",
+            "doi": "10.1039/C7CC00794A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2017/cc/c7cc00794a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2017/cc/c7cc00794a"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "0.9",
+            "raw_units": "mScm\u22121",
+            "value": [
+                0.9
+            ],
+            "units": "CentiMeter^(-1.0)  MilliSiemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na2B12H12"
+                    ]
+                }
+            },
+            "names": "Na2B12H12"
+        },
+        "metadata": {
+            "title": "A highly stable sodium solid-state electrolyte based on a dodeca/deca-borate equimolar mixture  ",
+            "authors": [
+                "L.\u00a0Duch\u00eane",
+                "R.-S.\u00a0K\u00fchnel",
+                "D.\u00a0Rentsch",
+                "A.\u00a0Remhof",
+                "H.\u00a0Hagemann",
+                "C.\u00a0Battaglia",
+                "L.\u00a0Duch\u00eane",
+                "R.-S.\u00a0K\u00fchnel",
+                "D.\u00a0Rentsch",
+                "A.\u00a0Remhof",
+                "H.\u00a0Hagemann",
+                "C.\u00a0Battaglia"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Chemical Communications",
+            "date": "2017/04/11",
+            "language": "en",
+            "volume": "53",
+            "issue": "30",
+            "firstpage": "4195",
+            "lastpage": "4198",
+            "doi": "10.1039/C7CC00794A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2017/cc/c7cc00794a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2017/cc/c7cc00794a"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "5 \u00d7 10 \u2212 6 and 6 \u00d7 10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 6e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na2.6V1.6Zr0.4(PO4)3"
+                    ]
+                }
+            },
+            "names": "Na2.6V1.6Zr0.4(PO4)3"
+        },
+        "metadata": {
+            "title": "A single-phase all-solid-state lithium battery based on Li 1.5 Cr 0.5 Ti 1.5 (PO 4 ) 3 for high rate capability and low temperature operation  ",
+            "authors": [
+                "Atsushi\u00a0Inoishi",
+                "Akira\u00a0Nishio",
+                "Yuto\u00a0Yoshioka",
+                "Ayuko\u00a0Kitajou",
+                "Shigeto\u00a0Okada",
+                "Atsushi\u00a0Inoishi",
+                "Akira\u00a0Nishio",
+                "Yuto\u00a0Yoshioka",
+                "Ayuko\u00a0Kitajou",
+                "Shigeto\u00a0Okada"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Chemical Communications",
+            "date": "2018/03/22",
+            "language": "en",
+            "volume": "54",
+            "issue": "25",
+            "firstpage": "3178",
+            "lastpage": "3181",
+            "doi": "10.1039/C8CC00734A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2018/cc/c8cc00734a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2018/cc/c8cc00734a"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "5 \u00d7 10 \u2212 6 and 6 \u00d7 10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 6e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na2.6V1.6Zr0.4(PO4)3"
+                    ]
+                }
+            },
+            "names": "Na2.6V1.6Zr0.4(PO4)3"
+        },
+        "metadata": {
+            "title": "A single-phase all-solid-state lithium battery based on Li 1.5 Cr 0.5 Ti 1.5 (PO 4 ) 3 for high rate capability and low temperature operation  ",
+            "authors": [
+                "Atsushi\u00a0Inoishi",
+                "Akira\u00a0Nishio",
+                "Yuto\u00a0Yoshioka",
+                "Ayuko\u00a0Kitajou",
+                "Shigeto\u00a0Okada",
+                "Atsushi\u00a0Inoishi",
+                "Akira\u00a0Nishio",
+                "Yuto\u00a0Yoshioka",
+                "Ayuko\u00a0Kitajou",
+                "Shigeto\u00a0Okada"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Chemical Communications",
+            "date": "2018/03/22",
+            "language": "en",
+            "volume": "54",
+            "issue": "25",
+            "firstpage": "3178",
+            "lastpage": "3181",
+            "doi": "10.1039/C8CC00734A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2018/cc/c8cc00734a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2018/cc/c8cc00734a"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LiGe2(PO4)3"
+                    ]
+                }
+            },
+            "names": "LiGe2(PO4)3"
+        },
+        "metadata": {
+            "title": "Ionic conductivity enhancement in LiGe2(PO4)3 solid electrolyte",
+            "publisher": "Elsevier",
+            "journal": "Journal of Power Sources",
+            "date": "1998/04/14",
+            "volume": "68",
+            "issue": "2",
+            "firstpage": "397",
+            "lastpage": "401",
+            "doi": "10.1016/S0378-7753(97)02541-X"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "0.1",
+            "raw_units": "mScm\u22121",
+            "value": [
+                0.1
+            ],
+            "units": "CentiMeter^(-1.0)  MilliSiemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na3PS4"
+                    ]
+                }
+            },
+            "names": "Na3PS4"
+        },
+        "metadata": {
+            "title": "The crystal structure and sodium disorder of high-temperature polymorph \u03b2-Na 3 PS 4  ",
+            "authors": [
+                "Shin-ichi\u00a0Nishimura",
+                "Naoto\u00a0Tanibata",
+                "Akitoshi\u00a0Hayashi",
+                "Masahiro\u00a0Tatsumisago",
+                "Atsuo\u00a0Yamada",
+                "Shin-ichi\u00a0Nishimura",
+                "Naoto\u00a0Tanibata",
+                "Akitoshi\u00a0Hayashi",
+                "Masahiro\u00a0Tatsumisago",
+                "Atsuo\u00a0Yamada"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2017/12/05",
+            "language": "en",
+            "volume": "5",
+            "issue": "47",
+            "firstpage": "25025",
+            "lastpage": "25030",
+            "doi": "10.1039/C7TA08391B",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2017/ta/c7ta08391b",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2017/ta/c7ta08391b"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "0.74",
+            "raw_units": "mScm\u22121",
+            "value": [
+                0.74
+            ],
+            "units": "CentiMeter^(-1.0)  MilliSiemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na4SiS4"
+                    ]
+                }
+            },
+            "names": "Na4SiS4"
+        },
+        "metadata": {
+            "title": "The crystal structure and sodium disorder of high-temperature polymorph \u03b2-Na 3 PS 4  ",
+            "authors": [
+                "Shin-ichi\u00a0Nishimura",
+                "Naoto\u00a0Tanibata",
+                "Akitoshi\u00a0Hayashi",
+                "Masahiro\u00a0Tatsumisago",
+                "Atsuo\u00a0Yamada",
+                "Shin-ichi\u00a0Nishimura",
+                "Naoto\u00a0Tanibata",
+                "Akitoshi\u00a0Hayashi",
+                "Masahiro\u00a0Tatsumisago",
+                "Atsuo\u00a0Yamada"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2017/12/05",
+            "language": "en",
+            "volume": "5",
+            "issue": "47",
+            "firstpage": "25025",
+            "lastpage": "25030",
+            "doi": "10.1039/C7TA08391B",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2017/ta/c7ta08391b",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2017/ta/c7ta08391b"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "0.11",
+            "raw_units": "mScm\u22121",
+            "value": [
+                0.11
+            ],
+            "units": "CentiMeter^(-1.0)  MilliSiemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na3PSe4"
+                    ]
+                }
+            },
+            "names": "Na3PSe4"
+        },
+        "metadata": {
+            "title": "The crystal structure and sodium disorder of high-temperature polymorph \u03b2-Na 3 PS 4  ",
+            "authors": [
+                "Shin-ichi\u00a0Nishimura",
+                "Naoto\u00a0Tanibata",
+                "Akitoshi\u00a0Hayashi",
+                "Masahiro\u00a0Tatsumisago",
+                "Atsuo\u00a0Yamada",
+                "Shin-ichi\u00a0Nishimura",
+                "Naoto\u00a0Tanibata",
+                "Akitoshi\u00a0Hayashi",
+                "Masahiro\u00a0Tatsumisago",
+                "Atsuo\u00a0Yamada"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2017/12/05",
+            "language": "en",
+            "volume": "5",
+            "issue": "47",
+            "firstpage": "25025",
+            "lastpage": "25030",
+            "doi": "10.1039/C7TA08391B",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2017/ta/c7ta08391b",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2017/ta/c7ta08391b"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "0.4",
+            "raw_units": "mScm\u22121",
+            "value": [
+                0.4
+            ],
+            "units": "CentiMeter^(-1.0)  MilliSiemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na10SnP2S12"
+                    ]
+                }
+            },
+            "names": "Na10SnP2S12"
+        },
+        "metadata": {
+            "title": "The crystal structure and sodium disorder of high-temperature polymorph \u03b2-Na 3 PS 4  ",
+            "authors": [
+                "Shin-ichi\u00a0Nishimura",
+                "Naoto\u00a0Tanibata",
+                "Akitoshi\u00a0Hayashi",
+                "Masahiro\u00a0Tatsumisago",
+                "Atsuo\u00a0Yamada",
+                "Shin-ichi\u00a0Nishimura",
+                "Naoto\u00a0Tanibata",
+                "Akitoshi\u00a0Hayashi",
+                "Masahiro\u00a0Tatsumisago",
+                "Atsuo\u00a0Yamada"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2017/12/05",
+            "language": "en",
+            "volume": "5",
+            "issue": "47",
+            "firstpage": "25025",
+            "lastpage": "25030",
+            "doi": "10.1039/C7TA08391B",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2017/ta/c7ta08391b",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2017/ta/c7ta08391b"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 8",
+            "raw_units": "Scm\u22121",
+            "value": 1e-08,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LVP",
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "Effect of ion doping on the electrochemical performances of LiFePO 4 \u2013Li 3 V 2 (PO 4 ) 3 composite cathode materials ",
+            "authors": [
+                "Chao\u00a0Jin",
+                "Xudong\u00a0Zhang",
+                "Wen\u00a0He",
+                "Yan\u00a0Wang",
+                "Haiming\u00a0Li",
+                "Zhuo\u00a0Wang",
+                "Zhiying\u00a0Bi",
+                "Chao\u00a0Jin",
+                "Xudong\u00a0Zhang",
+                "Wen\u00a0He",
+                "Yan\u00a0Wang",
+                "Haiming\u00a0Li",
+                "Zhuo\u00a0Wang",
+                "Zhiying\u00a0Bi"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/03/25",
+            "language": "en",
+            "volume": "4",
+            "issue": "30",
+            "firstpage": "15332",
+            "lastpage": "15339",
+            "doi": "10.1039/C3RA47734G",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/ra/c3ra47734g",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/ra/c3ra47734g"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 8",
+            "raw_units": "Scm\u22121",
+            "value": 1e-08,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LVP",
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "Effect of ion doping on the electrochemical performances of LiFePO 4 \u2013Li 3 V 2 (PO 4 ) 3 composite cathode materials ",
+            "authors": [
+                "Chao\u00a0Jin",
+                "Xudong\u00a0Zhang",
+                "Wen\u00a0He",
+                "Yan\u00a0Wang",
+                "Haiming\u00a0Li",
+                "Zhuo\u00a0Wang",
+                "Zhiying\u00a0Bi",
+                "Chao\u00a0Jin",
+                "Xudong\u00a0Zhang",
+                "Wen\u00a0He",
+                "Yan\u00a0Wang",
+                "Haiming\u00a0Li",
+                "Zhuo\u00a0Wang",
+                "Zhiying\u00a0Bi"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/03/25",
+            "language": "en",
+            "volume": "4",
+            "issue": "30",
+            "firstpage": "15332",
+            "lastpage": "15339",
+            "doi": "10.1039/C3RA47734G",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/ra/c3ra47734g",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/ra/c3ra47734g"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na2SiO3"
+                    ]
+                }
+            },
+            "names": "Na2SiO3"
+        },
+        "metadata": {
+            "title": "Experimental studies on polyethylene oxide\u2013NaClO4 based composite polymer electrolytes dispersed with Na2SiO3",
+            "publisher": "Pergamon",
+            "journal": "European Polymer Journal",
+            "date": "2000/01/11",
+            "volume": "34",
+            "issue": "9",
+            "firstpage": "1277",
+            "lastpage": "1282",
+            "doi": "10.1016/S0014-3057(97)00269-3"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na3PS4"
+                    ]
+                }
+            },
+            "names": "Na3PS4"
+        },
+        "metadata": {
+            "title": "High sodium ion conductivity of glass\u2013ceramic electrolytes with cubic Na3PS4",
+            "publisher": "Elsevier",
+            "journal": "Journal of Power Sources",
+            "date": "2014/02/22",
+            "volume": "258",
+            "firstpage": "420",
+            "lastpage": "423",
+            "doi": "10.1016/j.jpowsour.2014.02.054"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "NaOCl"
+                    ],
+                    "labels": [
+                        "iii"
+                    ]
+                }
+            },
+            "names": "NaOCl"
+        },
+        "metadata": {
+            "title": "Regioselective synthesis of polygamma (\u03b3) acid ",
+            "authors": [
+                "Fatih\u00a0Do\u011fan",
+                "Kevser\u00a0Temizkan",
+                "\u0130smet\u00a0Kaya",
+                "Fatih\u00a0Do\u011fan",
+                "Kevser\u00a0Temizkan",
+                "\u0130smet\u00a0Kaya"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2015/06/18",
+            "language": "en",
+            "volume": "5",
+            "issue": "66",
+            "firstpage": "53369",
+            "lastpage": "53380",
+            "doi": "10.1039/C5RA07408H",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ra/c5ra07408h",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ra/c5ra07408h"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "0.2",
+            "raw_units": "mScm\u22121",
+            "value": [
+                0.2
+            ],
+            "units": "CentiMeter^(-1.0)  MilliSiemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na3PS4"
+                    ],
+                    "roles": [
+                        "product"
+                    ]
+                }
+            },
+            "names": "Na3PS4"
+        },
+        "metadata": {
+            "title": "Single-step synthesis of highly conductive Na3PS4 solid electrolyte for sodium all solid-state batteries",
+            "publisher": "Elsevier",
+            "journal": "Journal of Power Sources",
+            "date": "2019/06/10",
+            "volume": "435",
+            "firstpage": "126623",
+            "doi": "10.1016/j.jpowsour.2019.05.031"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li9Mg3[PO4]4F3"
+                    ]
+                }
+            },
+            "names": "Li9Mg3[PO4]4F3"
+        },
+        "metadata": {
+            "title": "Structural relationships among LiNaMg[PO 4 ]F and Na 2 M[PO 4 ]F (M = Mn\u2013Ni, and Mg), and the magnetic structure of LiNaNi[PO 4 ]F  ",
+            "authors": [
+                "Hamdi\u00a0Ben Yahia",
+                "Masahiro\u00a0Shikano",
+                "Hironori\u00a0Kobayashi",
+                "Maxim\u00a0Avdeev",
+                "Samuel\u00a0Liu",
+                "Chris D.\u00a0Ling",
+                "Hamdi\u00a0Ben Yahia",
+                "Masahiro\u00a0Shikano",
+                "Hironori\u00a0Kobayashi",
+                "Maxim\u00a0Avdeev",
+                "Samuel\u00a0Liu",
+                "Chris D.\u00a0Ling"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Dalton Transactions",
+            "date": "2013/12/24",
+            "language": "en",
+            "volume": "43",
+            "issue": "5",
+            "firstpage": "2044",
+            "lastpage": "2051",
+            "doi": "10.1039/C3DT52587B",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/dt/c3dt52587b",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/dt/c3dt52587b"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LATP",
+                        "Li1.3Al0.3Ti1.7(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1.3Al0.3Ti1.7(PO4)3"
+        },
+        "metadata": {
+            "title": "Preparation and performance study of a PVDF\u2013LATP ceramic composite polymer electrolyte membrane for solid-state batteries ",
+            "authors": [
+                "Xinghua\u00a0Liang",
+                "Di\u00a0Han",
+                "Yunting\u00a0Wang",
+                "Lingxiao\u00a0Lan",
+                "Jie\u00a0Mao",
+                "Xinghua\u00a0Liang",
+                "Di\u00a0Han",
+                "Yunting\u00a0Wang",
+                "Lingxiao\u00a0Lan",
+                "Jie\u00a0Mao"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2018/12/04",
+            "language": "en",
+            "volume": "8",
+            "issue": "71",
+            "firstpage": "40498",
+            "lastpage": "40504",
+            "doi": "10.1039/C8RA08436J",
+            "pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2018/ra/c8ra08436j",
+            "html_url": "https://pubs.rsc.org/en/content/articlelanding/2018/ra/c8ra08436j"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LATP",
+                        "Li1.3Al0.3Ti1.7(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1.3Al0.3Ti1.7(PO4)3"
+        },
+        "metadata": {
+            "title": "Preparation and performance study of a PVDF\u2013LATP ceramic composite polymer electrolyte membrane for solid-state batteries ",
+            "authors": [
+                "Xinghua\u00a0Liang",
+                "Di\u00a0Han",
+                "Yunting\u00a0Wang",
+                "Lingxiao\u00a0Lan",
+                "Jie\u00a0Mao",
+                "Xinghua\u00a0Liang",
+                "Di\u00a0Han",
+                "Yunting\u00a0Wang",
+                "Lingxiao\u00a0Lan",
+                "Jie\u00a0Mao"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2018/12/04",
+            "language": "en",
+            "volume": "8",
+            "issue": "71",
+            "firstpage": "40498",
+            "lastpage": "40504",
+            "doi": "10.1039/C8RA08436J",
+            "pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2018/ra/c8ra08436j",
+            "html_url": "https://pubs.rsc.org/en/content/articlelanding/2018/ra/c8ra08436j"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "NaCo2As3O10"
+                    ]
+                }
+            },
+            "names": "NaCo2As3O10"
+        },
+        "metadata": {
+            "title": "Synthesis, structural and electrical properties of a new cobalt arsenate NaCo2As3O10",
+            "publisher": "Academic Press",
+            "journal": "Journal of Solid State Chemistry",
+            "date": "2014/10/15",
+            "volume": "221",
+            "firstpage": "132",
+            "lastpage": "139",
+            "doi": "10.1016/j.jssc.2014.09.029"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "to 9.30 \u00d7 10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 9.3e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na1.82Mg1.09P2O7"
+                    ]
+                }
+            },
+            "names": "Na1.82Mg1.09P2O7"
+        },
+        "metadata": {
+            "title": "Defect induced sodium disorder and ionic conduction mechanism in Na 1.82 Mg 1.09 P 2 O 7  ",
+            "authors": [
+                "Guandong\u00a0Liu",
+                "Shin-ichi\u00a0Nishimura",
+                "Sai Cheong\u00a0Chung",
+                "Kotaro\u00a0Fujii",
+                "Masatomo\u00a0Yashima",
+                "Atsuo\u00a0Yamada",
+                "Guandong\u00a0Liu",
+                "Shin-ichi\u00a0Nishimura",
+                "Sai Cheong\u00a0Chung",
+                "Kotaro\u00a0Fujii",
+                "Masatomo\u00a0Yashima",
+                "Atsuo\u00a0Yamada"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2014/10/14",
+            "language": "en",
+            "volume": "2",
+            "issue": "43",
+            "firstpage": "18353",
+            "lastpage": "18359",
+            "doi": "10.1039/C4TA03356F",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/ta/c4ta03356f",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/ta/c4ta03356f"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "to 9.30 \u00d7 10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 9.3e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na1.82Mg1.09P2O7"
+                    ]
+                }
+            },
+            "names": "Na1.82Mg1.09P2O7"
+        },
+        "metadata": {
+            "title": "Defect induced sodium disorder and ionic conduction mechanism in Na 1.82 Mg 1.09 P 2 O 7  ",
+            "authors": [
+                "Guandong\u00a0Liu",
+                "Shin-ichi\u00a0Nishimura",
+                "Sai Cheong\u00a0Chung",
+                "Kotaro\u00a0Fujii",
+                "Masatomo\u00a0Yashima",
+                "Atsuo\u00a0Yamada",
+                "Guandong\u00a0Liu",
+                "Shin-ichi\u00a0Nishimura",
+                "Sai Cheong\u00a0Chung",
+                "Kotaro\u00a0Fujii",
+                "Masatomo\u00a0Yashima",
+                "Atsuo\u00a0Yamada"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2014/10/14",
+            "language": "en",
+            "volume": "2",
+            "issue": "43",
+            "firstpage": "18353",
+            "lastpage": "18359",
+            "doi": "10.1039/C4TA03356F",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/ta/c4ta03356f",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/ta/c4ta03356f"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LAGP",
+                        "Li1+xAlxGe2\u2212x(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1+xAlxGe2\u2212x(PO4)3"
+        },
+        "metadata": {
+            "title": "High ionic conductivity in lithium lanthanum titanate",
+            "publisher": "Pergamon",
+            "journal": "Solid State Communications",
+            "date": "2002/09/19",
+            "volume": "86",
+            "issue": "10",
+            "firstpage": "689",
+            "lastpage": "693",
+            "doi": "10.1016/0038-1098(93)90841-A"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LAGP",
+                        "Li1+xAlxGe2\u2212x(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1+xAlxGe2\u2212x(PO4)3"
+        },
+        "metadata": {
+            "title": "High ionic conductivity in lithium lanthanum titanate",
+            "publisher": "Pergamon",
+            "journal": "Solid State Communications",
+            "date": "2002/09/19",
+            "volume": "86",
+            "issue": "10",
+            "firstpage": "689",
+            "lastpage": "693",
+            "doi": "10.1016/0038-1098(93)90841-A"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LAGP",
+                        "Li1+xAlxGe2\u2212x(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1+xAlxGe2\u2212x(PO4)3"
+        },
+        "metadata": {
+            "title": "High ionic conductivity in lithium lanthanum titanate",
+            "publisher": "Pergamon",
+            "journal": "Solid State Communications",
+            "date": "2002/09/19",
+            "volume": "86",
+            "issue": "10",
+            "firstpage": "689",
+            "lastpage": "693",
+            "doi": "10.1016/0038-1098(93)90841-A"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LAGP",
+                        "Li1+xAlxGe2\u2212x(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1+xAlxGe2\u2212x(PO4)3"
+        },
+        "metadata": {
+            "title": "High ionic conductivity in lithium lanthanum titanate",
+            "publisher": "Pergamon",
+            "journal": "Solid State Communications",
+            "date": "2002/09/19",
+            "volume": "86",
+            "issue": "10",
+            "firstpage": "689",
+            "lastpage": "693",
+            "doi": "10.1016/0038-1098(93)90841-A"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "S/cm",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li1+xAlxGe2\u2212x(PO4)3"
+                    ],
+                    "labels": [
+                        "x = 0.0 \u2013 0.7"
+                    ]
+                }
+            },
+            "names": "Li1+xAlxGe2\u2212x(PO4)3"
+        },
+        "metadata": {
+            "title": "Influence of Al2O3 additions on crystallization mechanism and conductivity of Li2O\u2013Ge2O\u2013P2O5 glass\u2013ceramics",
+            "publisher": "North-Holland",
+            "journal": "Physica B: Condensed Matter",
+            "date": "2011/07/27",
+            "volume": "406",
+            "issue": "20",
+            "firstpage": "3947",
+            "lastpage": "3950",
+            "doi": "10.1016/j.physb.2011.07.033"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "S/cm",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li1.4Al0.4(Ge0.67Ti0.33)1.6(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1.4Al0.4(Ge0.67Ti0.33)1.6(PO4)3"
+        },
+        "metadata": {
+            "title": "Lithium ion conductive glass ceramics in the system Li1.4Al0.4(Ge1\u2212xTix)1.6(PO4)3 (x=0\u20131.0)",
+            "publisher": "Elsevier",
+            "journal": "Solid State Ionics",
+            "date": "2004/07/03",
+            "volume": "171",
+            "issue": "3-4",
+            "firstpage": "207",
+            "lastpage": "213",
+            "doi": "10.1016/j.ssi.2004.05.009"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li2AlZr[PO4]3"
+                    ]
+                }
+            },
+            "names": "Li2AlZr[PO4]3"
+        },
+        "metadata": {
+            "title": "Structural and ionic transport properties of Li2AlZr[PO4]3",
+            "publisher": "Elsevier",
+            "journal": "Journal of Power Sources",
+            "date": "2005/11/17",
+            "volume": "157",
+            "issue": "1",
+            "firstpage": "533",
+            "lastpage": "536",
+            "doi": "10.1016/j.jpowsour.2005.07.071"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 12",
+            "raw_units": "Scm\u22121",
+            "value": 1e-12,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "NVPF",
+                        "Na3(VO1\u2212x)2(PO4)2F1+2x"
+                    ]
+                }
+            },
+            "names": "Na3(VO1\u2212x)2(PO4)2F1+2x"
+        },
+        "metadata": {
+            "title": "Superior high-rate capability of Na 3 (VO 0.5 ) 2 (PO 4 ) 2 F 2 nanoparticles embedded in porous graphene through the pseudocapacitive effect  ",
+            "authors": [
+                "Xingde\u00a0Xiang",
+                "Qiongqiong\u00a0Lu",
+                "Mo\u00a0Han",
+                "Jun\u00a0Chen",
+                "Xingde\u00a0Xiang",
+                "Qiongqiong\u00a0Lu",
+                "Mo\u00a0Han",
+                "Jun\u00a0Chen"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Chemical Communications",
+            "date": "2016/02/23",
+            "language": "en",
+            "volume": "52",
+            "issue": "18",
+            "firstpage": "3653",
+            "lastpage": "3656",
+            "doi": "10.1039/C6CC00065G",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2016/cc/c6cc00065g",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2016/cc/c6cc00065g"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 12",
+            "raw_units": "Scm\u22121",
+            "value": 1e-12,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "NVPF",
+                        "Na3(VO1\u2212x)2(PO4)2F1+2x"
+                    ]
+                }
+            },
+            "names": "Na3(VO1\u2212x)2(PO4)2F1+2x"
+        },
+        "metadata": {
+            "title": "Superior high-rate capability of Na 3 (VO 0.5 ) 2 (PO 4 ) 2 F 2 nanoparticles embedded in porous graphene through the pseudocapacitive effect  ",
+            "authors": [
+                "Xingde\u00a0Xiang",
+                "Qiongqiong\u00a0Lu",
+                "Mo\u00a0Han",
+                "Jun\u00a0Chen",
+                "Xingde\u00a0Xiang",
+                "Qiongqiong\u00a0Lu",
+                "Mo\u00a0Han",
+                "Jun\u00a0Chen"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Chemical Communications",
+            "date": "2016/02/23",
+            "language": "en",
+            "volume": "52",
+            "issue": "18",
+            "firstpage": "3653",
+            "lastpage": "3656",
+            "doi": "10.1039/C6CC00065G",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2016/cc/c6cc00065g",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2016/cc/c6cc00065g"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "1.5 \u00d7 10 \u2212 3 and 1.9 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00019,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na3Zr2Si2PO12"
+                    ]
+                }
+            },
+            "names": "Na3Zr2Si2PO12"
+        },
+        "metadata": {
+            "title": "An all-solid state NASICON sodium battery operating at 200\u00a0\u00b0C",
+            "publisher": "Elsevier",
+            "journal": "Journal of Power Sources",
+            "date": "2013/09/20",
+            "volume": "247",
+            "firstpage": "975",
+            "lastpage": "980",
+            "doi": "10.1016/j.jpowsour.2013.09.051"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "1.5 \u00d7 10 \u2212 3 and 1.9 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00019,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na3Zr2Si2PO12"
+                    ]
+                }
+            },
+            "names": "Na3Zr2Si2PO12"
+        },
+        "metadata": {
+            "title": "An all-solid state NASICON sodium battery operating at 200\u00a0\u00b0C",
+            "publisher": "Elsevier",
+            "journal": "Journal of Power Sources",
+            "date": "2013/09/20",
+            "volume": "247",
+            "firstpage": "975",
+            "lastpage": "980",
+            "doi": "10.1016/j.jpowsour.2013.09.051"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "to 29 \u00d7 10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 2.9e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na2SO4"
+                    ]
+                }
+            },
+            "names": "Na2SO4"
+        },
+        "metadata": {
+            "title": "Template-free and filamentary growth of silver nanowires : application to anisotropic conductive transparent flexible electrodes  ",
+            "authors": [
+                "Sun Hwa\u00a0Park",
+                "Ho Sun\u00a0Shin",
+                "Young Heon\u00a0Kim",
+                "Hyun Min\u00a0Park",
+                "Jae Yong\u00a0Song",
+                "Sun Hwa\u00a0Park",
+                "Ho Sun\u00a0Shin",
+                "Young Heon\u00a0Kim",
+                "Hyun Min\u00a0Park",
+                "Jae Yong\u00a0Song"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Nanoscale",
+            "date": "2013/02/14",
+            "language": "en",
+            "volume": "5",
+            "issue": "5",
+            "firstpage": "1864",
+            "lastpage": "1869",
+            "doi": "10.1039/C2NR33056C",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2013/nr/c2nr33056c",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2013/nr/c2nr33056c"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "to 29 \u00d7 10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 2.9e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na2SO4"
+                    ]
+                }
+            },
+            "names": "Na2SO4"
+        },
+        "metadata": {
+            "title": "Template-free and filamentary growth of silver nanowires : application to anisotropic conductive transparent flexible electrodes  ",
+            "authors": [
+                "Sun Hwa\u00a0Park",
+                "Ho Sun\u00a0Shin",
+                "Young Heon\u00a0Kim",
+                "Hyun Min\u00a0Park",
+                "Jae Yong\u00a0Song",
+                "Sun Hwa\u00a0Park",
+                "Ho Sun\u00a0Shin",
+                "Young Heon\u00a0Kim",
+                "Hyun Min\u00a0Park",
+                "Jae Yong\u00a0Song"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Nanoscale",
+            "date": "2013/02/14",
+            "language": "en",
+            "volume": "5",
+            "issue": "5",
+            "firstpage": "1864",
+            "lastpage": "1869",
+            "doi": "10.1039/C2NR33056C",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2013/nr/c2nr33056c",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2013/nr/c2nr33056c"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "0.347",
+            "raw_units": "mScm\u22121",
+            "value": [
+                0.347
+            ],
+            "units": "CentiMeter^(-1.0)  MilliSiemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na4S0.5O0.5I2"
+                    ]
+                }
+            },
+            "names": "Na4S0.5O0.5I2"
+        },
+        "metadata": {
+            "title": "Theoretical tuning of Ruddlesden\u2013Popper type anti-perovskite phases as superb ion conductors and cathodes for solid sodium ion batteries  ",
+            "authors": [
+                "Yuran\u00a0Yu",
+                "Zhuo\u00a0Wang",
+                "Guosheng\u00a0Shao",
+                "Yuran\u00a0Yu",
+                "Zhuo\u00a0Wang",
+                "Guosheng\u00a0Shao"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2019/04/24",
+            "language": "en",
+            "volume": "7",
+            "issue": "17",
+            "firstpage": "10483",
+            "lastpage": "10493",
+            "doi": "10.1039/C9TA02166C",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2019/ta/c9ta02166c",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2019/ta/c9ta02166c"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "0.347",
+            "raw_units": "mScm\u22121",
+            "value": [
+                0.347
+            ],
+            "units": "CentiMeter^(-1.0)  MilliSiemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na4S0.5O0.5I2"
+                    ]
+                }
+            },
+            "names": "Na4S0.5O0.5I2"
+        },
+        "metadata": {
+            "title": "Theoretical tuning of Ruddlesden\u2013Popper type anti-perovskite phases as superb ion conductors and cathodes for solid sodium ion batteries  ",
+            "authors": [
+                "Yuran\u00a0Yu",
+                "Zhuo\u00a0Wang",
+                "Guosheng\u00a0Shao",
+                "Yuran\u00a0Yu",
+                "Zhuo\u00a0Wang",
+                "Guosheng\u00a0Shao"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2019/04/24",
+            "language": "en",
+            "volume": "7",
+            "issue": "17",
+            "firstpage": "10483",
+            "lastpage": "10493",
+            "doi": "10.1039/C9TA02166C",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2019/ta/c9ta02166c",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2019/ta/c9ta02166c"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "S/cm",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li4VO(PO4)2"
+                    ]
+                }
+            },
+            "names": "Li4VO(PO4)2"
+        },
+        "metadata": {
+            "title": "From a 3D protonic conductor VO(H2PO4)2 to a 2D cationic conductor Li4VO(PO4)2 through lithium exchange",
+            "publisher": "Academic Press",
+            "journal": "Journal of Solid State Chemistry",
+            "date": "2007/06/26",
+            "volume": "180",
+            "issue": "9",
+            "firstpage": "2437",
+            "lastpage": "2442",
+            "doi": "10.1016/j.jssc.2007.06.019"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "S/cm",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li4VO(PO4)2"
+                    ]
+                }
+            },
+            "names": "Li4VO(PO4)2"
+        },
+        "metadata": {
+            "title": "From a 3D protonic conductor VO(H2PO4)2 to a 2D cationic conductor Li4VO(PO4)2 through lithium exchange",
+            "publisher": "Academic Press",
+            "journal": "Journal of Solid State Chemistry",
+            "date": "2007/06/26",
+            "volume": "180",
+            "issue": "9",
+            "firstpage": "2437",
+            "lastpage": "2442",
+            "doi": "10.1016/j.jssc.2007.06.019"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LiTi2(PO4)3"
+                    ]
+                }
+            },
+            "names": "LiTi2(PO4)3"
+        },
+        "metadata": {
+            "title": "Enhancing lithium-ion conductivity in NASICON glass-ceramics by adding yttria  ",
+            "authors": [
+                "Victor A.\u00a0Vizgalov",
+                "Tina\u00a0Nestler",
+                "Lev A.\u00a0Trusov",
+                "Ivan A.\u00a0Bobrikov",
+                "Oleksandr I.\u00a0Ivankov",
+                "Mikhail V.\u00a0Avdeev",
+                "Mykhaylo\u00a0Motylenko",
+                "Erica\u00a0Brendler",
+                "Anastasia\u00a0Vyalikh",
+                "Dirk C.\u00a0Meyer",
+                "Daniil M.\u00a0Itkis",
+                "Victor A.\u00a0Vizgalov",
+                "Tina\u00a0Nestler",
+                "Lev A.\u00a0Trusov",
+                "Ivan A.\u00a0Bobrikov",
+                "Oleksandr I.\u00a0Ivankov",
+                "Mikhail V.\u00a0Avdeev",
+                "Mykhaylo\u00a0Motylenko",
+                "Erica\u00a0Brendler",
+                "Anastasia\u00a0Vyalikh",
+                "Dirk C.\u00a0Meyer",
+                "Daniil M.\u00a0Itkis"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "CrystEngComm",
+            "date": "2018/03/05",
+            "language": "en",
+            "volume": "20",
+            "issue": "10",
+            "firstpage": "1375",
+            "lastpage": "1382",
+            "doi": "10.1039/C7CE01910F",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2018/ce/c7ce01910f",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2018/ce/c7ce01910f"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "to 1.3 \u00d7 10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.0013000000000000002,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li1+xAlxTi2\u2212x(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1+xAlxTi2\u2212x(PO4)3"
+        },
+        "metadata": {
+            "title": "Enhancing lithium-ion conductivity in NASICON glass-ceramics by adding yttria  ",
+            "authors": [
+                "Victor A.\u00a0Vizgalov",
+                "Tina\u00a0Nestler",
+                "Lev A.\u00a0Trusov",
+                "Ivan A.\u00a0Bobrikov",
+                "Oleksandr I.\u00a0Ivankov",
+                "Mikhail V.\u00a0Avdeev",
+                "Mykhaylo\u00a0Motylenko",
+                "Erica\u00a0Brendler",
+                "Anastasia\u00a0Vyalikh",
+                "Dirk C.\u00a0Meyer",
+                "Daniil M.\u00a0Itkis",
+                "Victor A.\u00a0Vizgalov",
+                "Tina\u00a0Nestler",
+                "Lev A.\u00a0Trusov",
+                "Ivan A.\u00a0Bobrikov",
+                "Oleksandr I.\u00a0Ivankov",
+                "Mikhail V.\u00a0Avdeev",
+                "Mykhaylo\u00a0Motylenko",
+                "Erica\u00a0Brendler",
+                "Anastasia\u00a0Vyalikh",
+                "Dirk C.\u00a0Meyer",
+                "Daniil M.\u00a0Itkis"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "CrystEngComm",
+            "date": "2018/03/05",
+            "language": "en",
+            "volume": "20",
+            "issue": "10",
+            "firstpage": "1375",
+            "lastpage": "1382",
+            "doi": "10.1039/C7CE01910F",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2018/ce/c7ce01910f",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2018/ce/c7ce01910f"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LiGe2(PO4)3"
+                    ]
+                }
+            },
+            "names": "LiGe2(PO4)3"
+        },
+        "metadata": {
+            "title": "Enhancing lithium-ion conductivity in NASICON glass-ceramics by adding yttria  ",
+            "authors": [
+                "Victor A.\u00a0Vizgalov",
+                "Tina\u00a0Nestler",
+                "Lev A.\u00a0Trusov",
+                "Ivan A.\u00a0Bobrikov",
+                "Oleksandr I.\u00a0Ivankov",
+                "Mikhail V.\u00a0Avdeev",
+                "Mykhaylo\u00a0Motylenko",
+                "Erica\u00a0Brendler",
+                "Anastasia\u00a0Vyalikh",
+                "Dirk C.\u00a0Meyer",
+                "Daniil M.\u00a0Itkis",
+                "Victor A.\u00a0Vizgalov",
+                "Tina\u00a0Nestler",
+                "Lev A.\u00a0Trusov",
+                "Ivan A.\u00a0Bobrikov",
+                "Oleksandr I.\u00a0Ivankov",
+                "Mikhail V.\u00a0Avdeev",
+                "Mykhaylo\u00a0Motylenko",
+                "Erica\u00a0Brendler",
+                "Anastasia\u00a0Vyalikh",
+                "Dirk C.\u00a0Meyer",
+                "Daniil M.\u00a0Itkis"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "CrystEngComm",
+            "date": "2018/03/05",
+            "language": "en",
+            "volume": "20",
+            "issue": "10",
+            "firstpage": "1375",
+            "lastpage": "1382",
+            "doi": "10.1039/C7CE01910F",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2018/ce/c7ce01910f",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2018/ce/c7ce01910f"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "to 2 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0002,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li1.5Al0.5Ge1.5(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1.5Al0.5Ge1.5(PO4)3"
+        },
+        "metadata": {
+            "title": "Enhancing lithium-ion conductivity in NASICON glass-ceramics by adding yttria  ",
+            "authors": [
+                "Victor A.\u00a0Vizgalov",
+                "Tina\u00a0Nestler",
+                "Lev A.\u00a0Trusov",
+                "Ivan A.\u00a0Bobrikov",
+                "Oleksandr I.\u00a0Ivankov",
+                "Mikhail V.\u00a0Avdeev",
+                "Mykhaylo\u00a0Motylenko",
+                "Erica\u00a0Brendler",
+                "Anastasia\u00a0Vyalikh",
+                "Dirk C.\u00a0Meyer",
+                "Daniil M.\u00a0Itkis",
+                "Victor A.\u00a0Vizgalov",
+                "Tina\u00a0Nestler",
+                "Lev A.\u00a0Trusov",
+                "Ivan A.\u00a0Bobrikov",
+                "Oleksandr I.\u00a0Ivankov",
+                "Mikhail V.\u00a0Avdeev",
+                "Mykhaylo\u00a0Motylenko",
+                "Erica\u00a0Brendler",
+                "Anastasia\u00a0Vyalikh",
+                "Dirk C.\u00a0Meyer",
+                "Daniil M.\u00a0Itkis"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "CrystEngComm",
+            "date": "2018/03/05",
+            "language": "en",
+            "volume": "20",
+            "issue": "10",
+            "firstpage": "1375",
+            "lastpage": "1382",
+            "doi": "10.1039/C7CE01910F",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2018/ce/c7ce01910f",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2018/ce/c7ce01910f"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 2",
+            "raw_units": "S/cm",
+            "value": 0.01,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na3.9Sm0.6P0.3Si2.7O9"
+                    ]
+                }
+            },
+            "names": "Na3.9Sm0.6P0.3Si2.7O9"
+        },
+        "metadata": {
+            "title": "Superionic conducting Na5SmSi4O12-type glass-ceramics: Crystallization condition and ionic conductivity",
+            "publisher": "Elsevier",
+            "journal": "Journal of the European Ceramic Society",
+            "date": "2005/08/08",
+            "volume": "26",
+            "issue": "4-5",
+            "firstpage": "619",
+            "lastpage": "622",
+            "doi": "10.1016/j.jeurceramsoc.2005.07.029"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Nb2O5-doped m-Li3Fe2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Nb2O5-doped m-Li3Fe2(PO4)3"
+        },
+        "metadata": {
+            "title": "Synthesis and Li+ ion conductivity of Li2O\u2013Nb2O5\u2013P2O5 glasses and glass\u2013ceramics",
+            "publisher": "Pergamon",
+            "journal": "Materials Research Bulletin",
+            "date": "2010/06/16",
+            "volume": "45",
+            "issue": "10",
+            "firstpage": "1443",
+            "lastpage": "1448",
+            "doi": "10.1016/j.materresbull.2010.06.033"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na3SbS4-xSex"
+                    ]
+                }
+            },
+            "names": "Na3SbS4-xSex"
+        },
+        "metadata": {
+            "title": "Grain-boundary-resistance-less Na3SbS4-xSex solid electrolytes for all-solid-state sodium batteries",
+            "publisher": "Elsevier",
+            "journal": "Nano Energy",
+            "date": "2019/09/09",
+            "volume": "66",
+            "firstpage": "104109",
+            "doi": "10.1016/j.nanoen.2019.104109"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li1.15Y0.15Zr1.85(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1.15Y0.15Zr1.85(PO4)3"
+        },
+        "metadata": {
+            "title": "High Li+ conduction in NASICON-type Li1+xYxZr2\u2212x(PO4)3 at room temperature",
+            "publisher": "Elsevier",
+            "journal": "Journal of Power Sources",
+            "date": "2013/04/08",
+            "volume": "240",
+            "firstpage": "50",
+            "lastpage": "53",
+            "doi": "10.1016/j.jpowsour.2013.03.175"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "1.4 \u00d7 10 \u2212 4 and 0.71 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 7.1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li1.15Y0.15Zr1.85(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1.15Y0.15Zr1.85(PO4)3"
+        },
+        "metadata": {
+            "title": "High Li+ conduction in NASICON-type Li1+xYxZr2\u2212x(PO4)3 at room temperature",
+            "publisher": "Elsevier",
+            "journal": "Journal of Power Sources",
+            "date": "2013/04/08",
+            "volume": "240",
+            "firstpage": "50",
+            "lastpage": "53",
+            "doi": "10.1016/j.jpowsour.2013.03.175"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "1.4 \u00d7 10 \u2212 4 and 0.71 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 7.1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li1.15Y0.15Zr1.85(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1.15Y0.15Zr1.85(PO4)3"
+        },
+        "metadata": {
+            "title": "High Li+ conduction in NASICON-type Li1+xYxZr2\u2212x(PO4)3 at room temperature",
+            "publisher": "Elsevier",
+            "journal": "Journal of Power Sources",
+            "date": "2013/04/08",
+            "volume": "240",
+            "firstpage": "50",
+            "lastpage": "53",
+            "doi": "10.1016/j.jpowsour.2013.03.175"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "NZSP",
+                        "Na3Zr2Si2PO12"
+                    ]
+                }
+            },
+            "names": "Na3Zr2Si2PO12"
+        },
+        "metadata": {
+            "title": "Optimization of Na3Zr2Si2PO12 ceramic electrolyte and interface for high performance solid-state sodium battery",
+            "publisher": "Elsevier",
+            "journal": "Ceramics International",
+            "date": "2018/10/10",
+            "volume": "45",
+            "issue": "2",
+            "firstpage": "1770",
+            "lastpage": "1776",
+            "doi": "10.1016/j.ceramint.2018.10.062"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "NZSP",
+                        "Na3Zr2Si2PO12"
+                    ]
+                }
+            },
+            "names": "Na3Zr2Si2PO12"
+        },
+        "metadata": {
+            "title": "Optimization of Na3Zr2Si2PO12 ceramic electrolyte and interface for high performance solid-state sodium battery",
+            "publisher": "Elsevier",
+            "journal": "Ceramics International",
+            "date": "2018/10/10",
+            "volume": "45",
+            "issue": "2",
+            "firstpage": "1770",
+            "lastpage": "1776",
+            "doi": "10.1016/j.ceramint.2018.10.062"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li2O\u2013Al2O3\u2013SiO2\u2013P2O5\u2013TiO2\u2013GeO2"
+                    ]
+                }
+            },
+            "names": "Li2O\u2013Al2O3\u2013SiO2\u2013P2O5\u2013TiO2\u2013GeO2"
+        },
+        "metadata": {
+            "title": "A dual-mode rechargeable lithium\u2013bromine/oxygen fuel cell ",
+            "authors": [
+                "Peng\u00a0Bai",
+                "Venkatasubramanian\u00a0Viswanathan",
+                "Martin Z.\u00a0Bazant",
+                "Peng\u00a0Bai",
+                "Venkatasubramanian\u00a0Viswanathan",
+                "Martin Z.\u00a0Bazant"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2015/06/30",
+            "language": "en",
+            "volume": "3",
+            "issue": "27",
+            "firstpage": "14165",
+            "lastpage": "14172",
+            "doi": "10.1039/C5TA03335G",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ta/c5ta03335g",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ta/c5ta03335g"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li1.3Al0.3Ti1.7(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1.3Al0.3Ti1.7(PO4)3"
+        },
+        "metadata": {
+            "title": "Interfacial behaviours between lithium ion conductors and electrode materials in various battery systems ",
+            "authors": [
+                "Bingbin\u00a0Wu",
+                "Shanyu\u00a0Wang",
+                "Willie J.\u00a0Evans IV",
+                "Daniel Z.\u00a0Deng",
+                "Jihui\u00a0Yang",
+                "Jie\u00a0Xiao",
+                "Bingbin\u00a0Wu",
+                "Shanyu\u00a0Wang",
+                "Willie J.\u00a0Evans IV",
+                "Daniel Z.\u00a0Deng",
+                "Jihui\u00a0Yang",
+                "Jie\u00a0Xiao"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2016/10/11",
+            "language": "en",
+            "volume": "4",
+            "issue": "40",
+            "firstpage": "15266",
+            "lastpage": "15280",
+            "doi": "10.1039/C6TA05439K",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2016/ta/c6ta05439k",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2016/ta/c6ta05439k"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "to 1.12 \u00d7 10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.0011200000000000001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li1.3Al0.3Ti1.7(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1.3Al0.3Ti1.7(PO4)3"
+        },
+        "metadata": {
+            "title": "Interfacial behaviours between lithium ion conductors and electrode materials in various battery systems ",
+            "authors": [
+                "Bingbin\u00a0Wu",
+                "Shanyu\u00a0Wang",
+                "Willie J.\u00a0Evans IV",
+                "Daniel Z.\u00a0Deng",
+                "Jihui\u00a0Yang",
+                "Jie\u00a0Xiao",
+                "Bingbin\u00a0Wu",
+                "Shanyu\u00a0Wang",
+                "Willie J.\u00a0Evans IV",
+                "Daniel Z.\u00a0Deng",
+                "Jihui\u00a0Yang",
+                "Jie\u00a0Xiao"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2016/10/11",
+            "language": "en",
+            "volume": "4",
+            "issue": "40",
+            "firstpage": "15266",
+            "lastpage": "15280",
+            "doi": "10.1039/C6TA05439K",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2016/ta/c6ta05439k",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2016/ta/c6ta05439k"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "S/cm",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na3.5Zr0.5Sc1.5(PO4)3"
+                    ]
+                }
+            },
+            "names": "Na3.5Zr0.5Sc1.5(PO4)3"
+        },
+        "metadata": {
+            "title": "Investigation on the applicability of high Na-ion conducting Na3+x[ZrxSc2-x(PO4)3] glass-ceramic electrolyte for use in safer Na-ion batteries",
+            "publisher": "Pergamon",
+            "journal": "Journal of Physics and Chemistry of Solids",
+            "date": "2018/11/24",
+            "volume": "126",
+            "firstpage": "209",
+            "lastpage": "218",
+            "doi": "10.1016/j.jpcs.2018.11.016"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "to 8.4 \u00d7 10 \u2212 2",
+            "raw_units": "Scm\u22121",
+            "value": 0.084,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na0.67Co0.33Ti0.67O2"
+                    ],
+                    "roles": [
+                        "data of"
+                    ]
+                }
+            },
+            "names": "Na0.67Co0.33Ti0.67O2"
+        },
+        "metadata": {
+            "title": "Ionic conduction properties of layer-type oxides NaxMx/2IITi1\u2212x/2IVO2 (M=Ni, Co; 0.60\u2264x\u22641.0)",
+            "publisher": "Elsevier",
+            "journal": "Solid State Ionics",
+            "date": "2002/08/29",
+            "volume": "150",
+            "issue": "3-4",
+            "firstpage": "363",
+            "lastpage": "372",
+            "doi": "10.1016/S0167-2738(02)00451-4"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na3.1Sn0.1P0.9S4"
+                    ]
+                }
+            },
+            "names": "Na3.1Sn0.1P0.9S4"
+        },
+        "metadata": {
+            "title": "Na 3+x M x P 1\u2212x S 4 (M = Ge 4+ , Ti 4+ , Sn 4+ ) enables high rate all-solid-state Na-ion batteries Na 2+2\u03b4 Fe 2\u2212\u03b4 (SO 4 ) 3 |Na 3+x M x P 1\u2212x S 4 |Na 2 Ti 3 O 7  ",
+            "authors": [
+                "Rayavarapu Prasada\u00a0Rao",
+                "Haomin\u00a0Chen",
+                "Lee Loong\u00a0Wong",
+                "Stefan\u00a0Adams",
+                "Rayavarapu Prasada\u00a0Rao",
+                "Haomin\u00a0Chen",
+                "Lee Loong\u00a0Wong",
+                "Stefan\u00a0Adams"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2017/02/14",
+            "language": "en",
+            "volume": "5",
+            "issue": "7",
+            "firstpage": "3377",
+            "lastpage": "3388",
+            "doi": "10.1039/C6TA09809F",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2017/ta/c6ta09809f",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2017/ta/c6ta09809f"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na3PS4"
+                    ]
+                }
+            },
+            "names": "Na3PS4"
+        },
+        "metadata": {
+            "title": "Preparation and characterization of highly sodium ion conducting Na 3 PS 4 \u2013Na 4 SiS 4 solid electrolytes ",
+            "authors": [
+                "Naoto\u00a0Tanibata",
+                "Kousuke\u00a0Noi",
+                "Akitoshi\u00a0Hayashi",
+                "Masahiro\u00a0Tatsumisago",
+                "Naoto\u00a0Tanibata",
+                "Kousuke\u00a0Noi",
+                "Akitoshi\u00a0Hayashi",
+                "Masahiro\u00a0Tatsumisago"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/04/08",
+            "language": "en",
+            "volume": "4",
+            "issue": "33",
+            "firstpage": "17120",
+            "lastpage": "17123",
+            "doi": "10.1039/C4RA00996G",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/ra/c4ra00996g",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/ra/c4ra00996g"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na4SiS4"
+                    ]
+                }
+            },
+            "names": "Na4SiS4"
+        },
+        "metadata": {
+            "title": "Preparation and characterization of highly sodium ion conducting Na 3 PS 4 \u2013Na 4 SiS 4 solid electrolytes ",
+            "authors": [
+                "Naoto\u00a0Tanibata",
+                "Kousuke\u00a0Noi",
+                "Akitoshi\u00a0Hayashi",
+                "Masahiro\u00a0Tatsumisago",
+                "Naoto\u00a0Tanibata",
+                "Kousuke\u00a0Noi",
+                "Akitoshi\u00a0Hayashi",
+                "Masahiro\u00a0Tatsumisago"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/04/08",
+            "language": "en",
+            "volume": "4",
+            "issue": "33",
+            "firstpage": "17120",
+            "lastpage": "17123",
+            "doi": "10.1039/C4RA00996G",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/ra/c4ra00996g",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/ra/c4ra00996g"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na4SiS4"
+                    ]
+                }
+            },
+            "names": "Na4SiS4"
+        },
+        "metadata": {
+            "title": "Preparation and characterization of highly sodium ion conducting Na 3 PS 4 \u2013Na 4 SiS 4 solid electrolytes ",
+            "authors": [
+                "Naoto\u00a0Tanibata",
+                "Kousuke\u00a0Noi",
+                "Akitoshi\u00a0Hayashi",
+                "Masahiro\u00a0Tatsumisago",
+                "Naoto\u00a0Tanibata",
+                "Kousuke\u00a0Noi",
+                "Akitoshi\u00a0Hayashi",
+                "Masahiro\u00a0Tatsumisago"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/04/08",
+            "language": "en",
+            "volume": "4",
+            "issue": "33",
+            "firstpage": "17120",
+            "lastpage": "17123",
+            "doi": "10.1039/C4RA00996G",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/ra/c4ra00996g",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/ra/c4ra00996g"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na2.2Zn0.9(MoO4)2"
+                    ]
+                }
+            },
+            "names": "Na2.2Zn0.9(MoO4)2"
+        },
+        "metadata": {
+            "title": "New alluaudite-related triple molybdates Na 25 Cs 8 R 5 (MoO 4 ) 24 (R = Sc, In): synthesis, crystal structures and properties  ",
+            "authors": [
+                "Aleksandra A.\u00a0Savina",
+                "Sergey F.\u00a0Solodovnikov",
+                "Dmitry A.\u00a0Belov",
+                "Zoya A.\u00a0Solodovnikova",
+                "Sergey Yu.\u00a0Stefanovich",
+                "Bogdan I.\u00a0Lazoryak",
+                "Elena G.\u00a0Khaikina",
+                "Aleksandra A.\u00a0Savina",
+                "Sergey F.\u00a0Solodovnikov",
+                "Dmitry A.\u00a0Belov",
+                "Zoya A.\u00a0Solodovnikova",
+                "Sergey Yu.\u00a0Stefanovich",
+                "Bogdan I.\u00a0Lazoryak",
+                "Elena G.\u00a0Khaikina"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "New Journal of Chemistry",
+            "date": "2017/06/26",
+            "language": "en",
+            "volume": "41",
+            "issue": "13",
+            "firstpage": "5450",
+            "lastpage": "5457",
+            "doi": "10.1039/C7NJ00202E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2017/nj/c7nj00202e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2017/nj/c7nj00202e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 2",
+            "raw_units": "Scm\u22121",
+            "value": 0.01,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na2.2Zn0.9(MoO4)2"
+                    ]
+                }
+            },
+            "names": "Na2.2Zn0.9(MoO4)2"
+        },
+        "metadata": {
+            "title": "New alluaudite-related triple molybdates Na 25 Cs 8 R 5 (MoO 4 ) 24 (R = Sc, In): synthesis, crystal structures and properties  ",
+            "authors": [
+                "Aleksandra A.\u00a0Savina",
+                "Sergey F.\u00a0Solodovnikov",
+                "Dmitry A.\u00a0Belov",
+                "Zoya A.\u00a0Solodovnikova",
+                "Sergey Yu.\u00a0Stefanovich",
+                "Bogdan I.\u00a0Lazoryak",
+                "Elena G.\u00a0Khaikina",
+                "Aleksandra A.\u00a0Savina",
+                "Sergey F.\u00a0Solodovnikov",
+                "Dmitry A.\u00a0Belov",
+                "Zoya A.\u00a0Solodovnikova",
+                "Sergey Yu.\u00a0Stefanovich",
+                "Bogdan I.\u00a0Lazoryak",
+                "Elena G.\u00a0Khaikina"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "New Journal of Chemistry",
+            "date": "2017/06/26",
+            "language": "en",
+            "volume": "41",
+            "issue": "13",
+            "firstpage": "5450",
+            "lastpage": "5457",
+            "doi": "10.1039/C7NJ00202E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2017/nj/c7nj00202e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2017/nj/c7nj00202e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "\u2013 10 \u2212 2",
+            "raw_units": "Scm\u22121",
+            "value": 0.01,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na2.2Zn0.9(MoO4)2"
+                    ]
+                }
+            },
+            "names": "Na2.2Zn0.9(MoO4)2"
+        },
+        "metadata": {
+            "title": "New alluaudite-related triple molybdates Na 25 Cs 8 R 5 (MoO 4 ) 24 (R = Sc, In): synthesis, crystal structures and properties  ",
+            "authors": [
+                "Aleksandra A.\u00a0Savina",
+                "Sergey F.\u00a0Solodovnikov",
+                "Dmitry A.\u00a0Belov",
+                "Zoya A.\u00a0Solodovnikova",
+                "Sergey Yu.\u00a0Stefanovich",
+                "Bogdan I.\u00a0Lazoryak",
+                "Elena G.\u00a0Khaikina",
+                "Aleksandra A.\u00a0Savina",
+                "Sergey F.\u00a0Solodovnikov",
+                "Dmitry A.\u00a0Belov",
+                "Zoya A.\u00a0Solodovnikova",
+                "Sergey Yu.\u00a0Stefanovich",
+                "Bogdan I.\u00a0Lazoryak",
+                "Elena G.\u00a0Khaikina"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "New Journal of Chemistry",
+            "date": "2017/06/26",
+            "language": "en",
+            "volume": "41",
+            "issue": "13",
+            "firstpage": "5450",
+            "lastpage": "5457",
+            "doi": "10.1039/C7NJ00202E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2017/nj/c7nj00202e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2017/nj/c7nj00202e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na3SbS4"
+                    ]
+                }
+            },
+            "names": "Na3SbS4"
+        },
+        "metadata": {
+            "title": "Solution-based synthesis of lithium thiophosphate superionic conductors for solid-state batteries: a chemistry perspective  ",
+            "authors": [
+                "Michael\u00a0Ghidiu",
+                "Justine\u00a0Ruhl",
+                "Sean P.\u00a0Culver",
+                "Wolfgang G.\u00a0Zeier",
+                "Michael\u00a0Ghidiu",
+                "Justine\u00a0Ruhl",
+                "Sean P.\u00a0Culver",
+                "Wolfgang G.\u00a0Zeier"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2019/07/30",
+            "language": "en",
+            "volume": "7",
+            "issue": "30",
+            "firstpage": "17735",
+            "lastpage": "17753",
+            "doi": "10.1039/C9TA04772G",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2019/ta/c9ta04772g",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2019/ta/c9ta04772g"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 8",
+            "raw_units": "Scm\u22121",
+            "value": 1e-08,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LVP",
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "The effect of titanium in Li 3 V 2 (PO 4 ) 3 /graphene composites as cathode material for high capacity Li-ion batteries  ",
+            "authors": [
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin",
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/12/17",
+            "language": "en",
+            "volume": "5",
+            "issue": "7",
+            "firstpage": "4872",
+            "lastpage": "4879",
+            "doi": "10.1039/C4RA09389E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ra/c4ra09389e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ra/c4ra09389e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 8",
+            "raw_units": "Scm\u22121",
+            "value": 1e-08,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LVP",
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "The effect of titanium in Li 3 V 2 (PO 4 ) 3 /graphene composites as cathode material for high capacity Li-ion batteries  ",
+            "authors": [
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin",
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/12/17",
+            "language": "en",
+            "volume": "5",
+            "issue": "7",
+            "firstpage": "4872",
+            "lastpage": "4879",
+            "doi": "10.1039/C4RA09389E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ra/c4ra09389e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ra/c4ra09389e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.46 \u00d7 10 \u2212 4 , 2.26 \u00d7 10 \u2212 4 , 1.93 \u00d7 10 \u2212 3 and 2.01 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00020099999999999998,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LVP",
+                        "LVP\u2013Ti1",
+                        "LVP\u2013Ti3",
+                        "LVP\u2013Ti5",
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "The effect of titanium in Li 3 V 2 (PO 4 ) 3 /graphene composites as cathode material for high capacity Li-ion batteries  ",
+            "authors": [
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin",
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/12/17",
+            "language": "en",
+            "volume": "5",
+            "issue": "7",
+            "firstpage": "4872",
+            "lastpage": "4879",
+            "doi": "10.1039/C4RA09389E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ra/c4ra09389e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ra/c4ra09389e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.46 \u00d7 10 \u2212 4 , 2.26 \u00d7 10 \u2212 4 , 1.93 \u00d7 10 \u2212 3 and 2.01 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00020099999999999998,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LVP",
+                        "LVP\u2013Ti1",
+                        "LVP\u2013Ti3",
+                        "LVP\u2013Ti5",
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "The effect of titanium in Li 3 V 2 (PO 4 ) 3 /graphene composites as cathode material for high capacity Li-ion batteries  ",
+            "authors": [
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin",
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/12/17",
+            "language": "en",
+            "volume": "5",
+            "issue": "7",
+            "firstpage": "4872",
+            "lastpage": "4879",
+            "doi": "10.1039/C4RA09389E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ra/c4ra09389e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ra/c4ra09389e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.46 \u00d7 10 \u2212 4 , 2.26 \u00d7 10 \u2212 4 , 1.93 \u00d7 10 \u2212 3 and 2.01 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00020099999999999998,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LVP",
+                        "LVP\u2013Ti1",
+                        "LVP\u2013Ti3",
+                        "LVP\u2013Ti5",
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "The effect of titanium in Li 3 V 2 (PO 4 ) 3 /graphene composites as cathode material for high capacity Li-ion batteries  ",
+            "authors": [
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin",
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/12/17",
+            "language": "en",
+            "volume": "5",
+            "issue": "7",
+            "firstpage": "4872",
+            "lastpage": "4879",
+            "doi": "10.1039/C4RA09389E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ra/c4ra09389e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ra/c4ra09389e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.46 \u00d7 10 \u2212 4 , 2.26 \u00d7 10 \u2212 4 , 1.93 \u00d7 10 \u2212 3 and 2.01 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00020099999999999998,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LVP",
+                        "LVP\u2013Ti1",
+                        "LVP\u2013Ti3",
+                        "LVP\u2013Ti5",
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "The effect of titanium in Li 3 V 2 (PO 4 ) 3 /graphene composites as cathode material for high capacity Li-ion batteries  ",
+            "authors": [
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin",
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/12/17",
+            "language": "en",
+            "volume": "5",
+            "issue": "7",
+            "firstpage": "4872",
+            "lastpage": "4879",
+            "doi": "10.1039/C4RA09389E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ra/c4ra09389e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ra/c4ra09389e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.46 \u00d7 10 \u2212 4 , 2.26 \u00d7 10 \u2212 4 , 1.93 \u00d7 10 \u2212 3 and 2.01 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00020099999999999998,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LVP",
+                        "LVP\u2013Ti1",
+                        "LVP\u2013Ti3",
+                        "LVP\u2013Ti5",
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "The effect of titanium in Li 3 V 2 (PO 4 ) 3 /graphene composites as cathode material for high capacity Li-ion batteries  ",
+            "authors": [
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin",
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/12/17",
+            "language": "en",
+            "volume": "5",
+            "issue": "7",
+            "firstpage": "4872",
+            "lastpage": "4879",
+            "doi": "10.1039/C4RA09389E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ra/c4ra09389e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ra/c4ra09389e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.46 \u00d7 10 \u2212 4 , 2.26 \u00d7 10 \u2212 4 , 1.93 \u00d7 10 \u2212 3 and 2.01 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00020099999999999998,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LVP",
+                        "LVP\u2013Ti1",
+                        "LVP\u2013Ti3",
+                        "LVP\u2013Ti5",
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "The effect of titanium in Li 3 V 2 (PO 4 ) 3 /graphene composites as cathode material for high capacity Li-ion batteries  ",
+            "authors": [
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin",
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/12/17",
+            "language": "en",
+            "volume": "5",
+            "issue": "7",
+            "firstpage": "4872",
+            "lastpage": "4879",
+            "doi": "10.1039/C4RA09389E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ra/c4ra09389e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ra/c4ra09389e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.46 \u00d7 10 \u2212 4 , 2.26 \u00d7 10 \u2212 4 , 1.93 \u00d7 10 \u2212 3 and 2.01 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00020099999999999998,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LVP",
+                        "LVP\u2013Ti1",
+                        "LVP\u2013Ti3",
+                        "LVP\u2013Ti5",
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "The effect of titanium in Li 3 V 2 (PO 4 ) 3 /graphene composites as cathode material for high capacity Li-ion batteries  ",
+            "authors": [
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin",
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/12/17",
+            "language": "en",
+            "volume": "5",
+            "issue": "7",
+            "firstpage": "4872",
+            "lastpage": "4879",
+            "doi": "10.1039/C4RA09389E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ra/c4ra09389e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ra/c4ra09389e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.46 \u00d7 10 \u2212 4 , 2.26 \u00d7 10 \u2212 4 , 1.93 \u00d7 10 \u2212 3 and 2.01 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00020099999999999998,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LVP",
+                        "LVP\u2013Ti1",
+                        "LVP\u2013Ti3",
+                        "LVP\u2013Ti5",
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "The effect of titanium in Li 3 V 2 (PO 4 ) 3 /graphene composites as cathode material for high capacity Li-ion batteries  ",
+            "authors": [
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin",
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/12/17",
+            "language": "en",
+            "volume": "5",
+            "issue": "7",
+            "firstpage": "4872",
+            "lastpage": "4879",
+            "doi": "10.1039/C4RA09389E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ra/c4ra09389e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ra/c4ra09389e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.46 \u00d7 10 \u2212 4 , 2.26 \u00d7 10 \u2212 4 , 1.93 \u00d7 10 \u2212 3 and 2.01 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00020099999999999998,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LVP",
+                        "LVP\u2013Ti1",
+                        "LVP\u2013Ti3",
+                        "LVP\u2013Ti5",
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "The effect of titanium in Li 3 V 2 (PO 4 ) 3 /graphene composites as cathode material for high capacity Li-ion batteries  ",
+            "authors": [
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin",
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/12/17",
+            "language": "en",
+            "volume": "5",
+            "issue": "7",
+            "firstpage": "4872",
+            "lastpage": "4879",
+            "doi": "10.1039/C4RA09389E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ra/c4ra09389e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ra/c4ra09389e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.46 \u00d7 10 \u2212 4 , 2.26 \u00d7 10 \u2212 4 , 1.93 \u00d7 10 \u2212 3 and 2.01 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00020099999999999998,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LVP",
+                        "LVP\u2013Ti1",
+                        "LVP\u2013Ti3",
+                        "LVP\u2013Ti5",
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "The effect of titanium in Li 3 V 2 (PO 4 ) 3 /graphene composites as cathode material for high capacity Li-ion batteries  ",
+            "authors": [
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin",
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/12/17",
+            "language": "en",
+            "volume": "5",
+            "issue": "7",
+            "firstpage": "4872",
+            "lastpage": "4879",
+            "doi": "10.1039/C4RA09389E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ra/c4ra09389e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ra/c4ra09389e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.46 \u00d7 10 \u2212 4 , 2.26 \u00d7 10 \u2212 4 , 1.93 \u00d7 10 \u2212 3 and 2.01 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00020099999999999998,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LVP",
+                        "LVP\u2013Ti1",
+                        "LVP\u2013Ti3",
+                        "LVP\u2013Ti5",
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "The effect of titanium in Li 3 V 2 (PO 4 ) 3 /graphene composites as cathode material for high capacity Li-ion batteries  ",
+            "authors": [
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin",
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/12/17",
+            "language": "en",
+            "volume": "5",
+            "issue": "7",
+            "firstpage": "4872",
+            "lastpage": "4879",
+            "doi": "10.1039/C4RA09389E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ra/c4ra09389e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ra/c4ra09389e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.46 \u00d7 10 \u2212 4 , 2.26 \u00d7 10 \u2212 4 , 1.93 \u00d7 10 \u2212 3 and 2.01 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00020099999999999998,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LVP",
+                        "LVP\u2013Ti1",
+                        "LVP\u2013Ti3",
+                        "LVP\u2013Ti5",
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "The effect of titanium in Li 3 V 2 (PO 4 ) 3 /graphene composites as cathode material for high capacity Li-ion batteries  ",
+            "authors": [
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin",
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/12/17",
+            "language": "en",
+            "volume": "5",
+            "issue": "7",
+            "firstpage": "4872",
+            "lastpage": "4879",
+            "doi": "10.1039/C4RA09389E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ra/c4ra09389e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ra/c4ra09389e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.46 \u00d7 10 \u2212 4 , 2.26 \u00d7 10 \u2212 4 , 1.93 \u00d7 10 \u2212 3 and 2.01 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00020099999999999998,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LVP",
+                        "LVP\u2013Ti1",
+                        "LVP\u2013Ti3",
+                        "LVP\u2013Ti5",
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "The effect of titanium in Li 3 V 2 (PO 4 ) 3 /graphene composites as cathode material for high capacity Li-ion batteries  ",
+            "authors": [
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin",
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/12/17",
+            "language": "en",
+            "volume": "5",
+            "issue": "7",
+            "firstpage": "4872",
+            "lastpage": "4879",
+            "doi": "10.1039/C4RA09389E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ra/c4ra09389e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ra/c4ra09389e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.46 \u00d7 10 \u2212 4 , 2.26 \u00d7 10 \u2212 4 , 1.93 \u00d7 10 \u2212 3 and 2.01 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00020099999999999998,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LVP",
+                        "LVP\u2013Ti1",
+                        "LVP\u2013Ti3",
+                        "LVP\u2013Ti5",
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "The effect of titanium in Li 3 V 2 (PO 4 ) 3 /graphene composites as cathode material for high capacity Li-ion batteries  ",
+            "authors": [
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin",
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/12/17",
+            "language": "en",
+            "volume": "5",
+            "issue": "7",
+            "firstpage": "4872",
+            "lastpage": "4879",
+            "doi": "10.1039/C4RA09389E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ra/c4ra09389e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ra/c4ra09389e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.46 \u00d7 10 \u2212 4 , 2.26 \u00d7 10 \u2212 4 , 1.93 \u00d7 10 \u2212 3 and 2.01 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00020099999999999998,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LVP",
+                        "LVP\u2013Ti1",
+                        "LVP\u2013Ti3",
+                        "LVP\u2013Ti5",
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "The effect of titanium in Li 3 V 2 (PO 4 ) 3 /graphene composites as cathode material for high capacity Li-ion batteries  ",
+            "authors": [
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin",
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/12/17",
+            "language": "en",
+            "volume": "5",
+            "issue": "7",
+            "firstpage": "4872",
+            "lastpage": "4879",
+            "doi": "10.1039/C4RA09389E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ra/c4ra09389e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ra/c4ra09389e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.46 \u00d7 10 \u2212 4 , 2.26 \u00d7 10 \u2212 4 , 1.93 \u00d7 10 \u2212 3 and 2.01 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00020099999999999998,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LVP",
+                        "LVP\u2013Ti1",
+                        "LVP\u2013Ti3",
+                        "LVP\u2013Ti5",
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "The effect of titanium in Li 3 V 2 (PO 4 ) 3 /graphene composites as cathode material for high capacity Li-ion batteries  ",
+            "authors": [
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin",
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/12/17",
+            "language": "en",
+            "volume": "5",
+            "issue": "7",
+            "firstpage": "4872",
+            "lastpage": "4879",
+            "doi": "10.1039/C4RA09389E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ra/c4ra09389e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ra/c4ra09389e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.46 \u00d7 10 \u2212 4 , 2.26 \u00d7 10 \u2212 4 , 1.93 \u00d7 10 \u2212 3 and 2.01 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00020099999999999998,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LVP",
+                        "LVP\u2013Ti1",
+                        "LVP\u2013Ti3",
+                        "LVP\u2013Ti5",
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "The effect of titanium in Li 3 V 2 (PO 4 ) 3 /graphene composites as cathode material for high capacity Li-ion batteries  ",
+            "authors": [
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin",
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/12/17",
+            "language": "en",
+            "volume": "5",
+            "issue": "7",
+            "firstpage": "4872",
+            "lastpage": "4879",
+            "doi": "10.1039/C4RA09389E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ra/c4ra09389e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ra/c4ra09389e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.46 \u00d7 10 \u2212 4 , 2.26 \u00d7 10 \u2212 4 , 1.93 \u00d7 10 \u2212 3 and 2.01 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00020099999999999998,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LVP",
+                        "LVP\u2013Ti1",
+                        "LVP\u2013Ti3",
+                        "LVP\u2013Ti5",
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "The effect of titanium in Li 3 V 2 (PO 4 ) 3 /graphene composites as cathode material for high capacity Li-ion batteries  ",
+            "authors": [
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin",
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/12/17",
+            "language": "en",
+            "volume": "5",
+            "issue": "7",
+            "firstpage": "4872",
+            "lastpage": "4879",
+            "doi": "10.1039/C4RA09389E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ra/c4ra09389e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ra/c4ra09389e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.46 \u00d7 10 \u2212 4 , 2.26 \u00d7 10 \u2212 4 , 1.93 \u00d7 10 \u2212 3 and 2.01 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00020099999999999998,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LVP",
+                        "LVP\u2013Ti1",
+                        "LVP\u2013Ti3",
+                        "LVP\u2013Ti5",
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "The effect of titanium in Li 3 V 2 (PO 4 ) 3 /graphene composites as cathode material for high capacity Li-ion batteries  ",
+            "authors": [
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin",
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/12/17",
+            "language": "en",
+            "volume": "5",
+            "issue": "7",
+            "firstpage": "4872",
+            "lastpage": "4879",
+            "doi": "10.1039/C4RA09389E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ra/c4ra09389e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ra/c4ra09389e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.46 \u00d7 10 \u2212 4 , 2.26 \u00d7 10 \u2212 4 , 1.93 \u00d7 10 \u2212 3 and 2.01 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00020099999999999998,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LVP",
+                        "LVP\u2013Ti1",
+                        "LVP\u2013Ti3",
+                        "LVP\u2013Ti5",
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "The effect of titanium in Li 3 V 2 (PO 4 ) 3 /graphene composites as cathode material for high capacity Li-ion batteries  ",
+            "authors": [
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin",
+                "Mansoo\u00a0Choi",
+                "Kisuk\u00a0Kang",
+                "Hyun-Soo\u00a0Kim",
+                "Young Moo\u00a0Lee",
+                "Bong-Soo\u00a0Jin"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2014/12/17",
+            "language": "en",
+            "volume": "5",
+            "issue": "7",
+            "firstpage": "4872",
+            "lastpage": "4879",
+            "doi": "10.1039/C4RA09389E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ra/c4ra09389e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ra/c4ra09389e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "S/cm",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li1.3Al0.3Ti1.7(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1.3Al0.3Ti1.7(PO4)3"
+        },
+        "metadata": {
+            "title": "An explanation of the microcrack formation in Li1.3Al0.3Ti1.7(PO4)3 ceramics",
+            "publisher": "Elsevier",
+            "journal": "Journal of the European Ceramic Society",
+            "date": "2016/03/05",
+            "volume": "36",
+            "issue": "8",
+            "firstpage": "1995",
+            "lastpage": "2001",
+            "doi": "10.1016/j.jeurceramsoc.2016.02.042"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 7",
+            "raw_units": "S/cm",
+            "value": 1e-07,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na3AlH6"
+                    ]
+                }
+            },
+            "names": "Na3AlH6"
+        },
+        "metadata": {
+            "title": "Sodium and magnesium ionic conduction in complex hydrides",
+            "publisher": "Elsevier",
+            "journal": "Journal of Alloys and Compounds",
+            "date": "2013/01/24",
+            "volume": "580",
+            "firstpage": "S98",
+            "lastpage": "S101",
+            "doi": "10.1016/j.jallcom.2013.01.058"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.6 \u00d7 10 \u2212 4 and 4.3 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00043,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ion conductivities",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na3PS4"
+                    ]
+                }
+            },
+            "names": "Na3PS4"
+        },
+        "metadata": {
+            "title": "Suspension synthesis of Na3-xPS4-xClx solid electrolytes",
+            "publisher": "Elsevier",
+            "journal": "Journal of Power Sources",
+            "date": "2019/05/02",
+            "volume": "428",
+            "firstpage": "131",
+            "lastpage": "135",
+            "doi": "10.1016/j.jpowsour.2019.04.069"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.6 \u00d7 10 \u2212 4 and 4.3 \u00d7 10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.00043,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ion conductivities",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na3PS4"
+                    ]
+                }
+            },
+            "names": "Na3PS4"
+        },
+        "metadata": {
+            "title": "Suspension synthesis of Na3-xPS4-xClx solid electrolytes",
+            "publisher": "Elsevier",
+            "journal": "Journal of Power Sources",
+            "date": "2019/05/02",
+            "volume": "428",
+            "firstpage": "131",
+            "lastpage": "135",
+            "doi": "10.1016/j.jpowsour.2019.04.069"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Lithium aluminium titanium phosphate",
+                        "LATP",
+                        "Li1.3Al0.3Ti1.7(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1.3Al0.3Ti1.7(PO4)3"
+        },
+        "metadata": {
+            "title": "A novel solid-state Li\u2013O 2 battery with an integrated electrolyte and cathode structure  ",
+            "authors": [
+                "X. B.\u00a0Zhu",
+                "T. S.\u00a0Zhao",
+                "Z. H.\u00a0Wei",
+                "P.\u00a0Tan",
+                "G.\u00a0Zhao",
+                "X. B.\u00a0Zhu",
+                "T. S.\u00a0Zhao",
+                "Z. H.\u00a0Wei",
+                "P.\u00a0Tan",
+                "G.\u00a0Zhao"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Energy & Environmental Science",
+            "date": "2015/08/26",
+            "language": "en",
+            "volume": "8",
+            "issue": "9",
+            "firstpage": "2782",
+            "lastpage": "2790",
+            "doi": "10.1039/C5EE01604E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ee/c5ee01604e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ee/c5ee01604e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Lithium aluminium titanium phosphate",
+                        "LATP",
+                        "Li1.3Al0.3Ti1.7(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1.3Al0.3Ti1.7(PO4)3"
+        },
+        "metadata": {
+            "title": "A novel solid-state Li\u2013O 2 battery with an integrated electrolyte and cathode structure  ",
+            "authors": [
+                "X. B.\u00a0Zhu",
+                "T. S.\u00a0Zhao",
+                "Z. H.\u00a0Wei",
+                "P.\u00a0Tan",
+                "G.\u00a0Zhao",
+                "X. B.\u00a0Zhu",
+                "T. S.\u00a0Zhao",
+                "Z. H.\u00a0Wei",
+                "P.\u00a0Tan",
+                "G.\u00a0Zhao"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Energy & Environmental Science",
+            "date": "2015/08/26",
+            "language": "en",
+            "volume": "8",
+            "issue": "9",
+            "firstpage": "2782",
+            "lastpage": "2790",
+            "doi": "10.1039/C5EE01604E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ee/c5ee01604e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ee/c5ee01604e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Lithium aluminium titanium phosphate",
+                        "LATP",
+                        "Li1.3Al0.3Ti1.7(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1.3Al0.3Ti1.7(PO4)3"
+        },
+        "metadata": {
+            "title": "A novel solid-state Li\u2013O 2 battery with an integrated electrolyte and cathode structure  ",
+            "authors": [
+                "X. B.\u00a0Zhu",
+                "T. S.\u00a0Zhao",
+                "Z. H.\u00a0Wei",
+                "P.\u00a0Tan",
+                "G.\u00a0Zhao",
+                "X. B.\u00a0Zhu",
+                "T. S.\u00a0Zhao",
+                "Z. H.\u00a0Wei",
+                "P.\u00a0Tan",
+                "G.\u00a0Zhao"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Energy & Environmental Science",
+            "date": "2015/08/26",
+            "language": "en",
+            "volume": "8",
+            "issue": "9",
+            "firstpage": "2782",
+            "lastpage": "2790",
+            "doi": "10.1039/C5EE01604E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ee/c5ee01604e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ee/c5ee01604e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "NaCrO2"
+                    ]
+                }
+            },
+            "names": "NaCrO2"
+        },
+        "metadata": {
+            "title": "NaCrO 2 cathode for high-rate sodium-ion batteries  ",
+            "authors": [
+                "Chan-Yeop\u00a0Yu",
+                "Jae-Sang\u00a0Park",
+                "Hun-Gi\u00a0Jung",
+                "Kyung-Yoon\u00a0Chung",
+                "Doron\u00a0Aurbach",
+                "Yang-Kook\u00a0Sun",
+                "Seung-Taek\u00a0Myung",
+                "Chan-Yeop\u00a0Yu",
+                "Jae-Sang\u00a0Park",
+                "Hun-Gi\u00a0Jung",
+                "Kyung-Yoon\u00a0Chung",
+                "Doron\u00a0Aurbach",
+                "Yang-Kook\u00a0Sun",
+                "Seung-Taek\u00a0Myung"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Energy & Environmental Science",
+            "date": "2015/07/01",
+            "language": "en",
+            "volume": "8",
+            "issue": "7",
+            "firstpage": "2019",
+            "lastpage": "2026",
+            "doi": "10.1039/C5EE00695C",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ee/c5ee00695c",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ee/c5ee00695c"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 9",
+            "raw_units": "Scm\u22121",
+            "value": 1e-09,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na0.92CrO2"
+                    ]
+                }
+            },
+            "names": "Na0.92CrO2"
+        },
+        "metadata": {
+            "title": "NaCrO 2 cathode for high-rate sodium-ion batteries  ",
+            "authors": [
+                "Chan-Yeop\u00a0Yu",
+                "Jae-Sang\u00a0Park",
+                "Hun-Gi\u00a0Jung",
+                "Kyung-Yoon\u00a0Chung",
+                "Doron\u00a0Aurbach",
+                "Yang-Kook\u00a0Sun",
+                "Seung-Taek\u00a0Myung",
+                "Chan-Yeop\u00a0Yu",
+                "Jae-Sang\u00a0Park",
+                "Hun-Gi\u00a0Jung",
+                "Kyung-Yoon\u00a0Chung",
+                "Doron\u00a0Aurbach",
+                "Yang-Kook\u00a0Sun",
+                "Seung-Taek\u00a0Myung"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Energy & Environmental Science",
+            "date": "2015/07/01",
+            "language": "en",
+            "volume": "8",
+            "issue": "7",
+            "firstpage": "2019",
+            "lastpage": "2026",
+            "doi": "10.1039/C5EE00695C",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ee/c5ee00695c",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ee/c5ee00695c"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "NaCrO2"
+                    ]
+                }
+            },
+            "names": "NaCrO2"
+        },
+        "metadata": {
+            "title": "NaCrO 2 cathode for high-rate sodium-ion batteries  ",
+            "authors": [
+                "Chan-Yeop\u00a0Yu",
+                "Jae-Sang\u00a0Park",
+                "Hun-Gi\u00a0Jung",
+                "Kyung-Yoon\u00a0Chung",
+                "Doron\u00a0Aurbach",
+                "Yang-Kook\u00a0Sun",
+                "Seung-Taek\u00a0Myung",
+                "Chan-Yeop\u00a0Yu",
+                "Jae-Sang\u00a0Park",
+                "Hun-Gi\u00a0Jung",
+                "Kyung-Yoon\u00a0Chung",
+                "Doron\u00a0Aurbach",
+                "Yang-Kook\u00a0Sun",
+                "Seung-Taek\u00a0Myung"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Energy & Environmental Science",
+            "date": "2015/07/01",
+            "language": "en",
+            "volume": "8",
+            "issue": "7",
+            "firstpage": "2019",
+            "lastpage": "2026",
+            "doi": "10.1039/C5EE00695C",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ee/c5ee00695c",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ee/c5ee00695c"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 9",
+            "raw_units": "Scm\u22121",
+            "value": 1e-09,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na0.92CrO2"
+                    ]
+                }
+            },
+            "names": "Na0.92CrO2"
+        },
+        "metadata": {
+            "title": "NaCrO 2 cathode for high-rate sodium-ion batteries  ",
+            "authors": [
+                "Chan-Yeop\u00a0Yu",
+                "Jae-Sang\u00a0Park",
+                "Hun-Gi\u00a0Jung",
+                "Kyung-Yoon\u00a0Chung",
+                "Doron\u00a0Aurbach",
+                "Yang-Kook\u00a0Sun",
+                "Seung-Taek\u00a0Myung",
+                "Chan-Yeop\u00a0Yu",
+                "Jae-Sang\u00a0Park",
+                "Hun-Gi\u00a0Jung",
+                "Kyung-Yoon\u00a0Chung",
+                "Doron\u00a0Aurbach",
+                "Yang-Kook\u00a0Sun",
+                "Seung-Taek\u00a0Myung"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Energy & Environmental Science",
+            "date": "2015/07/01",
+            "language": "en",
+            "volume": "8",
+            "issue": "7",
+            "firstpage": "2019",
+            "lastpage": "2026",
+            "doi": "10.1039/C5EE00695C",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ee/c5ee00695c",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ee/c5ee00695c"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na3Zr2Si2PO12"
+                    ]
+                }
+            },
+            "names": "Na3Zr2Si2PO12"
+        },
+        "metadata": {
+            "title": "Theoretical prediction of a highly conducting solid electrolyte for sodium batteries: Na 10 GeP 2 S 12  ",
+            "authors": [
+                "Vinay S.\u00a0Kandagal",
+                "Mridula Dixit\u00a0Bharadwaj",
+                "Umesh V.\u00a0Waghmare",
+                "Vinay S.\u00a0Kandagal",
+                "Mridula Dixit\u00a0Bharadwaj",
+                "Umesh V.\u00a0Waghmare"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2015/06/09",
+            "language": "en",
+            "volume": "3",
+            "issue": "24",
+            "firstpage": "12992",
+            "lastpage": "12999",
+            "doi": "10.1039/C5TA01616A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ta/c5ta01616a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ta/c5ta01616a"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "mScm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  MilliSiemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "NGPS",
+                        "Na10GeP2S12"
+                    ]
+                }
+            },
+            "names": "Na10GeP2S12"
+        },
+        "metadata": {
+            "title": "Theoretical prediction of a highly conducting solid electrolyte for sodium batteries: Na 10 GeP 2 S 12  ",
+            "authors": [
+                "Vinay S.\u00a0Kandagal",
+                "Mridula Dixit\u00a0Bharadwaj",
+                "Umesh V.\u00a0Waghmare",
+                "Vinay S.\u00a0Kandagal",
+                "Mridula Dixit\u00a0Bharadwaj",
+                "Umesh V.\u00a0Waghmare"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2015/06/09",
+            "language": "en",
+            "volume": "3",
+            "issue": "24",
+            "firstpage": "12992",
+            "lastpage": "12999",
+            "doi": "10.1039/C5TA01616A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ta/c5ta01616a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ta/c5ta01616a"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "mScm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  MilliSiemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "NGPS",
+                        "Na10GeP2S12"
+                    ]
+                }
+            },
+            "names": "Na10GeP2S12"
+        },
+        "metadata": {
+            "title": "Theoretical prediction of a highly conducting solid electrolyte for sodium batteries: Na 10 GeP 2 S 12  ",
+            "authors": [
+                "Vinay S.\u00a0Kandagal",
+                "Mridula Dixit\u00a0Bharadwaj",
+                "Umesh V.\u00a0Waghmare",
+                "Vinay S.\u00a0Kandagal",
+                "Mridula Dixit\u00a0Bharadwaj",
+                "Umesh V.\u00a0Waghmare"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2015/06/09",
+            "language": "en",
+            "volume": "3",
+            "issue": "24",
+            "firstpage": "12992",
+            "lastpage": "12999",
+            "doi": "10.1039/C5TA01616A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ta/c5ta01616a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ta/c5ta01616a"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na3Zr2Si2PO12"
+                    ]
+                }
+            },
+            "names": "Na3Zr2Si2PO12"
+        },
+        "metadata": {
+            "title": "Theoretical prediction of a highly conducting solid electrolyte for sodium batteries: Na 10 GeP 2 S 12  ",
+            "authors": [
+                "Vinay S.\u00a0Kandagal",
+                "Mridula Dixit\u00a0Bharadwaj",
+                "Umesh V.\u00a0Waghmare",
+                "Vinay S.\u00a0Kandagal",
+                "Mridula Dixit\u00a0Bharadwaj",
+                "Umesh V.\u00a0Waghmare"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2015/06/09",
+            "language": "en",
+            "volume": "3",
+            "issue": "24",
+            "firstpage": "12992",
+            "lastpage": "12999",
+            "doi": "10.1039/C5TA01616A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ta/c5ta01616a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ta/c5ta01616a"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "mScm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  MilliSiemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "NGPS",
+                        "Na10GeP2S12"
+                    ]
+                }
+            },
+            "names": "Na10GeP2S12"
+        },
+        "metadata": {
+            "title": "Theoretical prediction of a highly conducting solid electrolyte for sodium batteries: Na 10 GeP 2 S 12  ",
+            "authors": [
+                "Vinay S.\u00a0Kandagal",
+                "Mridula Dixit\u00a0Bharadwaj",
+                "Umesh V.\u00a0Waghmare",
+                "Vinay S.\u00a0Kandagal",
+                "Mridula Dixit\u00a0Bharadwaj",
+                "Umesh V.\u00a0Waghmare"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2015/06/09",
+            "language": "en",
+            "volume": "3",
+            "issue": "24",
+            "firstpage": "12992",
+            "lastpage": "12999",
+            "doi": "10.1039/C5TA01616A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ta/c5ta01616a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ta/c5ta01616a"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "mScm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  MilliSiemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "NGPS",
+                        "Na10GeP2S12"
+                    ]
+                }
+            },
+            "names": "Na10GeP2S12"
+        },
+        "metadata": {
+            "title": "Theoretical prediction of a highly conducting solid electrolyte for sodium batteries: Na 10 GeP 2 S 12  ",
+            "authors": [
+                "Vinay S.\u00a0Kandagal",
+                "Mridula Dixit\u00a0Bharadwaj",
+                "Umesh V.\u00a0Waghmare",
+                "Vinay S.\u00a0Kandagal",
+                "Mridula Dixit\u00a0Bharadwaj",
+                "Umesh V.\u00a0Waghmare"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2015/06/09",
+            "language": "en",
+            "volume": "3",
+            "issue": "24",
+            "firstpage": "12992",
+            "lastpage": "12999",
+            "doi": "10.1039/C5TA01616A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ta/c5ta01616a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ta/c5ta01616a"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LAGP",
+                        "Li1+xAlxGe2\u2212x(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1+xAlxGe2\u2212x(PO4)3"
+        },
+        "metadata": {
+            "title": "Effect of doping of trivalent cations Ga3+, Sc3+, Y3+ in Li1.3Al0.3Ti1.7 (PO4)3 (LATP) system on Li+ ion conductivity",
+            "publisher": "North-Holland",
+            "journal": "Physica B: Condensed Matter",
+            "date": "2016/08/18",
+            "volume": "501",
+            "firstpage": "90",
+            "lastpage": "94",
+            "doi": "10.1016/j.physb.2016.08.020"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LAGP",
+                        "Li1+xAlxGe2\u2212x(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1+xAlxGe2\u2212x(PO4)3"
+        },
+        "metadata": {
+            "title": "Effect of doping of trivalent cations Ga3+, Sc3+, Y3+ in Li1.3Al0.3Ti1.7 (PO4)3 (LATP) system on Li+ ion conductivity",
+            "publisher": "North-Holland",
+            "journal": "Physica B: Condensed Matter",
+            "date": "2016/08/18",
+            "volume": "501",
+            "firstpage": "90",
+            "lastpage": "94",
+            "doi": "10.1016/j.physb.2016.08.020"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "S/cm",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li1.3Cr0.3Ge1.7(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1.3Cr0.3Ge1.7(PO4)3"
+        },
+        "metadata": {
+            "title": "High lithium conductivity in Li1.3Cr0.3Ge1.7(PO4)3 glass-ceramics",
+            "publisher": "North-Holland",
+            "journal": "Materials Letters",
+            "date": "2004/07/29",
+            "volume": "58",
+            "issue": "27-28",
+            "firstpage": "3428",
+            "lastpage": "3431",
+            "doi": "10.1016/j.matlet.2004.05.080"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 9",
+            "raw_units": "Scm\u22121",
+            "value": 1e-09,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li3V2(PO3)4"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO3)4"
+        },
+        "metadata": {
+            "title": "Lithium deintercalation behavior in Li-rich vanadium phosphate as a potential cathode for Li-ion batteries  ",
+            "authors": [
+                "Quan\u00a0Kuang",
+                "Zhiping\u00a0Lin",
+                "Yanming\u00a0Zhao",
+                "Xiaolong\u00a0Chen",
+                "Liquan\u00a0Chen",
+                "Quan\u00a0Kuang",
+                "Zhiping\u00a0Lin",
+                "Yanming\u00a0Zhao",
+                "Xiaolong\u00a0Chen",
+                "Liquan\u00a0Chen"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry",
+            "date": "2011/09/20",
+            "language": "en",
+            "volume": "21",
+            "issue": "38",
+            "firstpage": "14760",
+            "lastpage": "14765",
+            "doi": "10.1039/C1JM12291F",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2011/jm/c1jm12291f",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2011/jm/c1jm12291f"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 9",
+            "raw_units": "Scm\u22121",
+            "value": 1e-09,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li3V2(PO3)4"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO3)4"
+        },
+        "metadata": {
+            "title": "Lithium deintercalation behavior in Li-rich vanadium phosphate as a potential cathode for Li-ion batteries  ",
+            "authors": [
+                "Quan\u00a0Kuang",
+                "Zhiping\u00a0Lin",
+                "Yanming\u00a0Zhao",
+                "Xiaolong\u00a0Chen",
+                "Liquan\u00a0Chen",
+                "Quan\u00a0Kuang",
+                "Zhiping\u00a0Lin",
+                "Yanming\u00a0Zhao",
+                "Xiaolong\u00a0Chen",
+                "Liquan\u00a0Chen"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry",
+            "date": "2011/09/20",
+            "language": "en",
+            "volume": "21",
+            "issue": "38",
+            "firstpage": "14760",
+            "lastpage": "14765",
+            "doi": "10.1039/C1JM12291F",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2011/jm/c1jm12291f",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2011/jm/c1jm12291f"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "S/cm",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li1.1Zr1.9La0.1(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1.1Zr1.9La0.1(PO4)3"
+        },
+        "metadata": {
+            "title": "NASICON-type La3+substituted LiZr2(PO4)3 with improved ionic conductivity as solid electrolyte",
+            "publisher": "Pergamon",
+            "journal": "Electrochimica Acta",
+            "date": "2018/03/23",
+            "volume": "271",
+            "firstpage": "120",
+            "lastpage": "126",
+            "doi": "10.1016/j.electacta.2018.03.115"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "S/cm",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li1.1Zr1.9La0.1(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1.1Zr1.9La0.1(PO4)3"
+        },
+        "metadata": {
+            "title": "NASICON-type La3+substituted LiZr2(PO4)3 with improved ionic conductivity as solid electrolyte",
+            "publisher": "Pergamon",
+            "journal": "Electrochimica Acta",
+            "date": "2018/03/23",
+            "volume": "271",
+            "firstpage": "120",
+            "lastpage": "126",
+            "doi": "10.1016/j.electacta.2018.03.115"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LATP",
+                        "Li1.3Al0.3Ti1.7 (PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1.3Al0.3Ti1.7 (PO4)3"
+        },
+        "metadata": {
+            "title": "Preparation and electrical properties of amorphous Li-Al-Ti-P-O thin film electrolyte",
+            "publisher": "North-Holland",
+            "journal": "Materials Letters",
+            "date": "2016/01/19",
+            "volume": "169",
+            "firstpage": "42",
+            "lastpage": "45",
+            "doi": "10.1016/j.matlet.2016.01.089"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LATP",
+                        "Li1.3Al0.3Ti1.7 (PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1.3Al0.3Ti1.7 (PO4)3"
+        },
+        "metadata": {
+            "title": "Preparation and electrical properties of amorphous Li-Al-Ti-P-O thin film electrolyte",
+            "publisher": "North-Holland",
+            "journal": "Materials Letters",
+            "date": "2016/01/19",
+            "volume": "169",
+            "firstpage": "42",
+            "lastpage": "45",
+            "doi": "10.1016/j.matlet.2016.01.089"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "0.1",
+            "raw_units": "Scm\u22121",
+            "value": [
+                0.1
+            ],
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na2B12H12"
+                    ]
+                }
+            },
+            "names": "Na2B12H12"
+        },
+        "metadata": {
+            "title": "Sodium superionic conduction in Na 2 B 12 H 12  ",
+            "authors": [
+                "Terrence J.\u00a0Udovic",
+                "Motoaki\u00a0Matsuo",
+                "Atsushi\u00a0Unemoto",
+                "Nina\u00a0Verdal",
+                "Vitalie\u00a0Stavila",
+                "Alexander V.\u00a0Skripov",
+                "John J.\u00a0Rush",
+                "Hitoshi\u00a0Takamura",
+                "Shin-ichi\u00a0Orimo",
+                "Terrence J.\u00a0Udovic",
+                "Motoaki\u00a0Matsuo",
+                "Atsushi\u00a0Unemoto",
+                "Nina\u00a0Verdal",
+                "Vitalie\u00a0Stavila",
+                "Alexander V.\u00a0Skripov",
+                "John J.\u00a0Rush",
+                "Hitoshi\u00a0Takamura",
+                "Shin-ichi\u00a0Orimo"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Chemical Communications",
+            "date": "2014/03/11",
+            "language": "en",
+            "volume": "50",
+            "issue": "28",
+            "firstpage": "3750",
+            "lastpage": "3752",
+            "doi": "10.1039/C3CC49805K",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/cc/c3cc49805k",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/cc/c3cc49805k"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li1.5Al0.5Ge1.5(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1.5Al0.5Ge1.5(PO4)3"
+        },
+        "metadata": {
+            "title": "Characterization of LiCoO2/multiwall carbon nanotubes with garnet-type electrolyte fabricated by spark plasma sintering for bulk-type all-solid-state batteries",
+            "publisher": "Elsevier",
+            "journal": "Composites Part B: Engineering",
+            "date": "2017/05/09",
+            "volume": "124",
+            "firstpage": "242",
+            "lastpage": "249",
+            "doi": "10.1016/j.compositesb.2017.05.025"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li3.94Cr0.02Zr0.06Si0.94O4"
+                    ]
+                }
+            },
+            "names": "Li3.94Cr0.02Zr0.06Si0.94O4"
+        },
+        "metadata": {
+            "title": "Characterization of novel Li4Zr0.06Si0.94O4 and Li3.94Cr0.02Zr0.06Si0.94O4 ceramic electrolytes for lithium cells",
+            "publisher": "Elsevier",
+            "journal": "Ceramics International",
+            "date": "2013/11/28",
+            "volume": "40",
+            "issue": "4",
+            "firstpage": "6373",
+            "lastpage": "6379",
+            "doi": "10.1016/j.ceramint.2013.11.031"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 1",
+            "raw_units": "S/cm",
+            "value": 0.1,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li3V2(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li3V2(PO4)3"
+        },
+        "metadata": {
+            "title": "Electrochemical performance of Li3V2(PO4)3/C cathode material using a novel carbon source",
+            "publisher": "Pergamon",
+            "journal": "Electrochimica Acta",
+            "date": "2009/05/14",
+            "volume": "54",
+            "issue": "26",
+            "firstpage": "6451",
+            "lastpage": "6454",
+            "doi": "10.1016/j.electacta.2009.05.002"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 8",
+            "raw_units": "Scm\u22121",
+            "value": 1e-08,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Na2SO4"
+                    ]
+                }
+            },
+            "names": "Na2SO4"
+        },
+        "metadata": {
+            "journal": "Journal of Asian Ceramic Societies"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Lithium aluminium titanium phosphate",
+                        "LATP",
+                        "Li1.3Al0.3Ti1.7(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1.3Al0.3Ti1.7(PO4)3"
+        },
+        "metadata": {
+            "title": "A novel solid-state Li\u2013O 2 battery with an integrated electrolyte and cathode structure  ",
+            "authors": [
+                "X. B.\u00a0Zhu",
+                "T. S.\u00a0Zhao",
+                "Z. H.\u00a0Wei",
+                "P.\u00a0Tan",
+                "G.\u00a0Zhao",
+                "X. B.\u00a0Zhu",
+                "T. S.\u00a0Zhao",
+                "Z. H.\u00a0Wei",
+                "P.\u00a0Tan",
+                "G.\u00a0Zhao"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Energy & Environmental Science",
+            "date": "2015/08/26",
+            "language": "en",
+            "volume": "8",
+            "issue": "9",
+            "firstpage": "2782",
+            "lastpage": "2790",
+            "doi": "10.1039/C5EE01604E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ee/c5ee01604e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ee/c5ee01604e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Lithium aluminium titanium phosphate",
+                        "LATP",
+                        "Li1.3Al0.3Ti1.7(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1.3Al0.3Ti1.7(PO4)3"
+        },
+        "metadata": {
+            "title": "A novel solid-state Li\u2013O 2 battery with an integrated electrolyte and cathode structure  ",
+            "authors": [
+                "X. B.\u00a0Zhu",
+                "T. S.\u00a0Zhao",
+                "Z. H.\u00a0Wei",
+                "P.\u00a0Tan",
+                "G.\u00a0Zhao",
+                "X. B.\u00a0Zhu",
+                "T. S.\u00a0Zhao",
+                "Z. H.\u00a0Wei",
+                "P.\u00a0Tan",
+                "G.\u00a0Zhao"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Energy & Environmental Science",
+            "date": "2015/08/26",
+            "language": "en",
+            "volume": "8",
+            "issue": "9",
+            "firstpage": "2782",
+            "lastpage": "2790",
+            "doi": "10.1039/C5EE01604E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ee/c5ee01604e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ee/c5ee01604e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Lithium aluminium titanium phosphate",
+                        "LATP",
+                        "Li1.3Al0.3Ti1.7(PO4)3"
+                    ]
+                }
+            },
+            "names": "Li1.3Al0.3Ti1.7(PO4)3"
+        },
+        "metadata": {
+            "title": "A novel solid-state Li\u2013O 2 battery with an integrated electrolyte and cathode structure  ",
+            "authors": [
+                "X. B.\u00a0Zhu",
+                "T. S.\u00a0Zhao",
+                "Z. H.\u00a0Wei",
+                "P.\u00a0Tan",
+                "G.\u00a0Zhao",
+                "X. B.\u00a0Zhu",
+                "T. S.\u00a0Zhao",
+                "Z. H.\u00a0Wei",
+                "P.\u00a0Tan",
+                "G.\u00a0Zhao"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Energy & Environmental Science",
+            "date": "2015/08/26",
+            "language": "en",
+            "volume": "8",
+            "issue": "9",
+            "firstpage": "2782",
+            "lastpage": "2790",
+            "doi": "10.1039/C5EE01604E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ee/c5ee01604e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ee/c5ee01604e"
+        }
+    }
+]

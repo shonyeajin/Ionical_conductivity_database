@@ -1,0 +1,237 @@
+[
+    {
+        "BatteryConductivity": {
+            "raw_value": "5 \u00d7 10 \u2212 5 \u2013 2 \u00d7 10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.002,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li3InBr6\u2212xClx"
+                    ],
+                    "labels": [
+                        "0 < x < 3"
+                    ]
+                }
+            },
+            "names": "Li3InBr6\u2212xClx"
+        },
+        "metadata": {
+            "title": "Holistic computational structure screening of more than 12000 candidates for solid lithium-ion conductor materials  ",
+            "authors": [
+                "Austin D.\u00a0Sendek",
+                "Qian\u00a0Yang",
+                "Ekin D.\u00a0Cubuk",
+                "Karel-Alexander N.\u00a0Duerloo",
+                "Yi\u00a0Cui",
+                "Evan J.\u00a0Reed",
+                "Austin D.\u00a0Sendek",
+                "Qian\u00a0Yang",
+                "Ekin D.\u00a0Cubuk",
+                "Karel-Alexander N.\u00a0Duerloo",
+                "Yi\u00a0Cui",
+                "Evan J.\u00a0Reed"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Energy & Environmental Science",
+            "date": "2017/01/18",
+            "language": "en",
+            "volume": "10",
+            "issue": "1",
+            "firstpage": "306",
+            "lastpage": "320",
+            "doi": "10.1039/C6EE02697D",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2017/ee/c6ee02697d",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2017/ee/c6ee02697d"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li0.2CdP2"
+                    ]
+                }
+            },
+            "names": "Li0.2CdP2"
+        },
+        "metadata": {
+            "title": "Low-activated Li-ion mobility and metal to semiconductor transition in CdP 2 @Li phases  ",
+            "authors": [
+                "N.\u00a0Eckstein",
+                "I.\u00a0Kr\u00fcger",
+                "F.\u00a0Bachhuber",
+                "R.\u00a0Weihrich",
+                "J. E.\u00a0Barquera-Lozada",
+                "L.\u00a0van W\u00fcllen",
+                "Tom\u00a0Nilges",
+                "N.\u00a0Eckstein",
+                "I.\u00a0Kr\u00fcger",
+                "F.\u00a0Bachhuber",
+                "R.\u00a0Weihrich",
+                "J. E.\u00a0Barquera-Lozada",
+                "L.\u00a0van W\u00fcllen",
+                "Tom\u00a0Nilges"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2015/03/10",
+            "language": "en",
+            "volume": "3",
+            "issue": "12",
+            "firstpage": "6484",
+            "lastpage": "6491",
+            "doi": "10.1039/C5TA00471C",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ta/c5ta00471c",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ta/c5ta00471c"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li3OCl"
+                    ]
+                }
+            },
+            "names": "Li3OCl"
+        },
+        "metadata": {
+            "title": "Li-rich anti-perovskite Li 3 OCl films with enhanced ionic conductivity  ",
+            "authors": [
+                "Xujie\u00a0L\u00fc",
+                "Gang\u00a0Wu",
+                "John W.\u00a0Howard",
+                "Aiping\u00a0Chen",
+                "Yusheng\u00a0Zhao",
+                "Luke L.\u00a0Daemen",
+                "Quanxi\u00a0Jia",
+                "Xujie\u00a0L\u00fc",
+                "Gang\u00a0Wu",
+                "John W.\u00a0Howard",
+                "Aiping\u00a0Chen",
+                "Yusheng\u00a0Zhao",
+                "Luke L.\u00a0Daemen",
+                "Quanxi\u00a0Jia"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Chemical Communications",
+            "date": "2014/09/04",
+            "language": "en",
+            "volume": "50",
+            "issue": "78",
+            "firstpage": "11520",
+            "lastpage": "11522",
+            "doi": "10.1039/C4CC05372A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/cc/c4cc05372a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/cc/c4cc05372a"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li3OCl"
+                    ]
+                }
+            },
+            "names": "Li3OCl"
+        },
+        "metadata": {
+            "title": "Li-rich anti-perovskite Li 3 OCl films with enhanced ionic conductivity  ",
+            "authors": [
+                "Xujie\u00a0L\u00fc",
+                "Gang\u00a0Wu",
+                "John W.\u00a0Howard",
+                "Aiping\u00a0Chen",
+                "Yusheng\u00a0Zhao",
+                "Luke L.\u00a0Daemen",
+                "Quanxi\u00a0Jia",
+                "Xujie\u00a0L\u00fc",
+                "Gang\u00a0Wu",
+                "John W.\u00a0Howard",
+                "Aiping\u00a0Chen",
+                "Yusheng\u00a0Zhao",
+                "Luke L.\u00a0Daemen",
+                "Quanxi\u00a0Jia"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Chemical Communications",
+            "date": "2014/09/04",
+            "language": "en",
+            "volume": "50",
+            "issue": "78",
+            "firstpage": "11520",
+            "lastpage": "11522",
+            "doi": "10.1039/C4CC05372A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/cc/c4cc05372a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/cc/c4cc05372a"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivities",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li3OCl"
+                    ]
+                }
+            },
+            "names": "Li3OCl"
+        },
+        "metadata": {
+            "title": "Li-rich anti-perovskite Li 3 OCl films with enhanced ionic conductivity  ",
+            "authors": [
+                "Xujie\u00a0L\u00fc",
+                "Gang\u00a0Wu",
+                "John W.\u00a0Howard",
+                "Aiping\u00a0Chen",
+                "Yusheng\u00a0Zhao",
+                "Luke L.\u00a0Daemen",
+                "Quanxi\u00a0Jia",
+                "Xujie\u00a0L\u00fc",
+                "Gang\u00a0Wu",
+                "John W.\u00a0Howard",
+                "Aiping\u00a0Chen",
+                "Yusheng\u00a0Zhao",
+                "Luke L.\u00a0Daemen",
+                "Quanxi\u00a0Jia"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Chemical Communications",
+            "date": "2014/09/04",
+            "language": "en",
+            "volume": "50",
+            "issue": "78",
+            "firstpage": "11520",
+            "lastpage": "11522",
+            "doi": "10.1039/C4CC05372A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/cc/c4cc05372a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/cc/c4cc05372a"
+        }
+    }
+]

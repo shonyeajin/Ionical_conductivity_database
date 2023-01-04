@@ -1,0 +1,950 @@
+[
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 13",
+            "raw_units": "Scm\u22121",
+            "value": 1e-13,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li4Ti5O12"
+                    ]
+                }
+            },
+            "names": "Li4Ti5O12"
+        },
+        "metadata": {
+            "title": " In situ fabrication of lithium titanium oxide by microwave-assisted alkalization for high-rate lithium-ion batteries  ",
+            "authors": [
+                "Hyun-Kyung\u00a0Kim",
+                "Jong-Pil\u00a0Jegal",
+                "Ji-Young\u00a0Kim",
+                "Seung-Beom\u00a0Yoon",
+                "Kwang Chul\u00a0Roh",
+                "Kwang-Bum\u00a0Kim",
+                "Hyun-Kyung\u00a0Kim",
+                "Jong-Pil\u00a0Jegal",
+                "Ji-Young\u00a0Kim",
+                "Seung-Beom\u00a0Yoon",
+                "Kwang Chul\u00a0Roh",
+                "Kwang-Bum\u00a0Kim"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2013/11/12",
+            "language": "en",
+            "volume": "1",
+            "issue": "47",
+            "firstpage": "14849",
+            "lastpage": "14852",
+            "doi": "10.1039/C3TA13206D",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2013/ta/c3ta13206d",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2013/ta/c3ta13206d"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 7",
+            "raw_units": "Scm\u22121",
+            "value": 1e-07,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "TiNb2O7"
+                    ]
+                }
+            },
+            "names": "TiNb2O7"
+        },
+        "metadata": {
+            "title": "Ru 0.01 Ti 0.99 Nb 2 O 7 as an intercalation-type anode material with a large capacity and high rate performance for lithium-ion batteries  ",
+            "authors": [
+                "Chunfu\u00a0Lin",
+                "Shu\u00a0Yu",
+                "Shunqing\u00a0Wu",
+                "Shiwei\u00a0Lin",
+                "Zi-Zhong\u00a0Zhu",
+                "Jianbao\u00a0Li",
+                "Li\u00a0Lu",
+                "Chunfu\u00a0Lin",
+                "Shu\u00a0Yu",
+                "Shunqing\u00a0Wu",
+                "Shiwei\u00a0Lin",
+                "Zi-Zhong\u00a0Zhu",
+                "Jianbao\u00a0Li",
+                "Li\u00a0Lu"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2015/04/07",
+            "language": "en",
+            "volume": "3",
+            "issue": "16",
+            "firstpage": "8627",
+            "lastpage": "8635",
+            "doi": "10.1039/C5TA01073J",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ta/c5ta01073j",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ta/c5ta01073j"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 13",
+            "raw_units": "Scm\u22121",
+            "value": 1e-13,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li4Ti5O12"
+                    ],
+                    "roles": [
+                        "product"
+                    ]
+                }
+            },
+            "names": "Li4Ti5O12"
+        },
+        "metadata": {
+            "title": "Synthesis of nano-Li 4 Ti 5 O 12 decorated on non-oxidized carbon nanotubes with enhanced rate capability for lithium-ion batteries  ",
+            "authors": [
+                "Hyun-Kyung\u00a0Kim",
+                "Kwang Chul\u00a0Roh",
+                "Kisuk\u00a0Kang",
+                "Kwang-Bum\u00a0Kim",
+                "Hyun-Kyung\u00a0Kim",
+                "Kwang Chul\u00a0Roh",
+                "Kisuk\u00a0Kang",
+                "Kwang-Bum\u00a0Kim"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2013/08/05",
+            "language": "en",
+            "volume": "3",
+            "issue": "34",
+            "firstpage": "14267",
+            "lastpage": "14272",
+            "doi": "10.1039/C3RA42759E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2013/ra/c3ra42759e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2013/ra/c3ra42759e"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLTO",
+                        "La(2\u2212x) / 3LixTiO3"
+                    ]
+                }
+            },
+            "names": "La(2\u2212x) / 3LixTiO3"
+        },
+        "metadata": {
+            "title": "Cation ordering in A-site-deficient Li-ion conducting perovskites La (1\u2212x)/3 Li x NbO 3  ",
+            "authors": [
+                "Xiang\u00a0Gao",
+                "Craig A. J.\u00a0Fisher",
+                "Yumi H.\u00a0Ikuhara",
+                "Yasuyuki\u00a0Fujiwara",
+                "Shunsuke\u00a0Kobayashi",
+                "Hiroki\u00a0Moriwake",
+                "Akihide\u00a0Kuwabara",
+                "Keigo\u00a0Hoshikawa",
+                "Keiichi\u00a0Kohama",
+                "Hideki\u00a0Iba",
+                "Yuichi\u00a0Ikuhara",
+                "Xiang\u00a0Gao",
+                "Craig A. J.\u00a0Fisher",
+                "Yumi H.\u00a0Ikuhara",
+                "Yasuyuki\u00a0Fujiwara",
+                "Shunsuke\u00a0Kobayashi",
+                "Hiroki\u00a0Moriwake",
+                "Akihide\u00a0Kuwabara",
+                "Keigo\u00a0Hoshikawa",
+                "Keiichi\u00a0Kohama",
+                "Hideki\u00a0Iba",
+                "Yuichi\u00a0Ikuhara"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2015/02/03",
+            "language": "en",
+            "volume": "3",
+            "issue": "7",
+            "firstpage": "3351",
+            "lastpage": "3359",
+            "doi": "10.1039/C4TA07040B",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ta/c4ta07040b",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ta/c4ta07040b"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLTO",
+                        "La(2\u2212x) / 3LixTiO3"
+                    ]
+                }
+            },
+            "names": "La(2\u2212x) / 3LixTiO3"
+        },
+        "metadata": {
+            "title": "Cation ordering in A-site-deficient Li-ion conducting perovskites La (1\u2212x)/3 Li x NbO 3  ",
+            "authors": [
+                "Xiang\u00a0Gao",
+                "Craig A. J.\u00a0Fisher",
+                "Yumi H.\u00a0Ikuhara",
+                "Yasuyuki\u00a0Fujiwara",
+                "Shunsuke\u00a0Kobayashi",
+                "Hiroki\u00a0Moriwake",
+                "Akihide\u00a0Kuwabara",
+                "Keigo\u00a0Hoshikawa",
+                "Keiichi\u00a0Kohama",
+                "Hideki\u00a0Iba",
+                "Yuichi\u00a0Ikuhara",
+                "Xiang\u00a0Gao",
+                "Craig A. J.\u00a0Fisher",
+                "Yumi H.\u00a0Ikuhara",
+                "Yasuyuki\u00a0Fujiwara",
+                "Shunsuke\u00a0Kobayashi",
+                "Hiroki\u00a0Moriwake",
+                "Akihide\u00a0Kuwabara",
+                "Keigo\u00a0Hoshikawa",
+                "Keiichi\u00a0Kohama",
+                "Hideki\u00a0Iba",
+                "Yuichi\u00a0Ikuhara"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2015/02/03",
+            "language": "en",
+            "volume": "3",
+            "issue": "7",
+            "firstpage": "3351",
+            "lastpage": "3359",
+            "doi": "10.1039/C4TA07040B",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ta/c4ta07040b",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ta/c4ta07040b"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li0.18La0.61TiO3"
+                    ]
+                }
+            },
+            "names": "Li0.18La0.61TiO3"
+        },
+        "metadata": {
+            "title": "Low temperature synthesis and ionic conductivity of the epitaxial Li 0.17 La 0.61 TiO 3 film electrolyte ",
+            "authors": [
+                "Sangryun\u00a0Kim",
+                "Masaaki\u00a0Hirayama",
+                "Woosuk\u00a0Cho",
+                "Kyungsu\u00a0Kim",
+                "Takeshi\u00a0Kobayashi",
+                "Ryotaro\u00a0Kaneko",
+                "Kota\u00a0Suzuki",
+                "Ryoji\u00a0Kanno",
+                "Sangryun\u00a0Kim",
+                "Masaaki\u00a0Hirayama",
+                "Woosuk\u00a0Cho",
+                "Kyungsu\u00a0Kim",
+                "Takeshi\u00a0Kobayashi",
+                "Ryotaro\u00a0Kaneko",
+                "Kota\u00a0Suzuki",
+                "Ryoji\u00a0Kanno"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "CrystEngComm",
+            "date": "2014/01/16",
+            "language": "en",
+            "volume": "16",
+            "issue": "6",
+            "firstpage": "1044",
+            "lastpage": "1049",
+            "doi": "10.1039/C3CE42003E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/ce/c3ce42003e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/ce/c3ce42003e"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li0.33La0.56TiO3"
+                    ]
+                }
+            },
+            "names": "Li0.33La0.56TiO3"
+        },
+        "metadata": {
+            "title": "Low temperature synthesis and ionic conductivity of the epitaxial Li 0.17 La 0.61 TiO 3 film electrolyte ",
+            "authors": [
+                "Sangryun\u00a0Kim",
+                "Masaaki\u00a0Hirayama",
+                "Woosuk\u00a0Cho",
+                "Kyungsu\u00a0Kim",
+                "Takeshi\u00a0Kobayashi",
+                "Ryotaro\u00a0Kaneko",
+                "Kota\u00a0Suzuki",
+                "Ryoji\u00a0Kanno",
+                "Sangryun\u00a0Kim",
+                "Masaaki\u00a0Hirayama",
+                "Woosuk\u00a0Cho",
+                "Kyungsu\u00a0Kim",
+                "Takeshi\u00a0Kobayashi",
+                "Ryotaro\u00a0Kaneko",
+                "Kota\u00a0Suzuki",
+                "Ryoji\u00a0Kanno"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "CrystEngComm",
+            "date": "2014/01/16",
+            "language": "en",
+            "volume": "16",
+            "issue": "6",
+            "firstpage": "1044",
+            "lastpage": "1049",
+            "doi": "10.1039/C3CE42003E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/ce/c3ce42003e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/ce/c3ce42003e"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li0.36La0.53Sr0.03TiO3"
+                    ]
+                }
+            },
+            "names": "Li0.36La0.53Sr0.03TiO3"
+        },
+        "metadata": {
+            "title": "Characterization of Sr-doped lithium lanthanum titanate with improved transport properties",
+            "publisher": "Elsevier",
+            "journal": "Solid State Ionics",
+            "date": "2019/03/22",
+            "volume": "336",
+            "firstpage": "39",
+            "lastpage": "46",
+            "doi": "10.1016/j.ssi.2019.03.015"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li0.36La0.53Sr0.03TiO3"
+                    ],
+                    "labels": [
+                        "x = 0.03"
+                    ]
+                }
+            },
+            "names": "Li0.36La0.53Sr0.03TiO3"
+        },
+        "metadata": {
+            "title": "Characterization of Sr-doped lithium lanthanum titanate with improved transport properties",
+            "publisher": "Elsevier",
+            "journal": "Solid State Ionics",
+            "date": "2019/03/22",
+            "volume": "336",
+            "firstpage": "39",
+            "lastpage": "46",
+            "doi": "10.1016/j.ssi.2019.03.015"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivities",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "La2 / 3\u2212xLi3xTiO3"
+                    ]
+                }
+            },
+            "names": "La2 / 3\u2212xLi3xTiO3"
+        },
+        "metadata": {
+            "title": "Nano-scale structural analysis of (La,Fe)TiO3 prepared by Fe/Li ion-exchange",
+            "publisher": "Pergamon",
+            "journal": "Solid State Communications",
+            "date": "2007/02/02",
+            "volume": "142",
+            "issue": "1-2",
+            "firstpage": "45",
+            "lastpage": "48",
+            "doi": "10.1016/j.ssc.2007.01.040"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li2SrTa2O7"
+                    ]
+                }
+            },
+            "names": "Li2SrTa2O7"
+        },
+        "metadata": {
+            "title": "Insight into lithium-ion mobility in Li 2 La(TaTi)O 7 ",
+            "authors": [
+                "Selorm Joy\u00a0Fanah",
+                "Ming\u00a0Yu",
+                "Ashfia\u00a0Huq",
+                "Farshid\u00a0Ramezanipour",
+                "Selorm Joy\u00a0Fanah",
+                "Ming\u00a0Yu",
+                "Ashfia\u00a0Huq",
+                "Farshid\u00a0Ramezanipour"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2018/11/13",
+            "language": "en",
+            "volume": "6",
+            "issue": "44",
+            "firstpage": "22152",
+            "lastpage": "22160",
+            "doi": "10.1039/C8TA05187A",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2018/ta/c8ta05187a",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2018/ta/c8ta05187a"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li\u2013La\u2013Ti\u2013O",
+                        "LLTO",
+                        "Li \u2013 La \u2013 Ti \u2013 O",
+                        "Li0.5La0.5TiO3",
+                        "Li0.33La0.56TiO3",
+                        "Li0.35La0.55TiO3"
+                    ]
+                }
+            },
+            "names": "Li0.35La0.55TiO3"
+        },
+        "metadata": {
+            "title": "Properties and preparation of Li\u2013La\u2013Ti\u2013Zr\u2013O thin film electrolyte",
+            "publisher": "North-Holland",
+            "journal": "Materials Letters",
+            "date": "2015/04/25",
+            "volume": "154",
+            "firstpage": "167",
+            "lastpage": "169",
+            "doi": "10.1016/j.matlet.2015.04.088"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li\u2013La\u2013Ti\u2013O",
+                        "LLTO",
+                        "Li \u2013 La \u2013 Ti \u2013 O",
+                        "Li0.5La0.5TiO3",
+                        "Li0.33La0.56TiO3",
+                        "Li0.35La0.55TiO3"
+                    ]
+                }
+            },
+            "names": "Li0.35La0.55TiO3"
+        },
+        "metadata": {
+            "title": "Properties and preparation of Li\u2013La\u2013Ti\u2013Zr\u2013O thin film electrolyte",
+            "publisher": "North-Holland",
+            "journal": "Materials Letters",
+            "date": "2015/04/25",
+            "volume": "154",
+            "firstpage": "167",
+            "lastpage": "169",
+            "doi": "10.1016/j.matlet.2015.04.088"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li\u2013La\u2013Ti\u2013O",
+                        "LLTO",
+                        "Li \u2013 La \u2013 Ti \u2013 O",
+                        "Li0.5La0.5TiO3",
+                        "Li0.33La0.56TiO3",
+                        "Li0.35La0.55TiO3"
+                    ]
+                }
+            },
+            "names": "Li0.35La0.55TiO3"
+        },
+        "metadata": {
+            "title": "Properties and preparation of Li\u2013La\u2013Ti\u2013Zr\u2013O thin film electrolyte",
+            "publisher": "North-Holland",
+            "journal": "Materials Letters",
+            "date": "2015/04/25",
+            "volume": "154",
+            "firstpage": "167",
+            "lastpage": "169",
+            "doi": "10.1016/j.matlet.2015.04.088"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li\u2013La\u2013Ti\u2013O",
+                        "LLTO",
+                        "Li \u2013 La \u2013 Ti \u2013 O",
+                        "Li0.5La0.5TiO3",
+                        "Li0.33La0.56TiO3",
+                        "Li0.35La0.55TiO3"
+                    ]
+                }
+            },
+            "names": "Li0.35La0.55TiO3"
+        },
+        "metadata": {
+            "title": "Properties and preparation of Li\u2013La\u2013Ti\u2013Zr\u2013O thin film electrolyte",
+            "publisher": "North-Holland",
+            "journal": "Materials Letters",
+            "date": "2015/04/25",
+            "volume": "154",
+            "firstpage": "167",
+            "lastpage": "169",
+            "doi": "10.1016/j.matlet.2015.04.088"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li\u2013La\u2013Ti\u2013O",
+                        "LLTO",
+                        "Li \u2013 La \u2013 Ti \u2013 O",
+                        "Li0.5La0.5TiO3",
+                        "Li0.33La0.56TiO3",
+                        "Li0.35La0.55TiO3"
+                    ]
+                }
+            },
+            "names": "Li0.35La0.55TiO3"
+        },
+        "metadata": {
+            "title": "Properties and preparation of Li\u2013La\u2013Ti\u2013Zr\u2013O thin film electrolyte",
+            "publisher": "North-Holland",
+            "journal": "Materials Letters",
+            "date": "2015/04/25",
+            "volume": "154",
+            "firstpage": "167",
+            "lastpage": "169",
+            "doi": "10.1016/j.matlet.2015.04.088"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 5",
+            "raw_units": "Scm\u22121",
+            "value": 1e-05,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li\u2013La\u2013Ti\u2013O",
+                        "LLTO",
+                        "Li \u2013 La \u2013 Ti \u2013 O",
+                        "Li0.5La0.5TiO3",
+                        "Li0.33La0.56TiO3",
+                        "Li0.35La0.55TiO3"
+                    ]
+                }
+            },
+            "names": "Li0.35La0.55TiO3"
+        },
+        "metadata": {
+            "title": "Properties and preparation of Li\u2013La\u2013Ti\u2013Zr\u2013O thin film electrolyte",
+            "publisher": "North-Holland",
+            "journal": "Materials Letters",
+            "date": "2015/04/25",
+            "volume": "154",
+            "firstpage": "167",
+            "lastpage": "169",
+            "doi": "10.1016/j.matlet.2015.04.088"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 7",
+            "raw_units": "Scm\u22121",
+            "value": 1e-07,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li0.5La0.5TiO3",
+                        "LLTO",
+                        "Li \u2013 La \u2013 Ti \u2013 O",
+                        "Li\u2013La\u2013Ti\u2013O",
+                        "Li0.33La0.56TiO3"
+                    ]
+                }
+            },
+            "names": "Li0.33La0.56TiO3"
+        },
+        "metadata": {
+            "title": "Properties and preparation of Li\u2013La\u2013Ti\u2013Zr\u2013O thin film electrolyte",
+            "publisher": "North-Holland",
+            "journal": "Materials Letters",
+            "date": "2015/04/25",
+            "volume": "154",
+            "firstpage": "167",
+            "lastpage": "169",
+            "doi": "10.1016/j.matlet.2015.04.088"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 7",
+            "raw_units": "Scm\u22121",
+            "value": 1e-07,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li0.5La0.5TiO3",
+                        "LLTO",
+                        "Li \u2013 La \u2013 Ti \u2013 O",
+                        "Li\u2013La\u2013Ti\u2013O",
+                        "Li0.33La0.56TiO3"
+                    ]
+                }
+            },
+            "names": "Li0.33La0.56TiO3"
+        },
+        "metadata": {
+            "title": "Properties and preparation of Li\u2013La\u2013Ti\u2013Zr\u2013O thin film electrolyte",
+            "publisher": "North-Holland",
+            "journal": "Materials Letters",
+            "date": "2015/04/25",
+            "volume": "154",
+            "firstpage": "167",
+            "lastpage": "169",
+            "doi": "10.1016/j.matlet.2015.04.088"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 7",
+            "raw_units": "Scm\u22121",
+            "value": 1e-07,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li0.5La0.5TiO3",
+                        "LLTO",
+                        "Li \u2013 La \u2013 Ti \u2013 O",
+                        "Li\u2013La\u2013Ti\u2013O",
+                        "Li0.33La0.56TiO3"
+                    ]
+                }
+            },
+            "names": "Li0.33La0.56TiO3"
+        },
+        "metadata": {
+            "title": "Properties and preparation of Li\u2013La\u2013Ti\u2013Zr\u2013O thin film electrolyte",
+            "publisher": "North-Holland",
+            "journal": "Materials Letters",
+            "date": "2015/04/25",
+            "volume": "154",
+            "firstpage": "167",
+            "lastpage": "169",
+            "doi": "10.1016/j.matlet.2015.04.088"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 7",
+            "raw_units": "Scm\u22121",
+            "value": 1e-07,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li0.5La0.5TiO3",
+                        "LLTO",
+                        "Li \u2013 La \u2013 Ti \u2013 O",
+                        "Li\u2013La\u2013Ti\u2013O",
+                        "Li0.33La0.56TiO3"
+                    ]
+                }
+            },
+            "names": "Li0.33La0.56TiO3"
+        },
+        "metadata": {
+            "title": "Properties and preparation of Li\u2013La\u2013Ti\u2013Zr\u2013O thin film electrolyte",
+            "publisher": "North-Holland",
+            "journal": "Materials Letters",
+            "date": "2015/04/25",
+            "volume": "154",
+            "firstpage": "167",
+            "lastpage": "169",
+            "doi": "10.1016/j.matlet.2015.04.088"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 7",
+            "raw_units": "Scm\u22121",
+            "value": 1e-07,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li0.5La0.5TiO3",
+                        "LLTO",
+                        "Li \u2013 La \u2013 Ti \u2013 O",
+                        "Li\u2013La\u2013Ti\u2013O",
+                        "Li0.33La0.56TiO3"
+                    ]
+                }
+            },
+            "names": "Li0.33La0.56TiO3"
+        },
+        "metadata": {
+            "title": "Properties and preparation of Li\u2013La\u2013Ti\u2013Zr\u2013O thin film electrolyte",
+            "publisher": "North-Holland",
+            "journal": "Materials Letters",
+            "date": "2015/04/25",
+            "volume": "154",
+            "firstpage": "167",
+            "lastpage": "169",
+            "doi": "10.1016/j.matlet.2015.04.088"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li0.34La0.5TiO2.98"
+                    ]
+                }
+            },
+            "names": "Li0.34La0.5TiO2.98"
+        },
+        "metadata": {
+            "title": "Sol\u2013gel derived Li\u2013La\u2013Zr\u2013O thin films as solid electrolytes for lithium-ion batteries ",
+            "authors": [
+                "Ru-Jun\u00a0Chen",
+                "Mian\u00a0Huang",
+                "Wen-Ze\u00a0Huang",
+                "Yang\u00a0Shen",
+                "Yuan-Hua\u00a0Lin",
+                "Ce-Wen\u00a0Nan",
+                "Ru-Jun\u00a0Chen",
+                "Mian\u00a0Huang",
+                "Wen-Ze\u00a0Huang",
+                "Yang\u00a0Shen",
+                "Yuan-Hua\u00a0Lin",
+                "Ce-Wen\u00a0Nan"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2014/07/29",
+            "language": "en",
+            "volume": "2",
+            "issue": "33",
+            "firstpage": "13277",
+            "lastpage": "13282",
+            "doi": "10.1039/C4TA02289K",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/ta/c4ta02289k",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/ta/c4ta02289k"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 8",
+            "raw_units": "Scm\u22121",
+            "value": 1e-08,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li0.5LaTiO3.75"
+                    ]
+                }
+            },
+            "names": "Li0.5LaTiO3.75"
+        },
+        "metadata": {
+            "title": "Synthesis of H x Li 1\u2212x LaTiO 4 from quantitative solid-state reactions at room temperature  ",
+            "authors": [
+                "Thomas W. S.\u00a0Yip",
+                "Edmund J.\u00a0Cussen",
+                "Donald A.\u00a0MacLaren",
+                "Thomas W. S.\u00a0Yip",
+                "Edmund J.\u00a0Cussen",
+                "Donald A.\u00a0MacLaren"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Chemical Communications",
+            "date": "2010/01/19",
+            "language": "en",
+            "volume": "46",
+            "issue": "5",
+            "firstpage": "698",
+            "lastpage": "700",
+            "doi": "10.1039/B920837B",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2010/cc/b920837b",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2010/cc/b920837b"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "S/cm",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLTO",
+                        "Li0.5La0.5TiO3"
+                    ]
+                }
+            },
+            "names": "Li0.5La0.5TiO3"
+        },
+        "metadata": {
+            "title": "Ionic and electronic conductivity of solid electrolyte Li0.5La0.5TiO3 doped with LiO2-SiO2-B2O3 glass",
+            "publisher": "Elsevier",
+            "journal": "Journal of Alloys and Compounds",
+            "date": "2018/01/02",
+            "volume": "739",
+            "firstpage": "892",
+            "lastpage": "896",
+            "doi": "10.1016/j.jallcom.2017.12.361"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "S/cm",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "LLTO",
+                        "Li0.5La0.5TiO3"
+                    ]
+                }
+            },
+            "names": "Li0.5La0.5TiO3"
+        },
+        "metadata": {
+            "title": "Ionic and electronic conductivity of solid electrolyte Li0.5La0.5TiO3 doped with LiO2-SiO2-B2O3 glass",
+            "publisher": "Elsevier",
+            "journal": "Journal of Alloys and Compounds",
+            "date": "2018/01/02",
+            "volume": "739",
+            "firstpage": "892",
+            "lastpage": "896",
+            "doi": "10.1016/j.jallcom.2017.12.361"
+        },
+        "warning": 1
+    }
+]

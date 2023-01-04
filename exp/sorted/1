@@ -1,0 +1,868 @@
+[
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li3.8Sb0.2Sn0.8S4"
+                    ]
+                }
+            },
+            "names": "Li3.8Sb0.2Sn0.8S4"
+        },
+        "metadata": {
+            "title": "Stabilizing interface between Li10SnP2S12 and Li metal by molecular layer deposition",
+            "publisher": "Elsevier",
+            "journal": "Nano Energy",
+            "date": "2018/08/21",
+            "volume": "53",
+            "firstpage": "168",
+            "lastpage": "174",
+            "doi": "10.1016/j.nanoen.2018.08.030"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 6",
+            "raw_units": "Scm\u22121",
+            "value": 1e-06,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li2SO4"
+                    ]
+                }
+            },
+            "names": "Li2SO4"
+        },
+        "metadata": {
+            "title": "Studies on Li3AlF6 thin film deposition utilizing conversion reactions of thin films",
+            "publisher": "Elsevier",
+            "journal": "Thin Solid Films",
+            "date": "2017/05/18",
+            "volume": "636",
+            "firstpage": "26",
+            "lastpage": "33",
+            "doi": "10.1016/j.tsf.2017.05.026"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 10",
+            "raw_units": "Scm\u22121",
+            "value": 1e-10,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li7P3S11"
+                    ]
+                }
+            },
+            "names": "Li7P3S11"
+        },
+        "metadata": {
+            "title": "Na 11 Sn 2 PS 12 : a new solid state sodium superionic conductor  ",
+            "authors": [
+                "Z.\u00a0Zhang",
+                "E.\u00a0Ramos",
+                "F.\u00a0Lal\u00e8re",
+                "A.\u00a0Assoud",
+                "K.\u00a0Kaup",
+                "P.\u00a0Hartman",
+                "Linda F.\u00a0Nazar",
+                "Z.\u00a0Zhang",
+                "E.\u00a0Ramos",
+                "F.\u00a0Lal\u00e8re",
+                "A.\u00a0Assoud",
+                "K.\u00a0Kaup",
+                "P.\u00a0Hartman",
+                "Linda F.\u00a0Nazar"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Energy & Environmental Science",
+            "date": "2018/01/17",
+            "language": "en",
+            "volume": "11",
+            "issue": "1",
+            "firstpage": "87",
+            "lastpage": "93",
+            "doi": "10.1039/C7EE03083E",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2018/ee/c7ee03083e",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2018/ee/c7ee03083e"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "8.0 \u00d7 10 \u2212 5 and 1.4 \u00d7 10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.0014,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "70Li2S\u00b730P2S5"
+                    ]
+                }
+            },
+            "names": "70Li2S\u00b730P2S5"
+        },
+        "metadata": {
+            "title": "A sulphide lithium super ion conductor is superior to liquid ion conductors for use in rechargeable batteries  ",
+            "authors": [
+                "Yoshikatsu\u00a0Seino",
+                "Tsuyoshi\u00a0Ota",
+                "Kazunori\u00a0Takada",
+                "Akitoshi\u00a0Hayashi",
+                "Masahiro\u00a0Tatsumisago",
+                "Yoshikatsu\u00a0Seino",
+                "Tsuyoshi\u00a0Ota",
+                "Kazunori\u00a0Takada",
+                "Akitoshi\u00a0Hayashi",
+                "Masahiro\u00a0Tatsumisago"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Energy & Environmental Science",
+            "date": "2014/01/22",
+            "language": "en",
+            "volume": "7",
+            "issue": "2",
+            "firstpage": "627",
+            "lastpage": "631",
+            "doi": "10.1039/C3EE41655K",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/ee/c3ee41655k",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/ee/c3ee41655k"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "8.0 \u00d7 10 \u2212 5 and 1.4 \u00d7 10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.0014,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "70Li2S\u00b730P2S5"
+                    ]
+                }
+            },
+            "names": "70Li2S\u00b730P2S5"
+        },
+        "metadata": {
+            "title": "A sulphide lithium super ion conductor is superior to liquid ion conductors for use in rechargeable batteries  ",
+            "authors": [
+                "Yoshikatsu\u00a0Seino",
+                "Tsuyoshi\u00a0Ota",
+                "Kazunori\u00a0Takada",
+                "Akitoshi\u00a0Hayashi",
+                "Masahiro\u00a0Tatsumisago",
+                "Yoshikatsu\u00a0Seino",
+                "Tsuyoshi\u00a0Ota",
+                "Kazunori\u00a0Takada",
+                "Akitoshi\u00a0Hayashi",
+                "Masahiro\u00a0Tatsumisago"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Energy & Environmental Science",
+            "date": "2014/01/22",
+            "language": "en",
+            "volume": "7",
+            "issue": "2",
+            "firstpage": "627",
+            "lastpage": "631",
+            "doi": "10.1039/C3EE41655K",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/ee/c3ee41655k",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/ee/c3ee41655k"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "to 1.7 \u00d7 10 \u2212 2",
+            "raw_units": "Scm\u22121",
+            "value": 0.017,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li2S\u2013P2S5"
+                    ]
+                }
+            },
+            "names": "Li2S\u2013P2S5"
+        },
+        "metadata": {
+            "title": "A sulphide lithium super ion conductor is superior to liquid ion conductors for use in rechargeable batteries  ",
+            "authors": [
+                "Yoshikatsu\u00a0Seino",
+                "Tsuyoshi\u00a0Ota",
+                "Kazunori\u00a0Takada",
+                "Akitoshi\u00a0Hayashi",
+                "Masahiro\u00a0Tatsumisago",
+                "Yoshikatsu\u00a0Seino",
+                "Tsuyoshi\u00a0Ota",
+                "Kazunori\u00a0Takada",
+                "Akitoshi\u00a0Hayashi",
+                "Masahiro\u00a0Tatsumisago"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Energy & Environmental Science",
+            "date": "2014/01/22",
+            "language": "en",
+            "volume": "7",
+            "issue": "2",
+            "firstpage": "627",
+            "lastpage": "631",
+            "doi": "10.1039/C3EE41655K",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/ee/c3ee41655k",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/ee/c3ee41655k"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "70Li2S\u00b730P2S5"
+                    ]
+                }
+            },
+            "names": "70Li2S\u00b730P2S5"
+        },
+        "metadata": {
+            "title": "A sulphide lithium super ion conductor is superior to liquid ion conductors for use in rechargeable batteries  ",
+            "authors": [
+                "Yoshikatsu\u00a0Seino",
+                "Tsuyoshi\u00a0Ota",
+                "Kazunori\u00a0Takada",
+                "Akitoshi\u00a0Hayashi",
+                "Masahiro\u00a0Tatsumisago",
+                "Yoshikatsu\u00a0Seino",
+                "Tsuyoshi\u00a0Ota",
+                "Kazunori\u00a0Takada",
+                "Akitoshi\u00a0Hayashi",
+                "Masahiro\u00a0Tatsumisago"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Energy & Environmental Science",
+            "date": "2014/01/22",
+            "language": "en",
+            "volume": "7",
+            "issue": "2",
+            "firstpage": "627",
+            "lastpage": "631",
+            "doi": "10.1039/C3EE41655K",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2014/ee/c3ee41655k",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2014/ee/c3ee41655k"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li2Te2O5",
+                        "Li2SO4"
+                    ]
+                }
+            },
+            "names": "Li2SO4"
+        },
+        "metadata": {
+            "title": "Holistic computational structure screening of more than 12000 candidates for solid lithium-ion conductor materials  ",
+            "authors": [
+                "Austin D.\u00a0Sendek",
+                "Qian\u00a0Yang",
+                "Ekin D.\u00a0Cubuk",
+                "Karel-Alexander N.\u00a0Duerloo",
+                "Yi\u00a0Cui",
+                "Evan J.\u00a0Reed",
+                "Austin D.\u00a0Sendek",
+                "Qian\u00a0Yang",
+                "Ekin D.\u00a0Cubuk",
+                "Karel-Alexander N.\u00a0Duerloo",
+                "Yi\u00a0Cui",
+                "Evan J.\u00a0Reed"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Energy & Environmental Science",
+            "date": "2017/01/18",
+            "language": "en",
+            "volume": "10",
+            "issue": "1",
+            "firstpage": "306",
+            "lastpage": "320",
+            "doi": "10.1039/C6EE02697D",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2017/ee/c6ee02697d",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2017/ee/c6ee02697d"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li2Te2O5",
+                        "Li2SO4"
+                    ]
+                }
+            },
+            "names": "Li2SO4"
+        },
+        "metadata": {
+            "title": "Holistic computational structure screening of more than 12000 candidates for solid lithium-ion conductor materials  ",
+            "authors": [
+                "Austin D.\u00a0Sendek",
+                "Qian\u00a0Yang",
+                "Ekin D.\u00a0Cubuk",
+                "Karel-Alexander N.\u00a0Duerloo",
+                "Yi\u00a0Cui",
+                "Evan J.\u00a0Reed",
+                "Austin D.\u00a0Sendek",
+                "Qian\u00a0Yang",
+                "Ekin D.\u00a0Cubuk",
+                "Karel-Alexander N.\u00a0Duerloo",
+                "Yi\u00a0Cui",
+                "Evan J.\u00a0Reed"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Energy & Environmental Science",
+            "date": "2017/01/18",
+            "language": "en",
+            "volume": "10",
+            "issue": "1",
+            "firstpage": "306",
+            "lastpage": "320",
+            "doi": "10.1039/C6EE02697D",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2017/ee/c6ee02697d",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2017/ee/c6ee02697d"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li7P3S11"
+                    ],
+                    "roles": [
+                        "product"
+                    ]
+                }
+            },
+            "names": "Li7P3S11"
+        },
+        "metadata": {
+            "title": "Instantaneous preparation of high lithium-ion conducting sulfide solid electrolyte Li 7 P 3 S 11 by a liquid phase process ",
+            "authors": [
+                "Marcela\u00a0Calpa",
+                "Nataly Carolina\u00a0Rosero-Navarro",
+                "Akira\u00a0Miura",
+                "Kiyoharu\u00a0Tadanaga",
+                "Marcela\u00a0Calpa",
+                "Nataly Carolina\u00a0Rosero-Navarro",
+                "Akira\u00a0Miura",
+                "Kiyoharu\u00a0Tadanaga"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2017/10/02",
+            "language": "en",
+            "volume": "7",
+            "issue": "73",
+            "firstpage": "46499",
+            "lastpage": "46504",
+            "doi": "10.1039/C7RA09081A",
+            "pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2017/ra/c7ra09081a",
+            "html_url": "https://pubs.rsc.org/en/content/articlelanding/2017/ra/c7ra09081a"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li7P3S11"
+                    ],
+                    "roles": [
+                        "product"
+                    ]
+                }
+            },
+            "names": "Li7P3S11"
+        },
+        "metadata": {
+            "title": "Instantaneous preparation of high lithium-ion conducting sulfide solid electrolyte Li 7 P 3 S 11 by a liquid phase process ",
+            "authors": [
+                "Marcela\u00a0Calpa",
+                "Nataly Carolina\u00a0Rosero-Navarro",
+                "Akira\u00a0Miura",
+                "Kiyoharu\u00a0Tadanaga",
+                "Marcela\u00a0Calpa",
+                "Nataly Carolina\u00a0Rosero-Navarro",
+                "Akira\u00a0Miura",
+                "Kiyoharu\u00a0Tadanaga"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "RSC Advances",
+            "date": "2017/10/02",
+            "language": "en",
+            "volume": "7",
+            "issue": "73",
+            "firstpage": "46499",
+            "lastpage": "46504",
+            "doi": "10.1039/C7RA09081A",
+            "pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2017/ra/c7ra09081a",
+            "html_url": "https://pubs.rsc.org/en/content/articlelanding/2017/ra/c7ra09081a"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li7P3S11"
+                    ]
+                }
+            },
+            "names": "Li7P3S11"
+        },
+        "metadata": {
+            "journal": "Journal of Asian Ceramic Societies"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "specifier": "ionic conductivity",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li2S\u2013P2S5"
+                    ]
+                }
+            },
+            "names": "Li2S\u2013P2S5"
+        },
+        "metadata": {
+            "title": "High-performance all-solid-state lithium\u2013sulfur batteries with sulfur/carbon nano-hybrids in a composite cathode ",
+            "authors": [
+                "Yibo\u00a0Zhang",
+                "Ting\u00a0Liu",
+                "Qinghua\u00a0Zhang",
+                "Xue\u00a0Zhang",
+                "Shuo\u00a0Wang",
+                "Xinzhi\u00a0Wang",
+                "Liangliang\u00a0Li",
+                "Li-Zhen\u00a0Fan",
+                "Ce-Wen\u00a0Nan",
+                "Yang\u00a0Shen",
+                "Yibo\u00a0Zhang",
+                "Ting\u00a0Liu",
+                "Qinghua\u00a0Zhang",
+                "Xue\u00a0Zhang",
+                "Shuo\u00a0Wang",
+                "Xinzhi\u00a0Wang",
+                "Liangliang\u00a0Li",
+                "Li-Zhen\u00a0Fan",
+                "Ce-Wen\u00a0Nan",
+                "Yang\u00a0Shen"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2018/11/27",
+            "language": "en",
+            "volume": "6",
+            "issue": "46",
+            "firstpage": "23345",
+            "lastpage": "23356",
+            "doi": "10.1039/C8TA08420C",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2018/ta/c8ta08420c",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2018/ta/c8ta08420c"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li2S\u2013P2S5"
+                    ]
+                }
+            },
+            "names": "Li2S\u2013P2S5"
+        },
+        "metadata": {
+            "title": "In situ SEM study of a lithium deposition and dissolution mechanism in a bulk-type solid-state cell with a Li 2 S\u2013P 2 S 5 solid electrolyte  ",
+            "authors": [
+                "Motohiro\u00a0Nagao",
+                "Akitoshi\u00a0Hayashi",
+                "Masahiro\u00a0Tatsumisago",
+                "Tsukasa\u00a0Kanetsuku",
+                "Tetsuya\u00a0Tsuda",
+                "Susumu\u00a0Kuwabata",
+                "Motohiro\u00a0Nagao",
+                "Akitoshi\u00a0Hayashi",
+                "Masahiro\u00a0Tatsumisago",
+                "Tsukasa\u00a0Kanetsuku",
+                "Tetsuya\u00a0Tsuda",
+                "Susumu\u00a0Kuwabata"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Physical Chemistry Chemical Physics",
+            "date": "2013/10/09",
+            "language": "en",
+            "volume": "15",
+            "issue": "42",
+            "firstpage": "18600",
+            "lastpage": "18606",
+            "doi": "10.1039/C3CP51059J",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2013/cp/c3cp51059j",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2013/cp/c3cp51059j"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li7P3S11"
+                    ],
+                    "roles": [
+                        "product"
+                    ]
+                }
+            },
+            "names": "Li7P3S11"
+        },
+        "metadata": {
+            "title": "Preparation of Li7P3S11 glass-ceramic electrolyte by dissolution-evaporation method for all-solid-state lithium ion batteries",
+            "publisher": "Pergamon",
+            "journal": "Electrochimica Acta",
+            "date": "2016/09/30",
+            "volume": "219",
+            "firstpage": "235",
+            "lastpage": "240",
+            "doi": "10.1016/j.electacta.2016.09.155"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.5 \u00d7 10 \u2212 3 and 3.8 \u00d7 10 \u2212 3",
+            "raw_units": "mScm\u22121",
+            "value": 0.0038,
+            "units": "CentiMeter^(-1.0)  MilliSiemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li6PO5Cl"
+                    ]
+                }
+            },
+            "names": "Li6PO5Cl"
+        },
+        "metadata": {
+            "title": "A theoretical approach to address interfacial problems in all-solid-state lithium ion batteries: tuning materials chemistry for electrolyte and buffer coatings based on Li 6 PA 5 Cl hali-chalcogenides  ",
+            "authors": [
+                "Hongjie\u00a0Xu",
+                "Yuran\u00a0Yu",
+                "Zhuo\u00a0Wang",
+                "Guosheng\u00a0Shao",
+                "Hongjie\u00a0Xu",
+                "Yuran\u00a0Yu",
+                "Zhuo\u00a0Wang",
+                "Guosheng\u00a0Shao"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2019/03/05",
+            "language": "en",
+            "volume": "7",
+            "issue": "10",
+            "firstpage": "5239",
+            "lastpage": "5247",
+            "doi": "10.1039/C8TA11151K",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2019/ta/c8ta11151k",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2019/ta/c8ta11151k"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.5 \u00d7 10 \u2212 3 and 3.8 \u00d7 10 \u2212 3",
+            "raw_units": "mScm\u22121",
+            "value": 0.0038,
+            "units": "CentiMeter^(-1.0)  MilliSiemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li6PO5Cl"
+                    ]
+                }
+            },
+            "names": "Li6PO5Cl"
+        },
+        "metadata": {
+            "title": "A theoretical approach to address interfacial problems in all-solid-state lithium ion batteries: tuning materials chemistry for electrolyte and buffer coatings based on Li 6 PA 5 Cl hali-chalcogenides  ",
+            "authors": [
+                "Hongjie\u00a0Xu",
+                "Yuran\u00a0Yu",
+                "Zhuo\u00a0Wang",
+                "Guosheng\u00a0Shao",
+                "Hongjie\u00a0Xu",
+                "Yuran\u00a0Yu",
+                "Zhuo\u00a0Wang",
+                "Guosheng\u00a0Shao"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2019/03/05",
+            "language": "en",
+            "volume": "7",
+            "issue": "10",
+            "firstpage": "5239",
+            "lastpage": "5247",
+            "doi": "10.1039/C8TA11151K",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2019/ta/c8ta11151k",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2019/ta/c8ta11151k"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "10 \u2212 4",
+            "raw_units": "Scm\u22121",
+            "value": 0.0001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li3.8Sb0.2Sn0.8S4"
+                    ]
+                }
+            },
+            "names": "Li3.8Sb0.2Sn0.8S4"
+        },
+        "metadata": {
+            "title": "Li4-xSbxSn1-xS4 solid solutions for air-stable solid electrolytes",
+            "publisher": "Elsevier",
+            "journal": "Journal of Energy Chemistry",
+            "date": "2019/05/29",
+            "volume": "41",
+            "firstpage": "171",
+            "lastpage": "176",
+            "doi": "10.1016/j.jechem.2019.05.015"
+        },
+        "warning": 1
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "to 1 \u00d7 10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li7P3S11"
+                    ]
+                }
+            },
+            "names": "Li7P3S11"
+        },
+        "metadata": {
+            "title": "Preparation of sulfide solid electrolytes in the Li 2 S\u2013P 2 S 5 system by a liquid phase process  ",
+            "authors": [
+                "Marcela\u00a0Calpa",
+                "Nataly Carolina\u00a0Rosero-Navarro",
+                "Akira\u00a0Miura",
+                "Kiyoharu\u00a0Tadanaga",
+                "Marcela\u00a0Calpa",
+                "Nataly Carolina\u00a0Rosero-Navarro",
+                "Akira\u00a0Miura",
+                "Kiyoharu\u00a0Tadanaga"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Inorganic Chemistry Frontiers",
+            "date": "2018/02/13",
+            "language": "en",
+            "volume": "5",
+            "issue": "2",
+            "firstpage": "501",
+            "lastpage": "508",
+            "doi": "10.1039/C7QI00737J",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2018/qi/c7qi00737j",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2018/qi/c7qi00737j"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "to 1 \u00d7 10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.001,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li7P3S11"
+                    ]
+                }
+            },
+            "names": "Li7P3S11"
+        },
+        "metadata": {
+            "title": "Preparation of sulfide solid electrolytes in the Li 2 S\u2013P 2 S 5 system by a liquid phase process  ",
+            "authors": [
+                "Marcela\u00a0Calpa",
+                "Nataly Carolina\u00a0Rosero-Navarro",
+                "Akira\u00a0Miura",
+                "Kiyoharu\u00a0Tadanaga",
+                "Marcela\u00a0Calpa",
+                "Nataly Carolina\u00a0Rosero-Navarro",
+                "Akira\u00a0Miura",
+                "Kiyoharu\u00a0Tadanaga"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Inorganic Chemistry Frontiers",
+            "date": "2018/02/13",
+            "language": "en",
+            "volume": "5",
+            "issue": "2",
+            "firstpage": "501",
+            "lastpage": "508",
+            "doi": "10.1039/C7QI00737J",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2018/qi/c7qi00737j",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2018/qi/c7qi00737j"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.3 \u00d7 10 \u2212 3 to 4.1 \u00d7 10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.0040999999999999995,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li7P3S11"
+                    ]
+                }
+            },
+            "names": "Li7P3S11"
+        },
+        "metadata": {
+            "title": "Analysis of the structure and degree of crystallisation of 70Li 2 S\u201330P 2 S 5 glass ceramic  ",
+            "authors": [
+                "Yoshikatsu\u00a0Seino",
+                "Masaru\u00a0Nakagawa",
+                "Minoru\u00a0Senga",
+                "Hiroyuki\u00a0Higuchi",
+                "Kazunori\u00a0Takada",
+                "Takayoshi\u00a0Sasaki",
+                "Yoshikatsu\u00a0Seino",
+                "Masaru\u00a0Nakagawa",
+                "Minoru\u00a0Senga",
+                "Hiroyuki\u00a0Higuchi",
+                "Kazunori\u00a0Takada",
+                "Takayoshi\u00a0Sasaki"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2015/01/27",
+            "language": "en",
+            "volume": "3",
+            "issue": "6",
+            "firstpage": "2756",
+            "lastpage": "2761",
+            "doi": "10.1039/C4TA04332D",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ta/c4ta04332d",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ta/c4ta04332d"
+        }
+    },
+    {
+        "BatteryConductivity": {
+            "raw_value": "2.3 \u00d7 10 \u2212 3 to 4.1 \u00d7 10 \u2212 3",
+            "raw_units": "Scm\u22121",
+            "value": 0.0040999999999999995,
+            "units": "CentiMeter^(-1.0)  Siemens^(1.0)",
+            "compound": {
+                "Compound": {
+                    "names": [
+                        "Li7P3S11"
+                    ]
+                }
+            },
+            "names": "Li7P3S11"
+        },
+        "metadata": {
+            "title": "Analysis of the structure and degree of crystallisation of 70Li 2 S\u201330P 2 S 5 glass ceramic  ",
+            "authors": [
+                "Yoshikatsu\u00a0Seino",
+                "Masaru\u00a0Nakagawa",
+                "Minoru\u00a0Senga",
+                "Hiroyuki\u00a0Higuchi",
+                "Kazunori\u00a0Takada",
+                "Takayoshi\u00a0Sasaki",
+                "Yoshikatsu\u00a0Seino",
+                "Masaru\u00a0Nakagawa",
+                "Minoru\u00a0Senga",
+                "Hiroyuki\u00a0Higuchi",
+                "Kazunori\u00a0Takada",
+                "Takayoshi\u00a0Sasaki"
+            ],
+            "publisher": "Royal Society of Chemistry",
+            "journal": "Journal of Materials Chemistry A",
+            "date": "2015/01/27",
+            "language": "en",
+            "volume": "3",
+            "issue": "6",
+            "firstpage": "2756",
+            "lastpage": "2761",
+            "doi": "10.1039/C4TA04332D",
+            "pdf_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlepdf/2015/ta/c4ta04332d",
+            "html_url": "https://pubs-rsc-org-ssl.openlink.ssu.ac.kr:8443/en/content/articlelanding/2015/ta/c4ta04332d"
+        }
+    }
+]

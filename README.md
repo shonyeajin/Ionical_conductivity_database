@@ -38,4 +38,6 @@
  3. How to acquire an reconstructed battery database: download [ion.xlsx](https://docs.google.com/spreadsheets/d/1-PSomuy72Uuq60BRBLPKHGbQ0gNBosEz/edit?usp=sharing&ouid=100763551141257878367&rtpof=true&sd=true)
 
 
- 4. How to visualize the distribution of data: run exp/experiment.py
+ 4. How to visualize the distribution of data: 
+   - download [battery.json](https://drive.google.com/file/d/1uGynZkAmpc1oD6DebRfXC0EKX3VFIDEB/view?usp=sharing) and put it in exp/ directory
+   - run exp/experiment.py

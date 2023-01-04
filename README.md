@@ -40,5 +40,5 @@
 
  4. How to visualize the distribution of data: 
  
-    - download [battery.json](https://drive.google.com/file/d/1uGynZkAmpc1oD6DebRfXC0EKX3VFIDEB/view?usp=sharing) and put it in exp/
-    - run exp/experiment.py
+    - Download [battery.json](https://drive.google.com/file/d/1uGynZkAmpc1oD6DebRfXC0EKX3VFIDEB/view?usp=sharing) and put it in exp/
+    - Run exp/experiment.py
